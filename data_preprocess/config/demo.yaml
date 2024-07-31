@@ -1,0 +1,26 @@
+DataSource:
+  data1:
+    file_path: /mnt/pfs/gaoshaojun/data/large_scale_data/alpaca-hh-gpt4-zh/RMRAW0001_HHHarmInstructZH_chatGPT生成_HHHarmv1_20230324.json
+    parser: large_scale
+    cleaner: base
+    sample_num: 10000
+    # 同时出现，ratio和num时；以sample_num优先
+    shuffle: True
+  
+  data2:
+    file_path: /mnt/pfs/gaoshaojun/data/hhharm_chatgpt/data_history_train_RMRAW0001_HHHarmInstructZH_chatGPT.json
+    parser: glm_history
+    cleaner: base
+    sample_ratio: 0.2
+    shuffle: True
+
+DataDump:
+  format: large_scale
+  # 可选的format：large_scale, glm_history
+  generate_bin: True
+  # 如果generate_bin是True，则必须要有tokenize_recipe_path
+  tokenize_recipe_path: /mnt/pfs/cgd/workspace/projects/largescale/local/preprocess_data.sh
+  tokenizer_type: sft
+  # tokenizer type: sft 或者 pretrain
+  output_dir: /mnt/pfs/gaoshaojun/sft_data_engine/data_preprocess/tmp
+  prefix: demo_trn

@@ -1,0 +1,36 @@
+Inference:
+  infer_type: glm-6b #glm-130b or glm-6b
+  model_path: /mnt/pfs/jinfeng_team/SFT/dengshuhao1/exp/ChatGLM-6B_largescale/multi_Quertion-v1/global_step11 
+  work_dir: ./
+  infer_script: test_glm6b.sh 
+  out_dir: tmp1/multi_Quertion-v1_global_step11 
+  num_gpu: 8
+  max_length: 2048
+
+TestSet:
+  Multi_Quertion_2:
+    prefix: multi_Quertion_2
+    6b_json_path: general/C-Eval-multi_Quertion/ceval_all_no_shot_v3_middle_school_mathematics_MQ2.jsonl
+    6b_test_script: general/C-Eval-multi_Quertion/eval.py
+    temperature: 0.01
+
+  Multi_Quertion_3:
+    prefix: multi_Quertion_3
+    6b_json_path: general/C-Eval-multi_Quertion/ceval_all_no_shot_v3_middle_school_mathematics_MQ3.jsonl
+    6b_test_script: general/C-Eval-multi_Quertion/eval.py
+    temperature: 0.01
+    
+  Multi_Quertion_4:
+    prefix: multi_Quertion_4
+    6b_json_path: general/C-Eval-multi_Quertion/ceval_all_no_shot_v3_middle_school_mathematics_MQ4.jsonl
+    6b_test_script: general/C-Eval-multi_Quertion/eval.py
+    temperature: 0.01
+
+  Multi_Quertion_5:
+    prefix: multi_Quertion_5
+    6b_json_path: general/C-Eval-multi_Quertion/ceval_all_no_shot_v3_middle_school_mathematics_MQ5.jsonl
+    6b_test_script: general/C-Eval-multi_Quertion/eval.py
+    temperature: 0.01
+  
+   
+

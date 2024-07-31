@@ -1,0 +1,118 @@
+Inference:
+  infer_type: glm-6b #glm-130b or glm-6b
+  model_path: /mnt/pfs/jinfeng_team/SFT/share/models/release-model/SFT_6B_v0.8/global_step35150 
+  work_dir: ./
+  infer_script: test_glm6b_multi_turn.sh 
+  out_dir: tmp1/SFT_6B_v0.8-global_step35150
+  num_gpu: 8
+  max_length: 1024
+
+TestSet:
+   Math-401-valid-round-2_math:
+     prefix: Math401-round-2_math
+     6b_json_path: general/Multi_turn_Independent/math401/math401_v3_round_2_math.jsonl
+     6b_test_script: general/Multi_turn_Independent/math401/eval.py
+     temperature: 0.01
+
+   Math-401-valid-round-3_math:
+     prefix: Math401-round-3_math
+     6b_json_path: general/Multi_turn_Independent/math401/math401_v3_round_3_math.jsonl
+     6b_test_script: general/Multi_turn_Independent/math401/eval.py
+     temperature: 0.01
+
+   Math-401-valid-round-4_math:
+     prefix: Math401-round-4_math
+     6b_json_path: general/Multi_turn_Independent/math401/math401_v3_round_4_math.jsonl
+     6b_test_script: general/Multi_turn_Independent/math401/eval.py
+     temperature: 0.01
+
+   C-Eval-valid-round-2_math:
+     prefix: C-Eval-valid-2_math
+     6b_json_path: general/Multi_turn_Independent/c-eval/ceavl_val_v3_rounds_2_math.jsonl 
+     6b_test_script: general/Multi_turn_Independent/c-eval/eval.py
+     temperature: 0.01
+
+   C-Eval-valid-round-3_math:
+     prefix: C-Eval-valid-3_math
+     6b_json_path: general/Multi_turn_Independent/c-eval/ceavl_val_v3_rounds_3_math.jsonl 
+     6b_test_script: general/Multi_turn_Independent/c-eval/eval.py
+     temperature: 0.01
+
+   C-Eval-valid-round-4_math:
+     prefix: C-Eval-valid-4_math
+     6b_json_path: general/Multi_turn_Independent/c-eval/ceavl_val_v3_rounds_4_math.jsonl 
+     6b_test_script: general/Multi_turn_Independent/c-eval/eval.py
+     temperature: 0.01
+
+   Math-401-valid-round-2_subject:
+     prefix: Math401-round-2_subject
+     6b_json_path: general/Multi_turn_Independent/math401/math401_v3_round_2_subject.jsonl
+     6b_test_script: general/Multi_turn_Independent/math401/eval.py
+     temperature: 0.01
+
+   Math-401-valid-round-3_subject:
+     prefix: Math401-round-3_subject
+     6b_json_path: general/Multi_turn_Independent/math401/math401_v3_round_3_subject.jsonl
+     6b_test_script: general/Multi_turn_Independent/math401/eval.py
+     temperature: 0.01
+
+   Math-401-valid-round-4_subject:
+     prefix: Math401-round-4_subject
+     6b_json_path: general/Multi_turn_Independent/math401/math401_v3_round_4_subject.jsonl
+     6b_test_script: general/Multi_turn_Independent/math401/eval.py
+     temperature: 0.01
+
+   C-Eval-valid-round-2_subject:
+     prefix: C-Eval-valid-2_subject
+     6b_json_path: general/Multi_turn_Independent/c-eval/ceavl_val_v3_rounds_2_subject.jsonl
+     6b_test_script: general/Multi_turn_Independent/c-eval/eval.py
+     temperature: 0.01
+
+   C-Eval-valid-round-3_subject:
+     prefix: C-Eval-valid-3_subject
+     6b_json_path: general/Multi_turn_Independent/c-eval/ceavl_val_v3_rounds_3_subject.jsonl
+     6b_test_script: general/Multi_turn_Independent/c-eval/eval.py
+     temperature: 0.01
+
+   C-Eval-valid-round-4_subject:
+     prefix: C-Eval-valid-4_subject
+     6b_json_path: general/Multi_turn_Independent/c-eval/ceavl_val_v3_rounds_4_subject.jsonl
+     6b_test_script: general/Multi_turn_Independent/c-eval/eval.py
+     temperature: 0.01
+
+   Math-401-valid-round-2_general:
+     prefix: Math401-round-2_general
+     6b_json_path: general/Multi_turn_Independent/math401/math401_v3_round_2_general.jsonl
+     6b_test_script: general/Multi_turn_Independent/math401/eval.py
+     temperature: 0.01
+
+   Math-401-valid-round-3_general:
+     prefix: Math401-round-3_general
+     6b_json_path: general/Multi_turn_Independent/math401/math401_v3_round_3_general.jsonl
+     6b_test_script: general/Multi_turn_Independent/math401/eval.py
+     temperature: 0.01
+
+   Math-401-valid-round-4_general:
+     prefix: Math401-round-4_general
+     6b_json_path: general/Multi_turn_Independent/math401/math401_v3_round_4_general.jsonl
+     6b_test_script: general/Multi_turn_Independent/math401/eval.py
+     temperature: 0.01
+
+   C-Eval-valid-round-2_general:
+     prefix: C-Eval-valid-2_general
+     6b_json_path: general/Multi_turn_Independent/c-eval/ceavl_val_v3_rounds_2_general.jsonl
+     6b_test_script: general/Multi_turn_Independent/c-eval/eval.py
+     temperature: 0.01
+
+   C-Eval-valid-round-3_general:
+     prefix: C-Eval-valid-3_general
+     6b_json_path: general/Multi_turn_Independent/c-eval/ceavl_val_v3_rounds_3_general.jsonl
+     6b_test_script: general/Multi_turn_Independent/c-eval/eval.py
+     temperature: 0.01
+
+   C-Eval-valid-round-4_general:
+     prefix: C-Eval-valid-4_general
+     6b_json_path: general/Multi_turn_Independent/c-eval/ceavl_val_v3_rounds_4_general.jsonl
+     6b_test_script: general/Multi_turn_Independent/c-eval/eval.py
+     temperature: 0.01
+

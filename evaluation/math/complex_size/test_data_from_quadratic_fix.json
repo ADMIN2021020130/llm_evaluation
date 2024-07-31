@@ -1,0 +1,500 @@
+{"id": "7BFnbvBmNU3CchvMtdgAS2", "prompt": "(85 * 1880  - 16 * 8135) / (85 * 6 - 16)", "response": "60", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jVeUPScoLjE2P3VBZg9MZF", "prompt": "(90 * 2340  - 5 * 5070) / (90 * 44 - 5 * 51)", "response": "50", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "U8hPUPV3MF5gYNWcsKzw2G", "prompt": "(9842  - 98 * 92) / 59", "response": "14 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "TsUCgLPMcAQZ9PeeqW5Bpc", "prompt": "(23 * 1381  - 3 * 9813) / (23 * 14 - 3 * 98)", "response": "83", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "NEAuNn8hrNCNWRhHWxezLs", "prompt": "(36 * 5014  - 89 * 5136) / (36 * 45 - 89 * 70)", "response": "60", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "EtckA3QG7RZp9xDbRU6qot", "prompt": "(9179  - 68 * 28) / 75", "response": "97 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RqvRLHXyjXhCmQpowQ8TNJ", "prompt": "(32 * 9179  - 75 * 4672) / (32 * 68 - 75 * 56)", "response": "28", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "CV8YpFeQcZY74zzJRJxRhD", "prompt": "(26 * 217  - 21 * 503) / (26 * 19 - 21 * 57)", "response": "7", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dXJPNPKDDRmK25AMvNTnks", "prompt": "(7032  - 33 * 76) / 78", "response": "58 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Gs2fUqf7nr5VLoMSKYzBBB", "prompt": "(5716  - 39 * 16) / 67", "response": "76 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "mtQbEM2jBF5oUdGCmeXmWU", "prompt": "(2599  - 33 * 55) / 14", "response": "56 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "c3Zw8km3UTjcTzRVSbRWoN", "prompt": "(1299  - 6 * 64) / 15", "response": "61 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RN8xePdMfMMUEZGYTHwu6o", "prompt": "(416  - 9 * 38) / 74", "response": "1 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "G59uyz7cJ5xwmqeR6HmieU", "prompt": "(2195  - 19 * 9) / 22", "response": "92 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dHNrnJMXEiF38eLK3SkDzx", "prompt": "(43 * 2774  - 58 * 1669) / (43 * 36 - 58 * 17)", "response": "40", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "b7Z6ZNKKz6MAB9GKhHJneP", "prompt": "(4766  - 97 * 28) / 25", "response": "82 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "duF22f5NddJo4g3wxgqnyV", "prompt": "(8448  - 94 * 60) / 78", "response": "36 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "mDC8PjtRvAVQnSDPvcigvo", "prompt": "(63 * 2067  - 2 * 7125) / (63 * 21 - 2 * 38)", "response": "93", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jUvykGugDd6HNDzCMLEt8b", "prompt": "(62 * 6648  - 65 * 6006) / (62 * 68 - 65 * 9)", "response": "6", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "5TQAjAEk6Jo8XLtdj7RTcy", "prompt": "(21 * 6920  - 55 * 5928) / (21 * 17 - 55 * 43)", "response": "90", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Pv6jLaXUTm79dJKc9dWd2A", "prompt": "(3872  - 24 * 44) / 32", "response": "88 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KzE4anSDm5BfzSoKZ59n4B", "prompt": "(5275  - 23 * 29) / 48", "response": "96 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "HRR2vtjutsL6sVfbfPwPgy", "prompt": "(4561  - 39 * 29) / 49", "response": "70 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XtH5PpLYMZu7cfj7WGDRAW", "prompt": "(5326  - 40 * 4) / 82", "response": "63 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "c2wyUAxeVEJ5wLseYvnFFg", "prompt": "(2 * 763  - 7 * 1058) / (2 * 35 - 7 * 52)", "response": "20", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "CTGSEh8Qk7GzyfYj3G9asg", "prompt": "(48 * 1297  - 62 * 1158) / (48 * 61 - 62 * 78)", "response": "5", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2tePGY8NhbB2z4SHAqMftd", "prompt": "(2150  - 30 * 13) / 55", "response": "32 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "YbsQAvb5KSYR69w8ZEYmsM", "prompt": "(14 * 1831  - 60 * 5115) / (14 * 13 - 60 * 73)", "response": "67", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "L3t5ickqH5fCJXxgpHu9xb", "prompt": "(84 * 2184  - 19 * 6624) / (84 * 18 - 19 * 48)", "response": "96", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "9kErHjTcxyKGMBCTnofDoN", "prompt": "(3894  - 41 * 94) / 5", "response": "8 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "5NHDkVi7fW9yPzf97LHYvD", "prompt": "(85 * 487  - 7732) / (85 * 9 - 78)", "response": "49", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "X6TD4CoXp2Z3u8DGgqQ9Xh", "prompt": "(3561  - 2 * 48) / 35", "response": "99 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZskP3B9Gxe6b9YjtC4dgpe", "prompt": "(7614  - 86 * 85) / 8", "response": "38 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "AH5xnjNNnMrWjFXQK4SxnG", "prompt": "(63 * 2680  - 9 * 3808) / (63 * 79 - 9 * 19)", "response": "28", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Bss9XQMN3cHRVxCCoPJuEQ", "prompt": "(43 * 4561  - 49 * 4953) / (43 * 39 - 49 * 67)", "response": "29", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "YPRYBuTpBtRBNRNJy8u9mE", "prompt": "(70 * 5675  - 25 * 8300) / (70 * 49 - 25 * 36)", "response": "75", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "o5bdLW7tEcrD2tSTo6p7Ek", "prompt": "(94 * 7095  - 4 * 10524) / (94 * 77 - 4 * 14)", "response": "87", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "CP4jPtBYEEJzVw6DaTqXAg", "prompt": "(8406  - 84 * 69) / 30", "response": "87 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BNs5uV8Q8LSDPUHkPLXhwX", "prompt": "(3342  - 43 * 76) / 74", "response": "1 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "nCWzw7mf2wuJNUeCFpk2vQ", "prompt": "(13 * 12510  - 50 * 9192) / (13 * 98 - 50 * 88)", "response": "95", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "NDHzM4koQD4nVvR2xkrkaq", "prompt": "(67 * 7974  - 39 * 6242) / (67 * 93 - 39 * 59)", "response": "74", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4KHCYoenqm3HMQQbQPh7VE", "prompt": "(5295  - 99 * 51) / 41", "response": "6 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "N2xfDTQgdtBb94tUXZroYv", "prompt": "(1880  - 6 * 60) / 16", "response": "95 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "SbP6aoPUxgkA6NVVcyZz5C", "prompt": "(8672  - 94 * 86) / 98", "response": "6 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "QPmVSaXTkihfkhBzvbqJGk", "prompt": "(4837  - 77 * 29) / 42", "response": "62 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RjDJ6ZfoByUNSiEjaqvAYd", "prompt": "(4606  - 59 * 54) / 71", "response": "20 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "WyuTQWHC6YoYjd8xSihxVg", "prompt": "(84 * 2127  - 3 * 2628) / (84 * 43 - 3 * 18)", "response": "48", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "CwCvWok8oVLNoGWPGmnBjy", "prompt": "(1019  - 6 * 25) / 79", "response": "11 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "gRqBUDJqqwpkRxDZRDun8w", "prompt": "(2992  - 60 * 41) / 38", "response": "14 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "EdGER7PrwTFVqoECkzqJV4", "prompt": "(3219  - 30 * 98) / 31", "response": "9 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZuHRmFK5W3qFLCiJPxN5Rd", "prompt": "(3295  - 37 * 67) / 34", "response": "24 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fuETrtwGvTw2gat9ynum3A", "prompt": "(70 * 3661  - 91 * 3297) / (70 * 14 - 91 * 21)", "response": "47", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cjhk5jD3o3A5udoBkvJjfT", "prompt": "(40 * 6235  - 34 * 6417) / (40 * 89 - 34 * 91)", "response": "67", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "DJdajz39e5pDFqscsbgC7X", "prompt": "(24 * 7862  - 67 * 2341) / (24 * 92 - 67 * 5)", "response": "17", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "D9pK4c3d4JTEsWKNL88o5o", "prompt": "(2068  - 42 * 12) / 23", "response": "68 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "mJ9kER9fLJFkDBS7NGTrQB", "prompt": "(84 * 6015  - 35 * 10112) / (84 * 60 - 35 * 50)", "response": "46", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UB99VfwRhMiacmrKSoLibQ", "prompt": "(22 * 8633  - 65 * 2860) / (22 * 53 - 65 * 17)", "response": "66", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fyFR8khoHaVuc3anhM5QGL", "prompt": "(36 * 7193  - 63 * 5726) / (36 * 61 - 63 * 97)", "response": "26", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cPVTjNFjz3wNwd4GuhoKui", "prompt": "(59 * 6350  - 46 * 5875) / (59 * 54 - 46 * 39)", "response": "75", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Zx89usnGF9ko5nBYBvVo3x", "prompt": "(275  - 25 * 5) / 50", "response": "3 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "mX3X8xn5g5euqytWkDhkWv", "prompt": "(7727  - 91 * 29) / 53", "response": "96 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Vpu4K7eGtTcQdXatexRxhG", "prompt": "(94 * 1264  - 44 * 2192) / (94 * 86 - 44 * 99)", "response": "6", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KzkufkfyeRTbr8FUjcSH3r", "prompt": "(5586  - 6 * 70) / 63", "response": "82 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2N3xdQZxkuN3AGTxcpqLoF", "prompt": "(6920  - 17 * 90) / 55", "response": "98 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KYJVy8ArpnDyyVRBoakvbV", "prompt": "(96 * 8729  - 92 * 9203) / (96 * 85 - 92 * 91)", "response": "41", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dFTkT6zRsMmccTVDAPLM84", "prompt": "(1976  - 7 * 78) / 65", "response": "22 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KymzJHpdBKUrEm6MHtRZ5g", "prompt": "(77 * 2526  - 42 * 3303) / (77 * 75 - 42 * 96)", "response": "32", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "iP758875yhVygjczdgikGZ", "prompt": "(30 * 5804  - 56 * 1358) / (30 * 86 - 56 * 8)", "response": "46", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "PHw3z8FhMcNPaBUibqqs2J", "prompt": "(50 * 5260  - 88 * 6334) / (50 * 42 - 88 * 58)", "response": "98", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "34pPL6KKypNAa6Vf2qi3Rv", "prompt": "(39 * 1533  - 70 * 857) / (39 * 89 - 70 * 50)", "response": "7", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XV9RUdbiVjSgcAJWBmPMvY", "prompt": "(5313  - 51 * 91) / 7", "response": "96 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "6aKb2VkctrbP9bGY3xmE4e", "prompt": "(2976  - 64 * 25) / 43", "response": "32 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2r5qSvLgYYkepdEXWxTAva", "prompt": "(9418  - 74 * 83) / 78", "response": "42 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RZKqUnsspTmm9QMiwqQwdL", "prompt": "(55 * 2873  - 65 * 6523) / (55 * 39 - 65 * 99)", "response": "62", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "i36o2SYoYsVrTaDuvNmAQg", "prompt": "(97 * 3894  - 5 * 6040) / (97 * 41 - 5 * 56)", "response": "94", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KnYYkbP3ZnehjoP7drBvND", "prompt": "(2656  - 17 * 14) / 62", "response": "39 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "QEdZZzoE94FBKBEx6jsLic", "prompt": "(6487  - 41 * 3) / 74", "response": "86 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fFXeFCCeF5ARRDVUyrVyTZ", "prompt": "(7413  - 91 * 5) / 98", "response": "71 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "hEM9sFsdBfkpF9cd9rFiMd", "prompt": "(6750  - 81 * 52) / 47", "response": "54 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UG3hCBcgEABEbPyKc5Jw7r", "prompt": "(11 * 6224  - 94 * 3789) / (11 * 38 - 94 * 36)", "response": "97", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "LQD3i27A3n8F7HCBeNN2cF", "prompt": "(4 * 6958  - 74 * 588) / (4 * 92 - 74 * 8)", "response": "70", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "SarUrs9qWXhzUJpG7JpALS", "prompt": "(38 * 2573  - 70 * 1463) / (38 * 53 - 70 * 95)", "response": "1", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8xt22qw436mSfbBtxujnDc", "prompt": "(2526  - 75 * 32) / 42", "response": "3 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8UCW79a7dAXcnhgmSxyW9Z", "prompt": "(24 * 2809  - 11 * 2878) / (24 * 47 - 11 * 17)", "response": "38", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2f5mpfaAaLYaR9oMysCWD9", "prompt": "(36 * 909  - 14 * 3231) / (36 * 13 - 14 * 93)", "response": "15", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4XkJPPkGPLiJ6GmKXZk6yG", "prompt": "(80 * 7168  - 28 * 4128) / (80 * 64 - 28 * 16)", "response": "98", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Sykr4uZKUGzEsk5yqAzpyA", "prompt": "(7168  - 64 * 98) / 28", "response": "32 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "FiRVbTgEw8EXvQTy3ZnikY", "prompt": "(28 * 4563  - 66 * 4464) / (28 * 75 - 66 * 88)", "response": "45", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "X9rYeDe7A3eXwcaLiQDYK3", "prompt": "(2190  - 25 * 72) / 13", "response": "30 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "C7hQ6BLJRb9HzTCw5nmBZk", "prompt": "(3478  - 85 * 14) / 88", "response": "26 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "PrbaWJqknUeFxonQm5aSNQ", "prompt": "(44 * 1776  - 2 * 1528) / (44 * 90 - 2 * 4)", "response": "19", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3PKN6bNMbSf6vR5SKPo95P", "prompt": "(10736  - 86 * 34) / 93", "response": "84 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cSw5dCZ4HXEif4nRGeDNfM", "prompt": "(6489  - 58 * 86) / 79", "response": "19 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "nTrVm8KyQHM8rRnKXVh37i", "prompt": "(8 * 5790  - 75 * 3800) / (8 * 90 - 75 * 98)", "response": "36", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "WatQhjHn5P96jCHC7nDK7F", "prompt": "(61 * 7592  - 46 * 6746) / (61 * 80 - 46 * 27)", "response": "42", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "aHgxZUA8ipF4gQLgm7XtxD", "prompt": "(2722  - 24 * 93) / 5", "response": "98 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "mcS5c8nU4F3DsQjcFYuyW2", "prompt": "(2680  - 79 * 28) / 9", "response": "52 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "eeRr6RgygN9T5vzhokjdwY", "prompt": "(77 * 2451  - 48 * 5598) / (77 * 39 - 48 * 94)", "response": "53", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "7NU3bvDvQBRjNXW3QZ5Ygp", "prompt": "(55 * 2784  - 16 * 3545) / (55 * 96 - 16 * 89)", "response": "25", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ifKT8t3dkiimkeTUDVHFe7", "prompt": "(49 * 2290  - 13 * 5517) / (49 * 61 - 13 * 66)", "response": "19", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "c66f26YkhhPjws659AadUp", "prompt": "(5260  - 52 * 97) / 24", "response": "9 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "eEb5zSf9S5BpL2Uc7jiSGT", "prompt": "(944  - 41 * 16) / 48", "response": "6 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "VoVdYqbuSTbdYRGWpuXTE2", "prompt": "(12 * 834  - 3 * 3696) / (12 * 14 - 3 * 64)", "response": "45", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "gwiAW8BbGYwDnPc4Fcs6nd", "prompt": "(21 * 11170  - 93 * 4882) / (21 * 67 - 93 * 52)", "response": "64", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2tLoSPoRbcL43vFPxQL6dw", "prompt": "(1699  - 7 * 85) / 24", "response": "46 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Yj8qtLqs9LYEuTnQ6Ehtdn", "prompt": "(2290  - 61 * 19) / 13", "response": "87 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2Y5kKsKbebLVUf5nmNhaSP", "prompt": "(12 * 7597  - 44 * 3561) / (12 * 73 - 44 * 53)", "response": "45", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "98zgfu3rGrexN2oPJVxNDa", "prompt": "(99 * 3786  - 79 * 5661) / (99 * 42 - 79 * 73)", "response": "45", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "mirzi8U8e2cL3qEfpkwTaS", "prompt": "(52 * 8381  - 51 * 7499) / (52 * 68 - 51 * 55)", "response": "73", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "7tby4u38XYabTjFKAVQJBb", "prompt": "(765  - 40 * 273) / (9 - 40 * 51)", "response": "5", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2EJysXXFcc9tpjuV7PDGbP", "prompt": "1984  - 26 * 75", "response": "34 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Ri67oXAzHYSc5q2sHT6Uye", "prompt": "(1379  - 71 * 4) / 73", "response": "15 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "b3pENB6WDtksFbDs2FFeDB", "prompt": "(4905  - 88 * 33) / 69", "response": "29 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZTQc9QbZu6qzQZAZG3tSM5", "prompt": "(4 * 16973  - 86 * 8272) / (4 * 95 - 86 * 80)", "response": "99", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Ts3JntpwUdN34jh2kw2wMB", "prompt": "(15 * 615  - 3 * 563) / (15 * 36 - 3 * 23)", "response": "16", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "TzQLhEs9M48gwd26XpaGS7", "prompt": "(12 * 2417  - 59 * 92) / (12 * 40 - 59)", "response": "56", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "hKLAuLwbxnDjyRJLpGhqD5", "prompt": "(57 * 9418  - 78 * 4469) / (57 * 74 - 78 * 25)", "response": "83", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4NLi2drhGpfzzDYrkJCijj", "prompt": "(49 * 6096  - 16 * 4077) / (49 * 64 - 16 * 4)", "response": "76", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "E5Sgsj262F24U8EP5nnJjG", "prompt": "(11170  - 67 * 64) / 93", "response": "74 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GrmrWoDGsCm8ThgPQTPNdB", "prompt": "(1737  - 40 * 3) / 21", "response": "77 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jScHsfAbvADj8yZeGxY6Vb", "prompt": "(4035  - 73 * 55) / 10", "response": "2 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ny8gzbAQa6dVxNqw2TbjKH", "prompt": "(38 * 5208  - 44 * 4232) / (38 * 36 - 44 * 28)", "response": "86", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "n4MRW2c9dCLAmgcvF3FFPu", "prompt": "(9914  - 71 * 54) / 95", "response": "64 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "c8hvZVToqH86mhxASMLBVm", "prompt": "(2001  - 14 * 60) / 43", "response": "27 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "c3GkAqYi8FkW4pRAhiKLcJ", "prompt": "(4076  - 59 * 8) / 68", "response": "53 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "emeGYRgEcbkn8KfKEkjifm", "prompt": "(5675  - 49 * 75) / 25", "response": "80 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "YEwNYdhQxKFkovALC6xqrr", "prompt": "(1745  - 17 * 93) / 41", "response": "4 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BPVgZ2JSdT8wRdqP4eqTSr", "prompt": "(31 * 6489  - 79 * 1019) / (31 * 58 - 79 * 5)", "response": "86", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZNz5Jw7jqRdAjaW6gByEYE", "prompt": "(27 * 8642  - 43 * 8753) / (27 * 77 - 43 * 98)", "response": "67", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "V4GCRS7LSjWVdaVHy4LwGW", "prompt": "(1776  - 90 * 19) / 2", "response": "33 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "f3gsH7yyhov2KCtAqUXhRf", "prompt": "(6428  - 46 * 71) / 62", "response": "51 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "9dE2i4ESxJCrJHDQejZmDy", "prompt": "(47 * 4458  - 3 * 5489) / (47 * 78 - 3 * 93)", "response": "57", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "MzpxRZpHAfixuVPmhUHkr9", "prompt": "(69 * 5349  - 71 * 3475) / (69 * 66 - 71 * 31)", "response": "52", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4oP8S3GCxiv7LMvvMo3SsY", "prompt": "(1342  - 32 * 17) / 14", "response": "57 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "HLeTNhWmmhKN4grzWj3hT5", "prompt": "(4144  - 96 * 34) / 22", "response": "40 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UEoXPwTohuDsvG9G5wet4J", "prompt": "(2774  - 36 * 40) / 58", "response": "23 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UAroRNnnEQMPzMAA2cKpxZ", "prompt": "(2528  - 32 * 72) / 16", "response": "14 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "75Vv8kWtMS9ZeHSW2t75vH", "prompt": "(6156  - 69 * 68) / 61", "response": "24 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "TRUyQ2eSqbtTffe6t8Arfa", "prompt": "(11741  - 86 * 91) / 45", "response": "87 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2RTWqurfpbxdCE7FsXtk8s", "prompt": "(75 * 2729  - 94 * 5512) / (75 * 25 - 94 * 88)", "response": "49", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jzMhwrz2Mnq9MwSVAViUxp", "prompt": "(53 * 1440  - 84 * 3107) / (53 * 27 - 84 * 67)", "response": "44", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "j8YsBv2KHq8oTNhZC86mJ2", "prompt": "(90 * 6525  - 81 * 6289) / (90 * 72 - 81 * 49)", "response": "31", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "JkQ9ZiG3g9vGD2JFEaDaKD", "prompt": "(40 * 2076  - 16 * 3610) / (40 * 20 - 16 * 30)", "response": "79", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dEavuXBLufhqVxP5GfgpDF", "prompt": "(7002  - 10 * 12) / 74", "response": "93 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "eo4qV7qbLKDCy36VggCd7i", "prompt": "(86 * 8364  - 66 * 7886) / (86 * 75 - 66 * 26)", "response": "42", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "A3G7BTFKT6bzJG2EBpu8Lq", "prompt": "(5500  - 70 * 71) / 10", "response": "53 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "6RpZHnqDn75cVF3GXF6tno", "prompt": "(2 * 5739  - 71 * 2574) / (2 * 30 - 71 * 87)", "response": "28", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "kpVou797symCJ6XfXPDGXr", "prompt": "(39 * 4766  - 25 * 3478) / (39 * 97 - 25 * 10)", "response": "28", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Lfu49B4WBRS2obPQVfxbSt", "prompt": "(3266  - 76 * 41) / 2", "response": "75 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "6p8EZjQfx4kPgXQy8ZBQNr", "prompt": "(35 * 4035  - 10 * 345) / (35 * 73 - 10 * 5)", "response": "55", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "TQNDwQwpU8UegncLZfsurU", "prompt": "(6499  - 88 * 73) / 25", "response": "3 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "PFpEXLgYpuVNMXmuSjc22q", "prompt": "(45 * 725  - 31 * 1270) / (45 * 21 - 31 * 74)", "response": "5", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "53we3JwWvgvXdAd5EMzod4", "prompt": "(7362  - 3 * 79) / 95", "response": "75 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Fa6BubMLeDzKFazDoAnE3w", "prompt": "(5 * 651  - 74 * 2754) / (5 - 74 * 46)", "response": "59", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KqWtu5z7oQhfecpq4rDFWB", "prompt": "(84 * 1737  - 21 * 6729) / (84 * 40 - 21 * 87)", "response": "3", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4EKyfcAesYhNXvwed5NHXX", "prompt": "(16 * 1976  - 65 * 2770) / (16 * 7 - 65 * 31)", "response": "78", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "FKPtoTpRKWoKByj47az3yL", "prompt": "(92 * 4416  - 62 * 5813) / (92 * 66 - 62 * 59)", "response": "19", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "a7uzaH937BqPyb67BroN3F", "prompt": "(7824  - 52 * 81) / 86", "response": "42 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZatXjGoXs6BC3qgstXK4fD", "prompt": "(91 * 1302  - 33 * 2638) / (91 * 48 - 33 * 53)", "response": "12", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fJTeLsKNstrA59BzuypdRm", "prompt": "(2453  - 43 * 47) / 8", "response": "54 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bthbqQeoRkZ9sGxD76NQ7P", "prompt": "(93 * 2599  - 14 * 5538) / (93 * 33 - 14 * 6)", "response": "55", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "czxoL9aVV7Rrw5ZZKYHbSm", "prompt": "(1104  - 18 * 3) / 21", "response": "50 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3fXAktfWwfc24V6osnhiot", "prompt": "(7294  - 86 * 49) / 77", "response": "40 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UjuGC5k4zojg6b6khgCXTe", "prompt": "(70 * 2284  - 58 * 3375) / (70 * 18 - 58 * 29)", "response": "85", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8Wk3vUc2fLjs39c3LXoMUo", "prompt": "(13012  - 91 * 74) / 86", "response": "73 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dsv7x6yvkfPUmmwxzGMyQb", "prompt": "(27 * 1605  - 45 * 1086) / (27 * 8 - 45 * 13)", "response": "15", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UY46meni3Hj9bKa7BJrghB", "prompt": "(95 * 4076  - 68 * 5107) / (95 * 59 - 68 * 9)", "response": "8", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "aKeHDBoaFbEAfF5Au7g8N8", "prompt": "(2446  - 10 * 30) / 58", "response": "37 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "CCecXMuHMtwkKP9Pvn74YJ", "prompt": "(1557  - 31 * 39) / 29", "response": "12 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "hDMvhY5kVuwD8vSNLmgZag", "prompt": "(10898  - 70 * 67) / 97", "response": "64 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "5ixgafuQhnb35DEHzpeEtn", "prompt": "(5558  - 63 * 10) / 88", "response": "56 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "SkFEQAS2GPd9JYY87iEPJV", "prompt": "(5014  - 45 * 60) / 89", "response": "26 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "SpSeUsvQqikmhmd23JBUMM", "prompt": "(21 * 1299  - 15 * 3201) / (21 * 6 - 15 * 30)", "response": "64", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GhcFibLR2uyEbEeiimAJZ4", "prompt": "(59 * 2001  - 43 * 5313) / (59 * 14 - 43 * 62)", "response": "60", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Yg2LmwAZf23mebA584gHnp", "prompt": "(6350  - 54 * 75) / 46", "response": "50 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ai73kLTyToMGSWz63mamCE", "prompt": "(4570  - 71 * 62) / 28", "response": "6 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZmdMN4aq8ogEwJ4A3zpEbP", "prompt": "(59 * 6487  - 74 * 5212) / (59 * 41 - 74 * 46)", "response": "3", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8W82wd3dWCFx7t4wtJJdV6", "prompt": "(66 * 6156  - 61 * 7704) / (66 * 69 - 61 * 90)", "response": "68", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3Znz6G3ocHK52hVLvJuQ4P", "prompt": "(19 * 9472  - 80 * 5761) / (19 * 96 - 80 * 59)", "response": "97", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XcZ7ggBTqFGLYAFVVFkWwT", "prompt": "(38 * 4728  - 3 * 2352) / (38 * 97 - 3 * 30)", "response": "48", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "c9ddUvMnRrb4YLdHBFRtjy", "prompt": "(4757  - 37 * 95) / 23", "response": "54 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "mfecLLd7CQ5JMQ9iGmyDAB", "prompt": "(75 * 13012  - 86 * 9027) / (75 * 91 - 86 * 48)", "response": "74", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "AmaXfqp9BtxjJAiVUWY53D", "prompt": "(2964  - 81 * 19) / 15", "response": "95 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "5WWXgNTv4PbqJSRMtZEaPF", "prompt": "(63 * 6432  - 40 * 7819) / (63 * 77 - 40 * 80)", "response": "56", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "NAnZyPa6d8t3wArX3EHeHX", "prompt": "(725  - 21 * 5) / 31", "response": "20 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GHnqvpdxcQFLYxAt83UBRi", "prompt": "(440  - 4 * 14) / 12", "response": "32 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "VTvZBoFkjtfPuZ5pYRKaJD", "prompt": "(89 * 4606  - 71 * 6532) / (89 * 59 - 71 * 88)", "response": "54", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2aUaGqHVyxxwhc4nfwkeR9", "prompt": "(13 * 5972  - 6 * 8754) / (13 * 64 - 6 * 90)", "response": "86", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "iqTridk6x5eYfNh2TTx6cq", "prompt": "(10758  - 33 * 68) / 86", "response": "99 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "6jBpwkgbcjj68Qha3Eduou", "prompt": "(7375  - 34 * 52) / 63", "response": "89 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "24UdJSwAA67vntusNjrTvP", "prompt": "(5303  - 37 * 47) / 66", "response": "54 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Yt6qgS84D4AGxN4L3vYqQJ", "prompt": "(6095  - 46 * 44) / 69", "response": "59 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dLrHGkuRfacMYkYgKgtk7B", "prompt": "(5972  - 64 * 86) / 6", "response": "78 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "EhK2qQP2xkxJYsVeQKF5Mv", "prompt": "(26 * 6310  - 28 * 5988) / (26 * 90 - 28 * 86)", "response": "53", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4VFZ8eMxQr5yKH5N5WRZNu", "prompt": "(51 * 5558  - 88 * 3186) / (51 * 63 - 88 * 33)", "response": "10", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2iJs47C5sENJ6XFwMZRbsH", "prompt": "(46 * 1379  - 73 * 818) / (46 * 71 - 73 * 32)", "response": "4", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Qz32SgUJ5r8gg6jysbrVTo", "prompt": "(46 * 5313  - 7 * 9421) / (46 * 51 - 7 * 55)", "response": "91", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2LCGWdbmpQJRmB5LYEnRZa", "prompt": "(17 * 11410  - 95 * 4301) / (17 * 75 - 95 * 40)", "response": "85", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Fsfw4cSRNjXKibwSVzvufn", "prompt": "(43 * 1745  - 41 * 7333) / (43 * 17 - 41 * 77)", "response": "93", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZSAVSz8ZvHDJvBZq6hPEZV", "prompt": "(3962  - 42 * 63) / 28", "response": "47 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "NsJy4FQKHSNpSmGhzbDcTC", "prompt": "(20 * 2964  - 15 * 2090) / (20 * 81 - 15 * 10)", "response": "19", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cZDiqGbFUghuUXyAx6qrVW", "prompt": "(89 * 667  - 88 * 293) / (89 * 31 - 88 * 2)", "response": "13", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XEYL5ohQrFke9xSKYhUXue", "prompt": "(83 * 2888  - 47 * 4456) / (83 * 15 - 47 * 19)", "response": "86", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UFCm5cDtpvJMpSd7M7McNb", "prompt": "(2784  - 96 * 25) / 16", "response": "24 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "TtyHUZ5JrbKyQdh8jgA5FC", "prompt": "(7974  - 93 * 74) / 39", "response": "28 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jSns5uyuMzRS5aeUjQtjNP", "prompt": "(8364  - 75 * 42) / 66", "response": "79 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "W2JHCBnWJ4tm4RSC4Av4oy", "prompt": "(64 * 1049  - 12 * 5323) / (64 * 13 - 12 * 15)", "response": "5", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "VNLPYv8ZNz3zgvV4s6UJbt", "prompt": "(55 * 3266  - 2 * 7897) / (55 * 76 - 2 * 92)", "response": "41", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "FSMjWxwDxJQwTzfJL4hLVJ", "prompt": "(22 * 7654  - 30 * 2274) / (22 * 79 - 30 * 14)", "response": "76", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3r6DHevLqJKEyMvTAPqeh6", "prompt": "(1813  - 21 * 65) / 32", "response": "14 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GwFpsJ8pAQoMjJnwyQ3xNV", "prompt": "(38 * 5099  - 29 * 2858) / (38 * 77 - 29 * 14)", "response": "44", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fZUSMPEyDmZmZkqFd4EoFq", "prompt": "(61 * 3960  - 99 * 5354) / (61 * 3 - 99 * 46)", "response": "66", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "6xQEtteDEbThmnhpc3LGEf", "prompt": "(79 * 3219  - 31 * 10217) / (79 * 30 - 31 * 97)", "response": "98", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "V83PYTUwkjKDtJAhKGL5wz", "prompt": "(1404  - 43 * 30) / 2", "response": "57 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4Gx6UdG2N8saeGaaaQbXwT", "prompt": "(2471  - 70 * 8) / 21", "response": "91 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RX9HUfbmGtm3zc9hue49h6", "prompt": "(89 * 4905  - 69 * 4000) / (89 * 88 - 69 * 43)", "response": "33", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8NH7qdVvy76gLeCyNGchjD", "prompt": "(49 * 3342  - 74 * 7345) / (49 * 43 - 74 * 96)", "response": "76", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "iUytXyaaBKuFTzQo92DJfx", "prompt": "(5700  - 84 * 16) / 99", "response": "44 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "gB4LBJi8T7rL3FkHBfjfTf", "prompt": "(6958  - 92 * 70) / 74", "response": "7 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "VSCWzxhHtDSsUHjanqWoZ3", "prompt": "(38 * 5700  - 99 * 2952) / (38 * 84 - 99 * 80)", "response": "16", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "FZ9f39qbb8o2MDpzQ2oSbw", "prompt": "(62 * 6076  - 53 * 9562) / (62 * 21 - 53 * 83)", "response": "42", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "PtpjQFV34fopwwVuRAHQuW", "prompt": "(98 * 5925  - 67 * 12152) / (98 * 17 - 67 * 96)", "response": "49", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "gJC6j9Rke5jhX4vsVsqaVh", "prompt": "(1664  - 24 * 61) / 20", "response": "10 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "h8KhmagAG3qghG32cFWuWM", "prompt": "(1049  - 13 * 5) / 12", "response": "82 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fhWnJCCehcB9YqhEqSGgUf", "prompt": "(9175  - 78 * 91) / 67", "response": "31 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "hR7Ko8xKMUvosAbqyFXLSb", "prompt": "(1297  - 61 * 5) / 62", "response": "16 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ehNMghe5yN5cSdLcSMo34j", "prompt": "(35 * 10898  - 97 * 5590) / (35 * 70 - 97 * 50)", "response": "67", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "YF6ggRYha4o4tg7qZSPjzS", "prompt": "(25 * 4757  - 23 * 9425) / (25 * 37 - 23 * 85)", "response": "95", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "6FT6XURhQBPHYj4HnAt8Su", "prompt": "(1831  - 13 * 67) / 60", "response": "16 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "PgLBnikXSK3a6pNeXNLoZQ", "prompt": "(55 * 1019  - 79 * 1530) / (55 * 6 - 79 * 37)", "response": "25", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ggzrxZQ9HnSNE6yswfGMG9", "prompt": "(2284  - 18 * 85) / 58", "response": "13 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UEQLro9vmtQHzH8AjcQhhG", "prompt": "(31 * 2322  - 41 * 3742) / (31 * 29 - 41 * 84)", "response": "32", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "QRXqHWc8mDWvgnSmZf5y9w", "prompt": "(92 * 2453  - 8 * 7741) / (92 * 43 - 8 * 59)", "response": "47", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4PtMFW7XwjPdtLAuTxBqyk", "prompt": "(1441  - 64) / 17", "response": "81 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "M8sfGZFxvLiX6kmBGnJ948", "prompt": "(32 * 2017  - 20 * 5173) / (32 * 11 - 20 * 59)", "response": "47", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZGNmLpefQBrN8AVFZQB7Nv", "prompt": "(6864  - 72 * 1291) / (48 - 72 * 71)", "response": "17", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ctjXodLPDhWHEWt3wjdKXb", "prompt": "(5739  - 30 * 28) / 71", "response": "69 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "oUYtbVoEp6kQ3tv2W3t3Xx", "prompt": "(81 * 1699  - 24 * 11291) / (81 * 7 - 24 * 89)", "response": "85", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XGxhFU3gw5qLNT3MuM6oQc", "prompt": "(11374  - 89 * 98) / 52", "response": "51 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "N4sxPMtoWYfUnEVDVgArqw", "prompt": "(11410  - 75 * 85) / 95", "response": "53 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "EeSbu68XHoJCNs9vCqaDGP", "prompt": "(976  - 43 * 7) / 9", "response": "75 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2yAsnXXfptaCjkbeK9Xwu4", "prompt": "(63 * 11085  - 69 * 12040) / (63 * 75 - 69 * 98)", "response": "65", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Ar5NuRyYzSiDYb9Fa6X8JB", "prompt": "(32 * 3780  - 48 * 2240) / (32 * 43 - 48 * 24)", "response": "60", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "e3vcMskqQWvh6NugfxyNhG", "prompt": "(2360  - 80 * 19) / 10", "response": "84 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "kNgqikonGUSAnxXUcWHejY", "prompt": "(3369  - 57 * 33) / 48", "response": "31 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RRfBsfdiVvaT86uPgAKLiL", "prompt": "(19 * 7002  - 74 * 2715) / (19 * 10 - 74 * 79)", "response": "12", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "hFz75b8eXRcrVrgG5gpxAJ", "prompt": "(83 * 5303  - 66 * 8759) / (83 * 37 - 66 * 91)", "response": "47", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZE55Aa3Qw7JCHKSxnkrhgi", "prompt": "(56 * 4144  - 22 * 3464) / (56 * 96 - 22 * 36)", "response": "34", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "HQaLvZ6GXTAjminVXHXvmm", "prompt": "(58 * 2656  - 62 * 3410) / (58 * 17 - 62 * 82)", "response": "14", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3UUo2pcxeoxyeKbcG6roN4", "prompt": "7656  - 84 * 90", "response": "96 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "QSadMZWyzegruUANZL7pzs", "prompt": "(49 * 6095  - 69 * 5135) / (49 * 46 - 69 * 51)", "response": "44", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "JAETFJBkq6ppZEDuNCs9V2", "prompt": "(7 * 902  - 30 * 1439) / (7 * 16 - 30 * 76)", "response": "17", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BcrdKhrv2AKaeSWRMvueGv", "prompt": "(8 * 5295  - 41 * 3516) / (8 * 99 - 41 * 68)", "response": "51", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "MYNQDpBvi5BVVmTVRKsYfY", "prompt": "(3780  - 43 * 60) / 48", "response": "25 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dxGNh6ZdeTy7kNnAxpXZMJ", "prompt": "(12590  - 83 * 58) / 81", "response": "96 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8EmPbWdmDBNEiutkEYxTyW", "prompt": "(2888  - 15 * 86) / 47", "response": "34 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "MM9dZry6B99JoUMqNAirEo", "prompt": "(17 * 364  - 8 * 1935) / (17 * 6 - 8 * 38)", "response": "46", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "7Rfctqk3BSJU22Bqdkq5bn", "prompt": "(6291  - 90 * 65) / 9", "response": "49 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fvDQD8BmuNw3A6NEQ5TyCP", "prompt": "(8828  - 63 * 70) / 47", "response": "94 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "hHeNsAL2jmTeznsgYfBLNW", "prompt": "(1203  - 49 * 24) / 27", "response": "1 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "R6sKZjhe8ExVoUqtCncdF7", "prompt": "(75 * 1268  - 77 * 1696) / (75 * 5 - 77 * 17)", "response": "38", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4CicmwkAxoMQMnNUfBdDCg", "prompt": "(41 * 6291  - 9 * 6364) / (41 * 90 - 9 * 67)", "response": "65", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "5XnijTXDFkZ6UUyzKtwGuG", "prompt": "(6864  - 48 * 17) / 72", "response": "84 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "FqQogokE5xWdWXBvpyPwSY", "prompt": "(38 * 10644  - 85 * 3984) / (38 * 87 - 85 * 24)", "response": "52", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "K7s9v3MNfFdPR5bnvMj77x", "prompt": "(2360  - 50 * 4) / 90", "response": "24 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "5sriFfgq32tUB7o24HGtdM", "prompt": "(2349  - 54 * 19) / 49", "response": "27 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8uT5zsQKY5NCSpaZrMhaxK", "prompt": "(59 * 2360  - 90 * 1568) / (59 * 50 - 90 * 38)", "response": "4", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GDyqN4MSaWEWziZhYb2VMp", "prompt": "(25 * 1497  - 41 * 1649) / (25 * 55 - 41 * 67)", "response": "22", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3Rs7x2E8tUCNQrNeP8zHE3", "prompt": "(23 * 7413  - 98 * 1848) / (23 * 91 - 98 * 43)", "response": "5", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3PMARwDS9x4EpKhppsVb7m", "prompt": "(63 * 3744  - 81 * 4932) / (63 * 3 - 81 * 36)", "response": "60", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "iErkNbvwnANApLmcGMYagZ", "prompt": "(12656  - 80 * 87) / 64", "response": "89 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "JhJLeZUCW8ZArayQaeQuBy", "prompt": "(27 * 7375  - 63 * 3859) / (27 * 34 - 63 * 28)", "response": "52", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "gxADonM6mRET6SQwGswHjs", "prompt": "(40 * 1203  - 27 * 856) / (40 * 49 - 27 * 34)", "response": "24", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2KMjEfGyiVa9YWJ62Mmxxp", "prompt": "(50 * 7362  - 95 * 3908) / (50 * 3 - 95 * 2)", "response": "79", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "AMAtfdTyJRmhpuDDzkNjMg", "prompt": "(11085  - 75 * 65) / 69", "response": "90 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Joigiykwko8tcmv58hoi48", "prompt": "(615  - 36 * 16) / 3", "response": "13 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "joqySNpjakc3UbFwp79t5t", "prompt": "(44 * 2960  - 4 * 2104) / (44 * 78 - 4 * 12)", "response": "36", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BpgaSCEQFHQAP9MBvs4EWW", "prompt": "(9908  - 26 * 72) / 98", "response": "82 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "HzHrcMHAvpTRR8ayjnVhXd", "prompt": "(765  - 9 * 5) / 40", "response": "18 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "L4Ljw7Mki5Mf4nGpGVFjxD", "prompt": "(5349  - 66 * 52) / 71", "response": "27 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "P7r9geAAkyPaAD5qjiM2Co", "prompt": "(85 * 3920  - 26 * 8858) / (85 * 38 - 26 * 56)", "response": "58", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bPbkJE3qXAHUs8RFfFuASU", "prompt": "(72 * 5829  - 9 * 7696) / (72 * 84 - 9 * 44)", "response": "62", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Vj2ZXMVeghW3dVGwDkByKT", "prompt": "(31 * 5967  - 77 * 3871) / (31 * 17 - 77 * 41)", "response": "43", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "hgykjhnezfxVstg4PVPnak", "prompt": "(22 * 1030  - 41 * 332) / (22 * 19 - 41)", "response": "24", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "iGJ9M6kT5bA5RgBqKrVm4Y", "prompt": "(6235  - 89 * 67) / 34", "response": "8 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "S8VVxN3RRddA4k8bX6D2Wt", "prompt": "(5804  - 86 * 46) / 56", "response": "33 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "MumX9Sd73fjJf4wYpC5nEn", "prompt": "(61 * 10736  - 93 * 7130) / (61 * 86 - 93 * 59)", "response": "34", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "9zWRoQmeEq7tkiu9oCpoX6", "prompt": "(89 * 3872  - 32 * 11968) / (89 * 24 - 32 * 94)", "response": "44", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "PUUAdwEHDC4k5JZFHHSkoM", "prompt": "(32 * 5716  - 67 * 3392) / (32 * 39 - 67 * 60)", "response": "16", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "9gUstG4UMPQAxnoj6Y49Tg", "prompt": "(2032  - 17 * 20) / 36", "response": "47 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XCy4V9sdVyR9w8WGLeUZDC", "prompt": "(1381  - 14 * 83) / 3", "response": "73 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "J7T3aoe679KcHmwiQoQkpv", "prompt": "(1831  - 15 * 73) / 8", "response": "92 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "m3wdEg4VxDDopU7AntnvUy", "prompt": "(6040  - 82 * 55) / 18", "response": "85 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "TG43cugXsc5FHc8E8wPJdz", "prompt": "(91 * 2920  - 5 * 10745) / (91 * 40 - 5 * 55)", "response": "63", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fy9jTsWJkinjXgm9LdFeUZ", "prompt": "(53 * 2121  - 51 * 5390) / (53 * 11 - 51 * 62)", "response": "63", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "9SQ6zH8yEmqdbmUgfvEibx", "prompt": "(6224  - 38 * 97) / 94", "response": "27 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3Bm6yGmkEQzgFL6ZJNZZa3", "prompt": "(70 * 2722  - 5 * 12440) / (70 * 24 - 5 * 60)", "response": "93", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "QJeKTvpqcuvq5hYLZuhWJQ", "prompt": "(3632  - 61 * 312) / (59 - 61 * 19)", "response": "14", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BbePaCDGmKGATYXzpVuXVe", "prompt": "(45 * 3880  - 81 * 4744) / (45 * 10 - 81 * 46)", "response": "64", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "NzbbAAoyS4KM3SSneWJTpV", "prompt": "(8 * 6700  - 64 * 2400) / (8 * 95 - 64 * 90)", "response": "20", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "P4qNKG4qgBp7ndnSRF9r2m", "prompt": "(84 * 3072  - 51 * 2958) / (84 * 65 - 51 * 37)", "response": "30", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bJGU4LCnJRzhTVyK4mZui4", "prompt": "(876  - 60 * 7) / 6", "response": "76 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "J2GSc2HBY8pbQLBNLYURB6", "prompt": "(80 * 2349  - 49 * 2844) / (80 * 54 - 49 * 36)", "response": "19", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Aq4iyisEpz7yM3G89SdfrC", "prompt": "(92 * 2299  - 22 * 7086) / (92 * 11 - 22 * 14)", "response": "79", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fnbotCFuCUJ6tBAJcM5Unm", "prompt": "(2966  - 90 * 7) / 32", "response": "73 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "6iqnaiAyEgnNrVTdC234bX", "prompt": "(15 * 1441  - 17 * 6335) / (15 - 17 * 80)", "response": "64", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "iLEhqhEsPkcjbBwSAKNamn", "prompt": "(3 * 2528  - 16 * 4938) / (3 * 32 - 16 * 68)", "response": "72", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "nxydhwSAX3SCoZWDX5dBPi", "prompt": "(17 * 2190  - 13 * 1086) / (17 * 25 - 13 * 8)", "response": "72", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "ZD48naFbXdjoymDRn5Yaqi", "prompt": "(217  - 19 * 7) / 21", "response": "4 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "nekQx7hCTdhHLAraVgkiWL", "prompt": "(22 * 2068  - 23 * 1928) / (22 * 42 - 23 * 36)", "response": "12", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "VEckecE5xTf7ZnsTxFkbLE", "prompt": "(2920  - 40 * 63) / 5", "response": "80 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BcxTViu9v4mGUz9tN9MVrC", "prompt": "(66 * 440  - 12 * 2812) / (66 * 4 - 12 * 50)", "response": "14", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "gSyhZbif6kd6aJbj6JVGdT", "prompt": "(6648  - 68 * 6) / 65", "response": "96 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "JDjmfRzoQ4aDSP8bKVqZXP", "prompt": "(4512  - 11 * 97) / 65", "response": "53 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "hw56vaniabSXfUasqXwgwZ", "prompt": "(67 * 8448  - 78 * 4692) / (67 * 94 - 78 * 38)", "response": "60", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "d8rLMGXP5qJqqkAjGc7Wir", "prompt": "(11 * 4740  - 69 * 6841) / (11 * 45 - 69 * 98)", "response": "67", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2vLXHR7UAAdzo7f9W8g7fH", "prompt": "(5099  - 77 * 44) / 29", "response": "59 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "oKLG9Jqyq44tZrMcdfdCqj", "prompt": "(60 * 1887  - 84 * 1758) / (60 * 23 - 84 * 62)", "response": "9", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dLskGJdSct79VgdvhaJSHN", "prompt": "(8 * 6038  - 59 * 781) / (8 * 40 - 59 * 5)", "response": "89", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bzYTGrvb9u6E3c5gQyqC4r", "prompt": "(10 * 3625  - 95 * 2234) / (10 * 55 - 95 * 94)", "response": "21", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "LQW4QjiSZznRMetD3NKxFk", "prompt": "(61 * 2360  - 10 * 5941) / (61 * 80 - 10 * 43)", "response": "19", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3QH7zhTAbzsVFvbPgmUtCx", "prompt": "(909  - 13 * 15) / 14", "response": "51 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "7eKy5sDc2wuWRT9zT2bTF8", "prompt": "(9 * 1813  - 32 * 6496) / (9 * 21 - 32 * 98)", "response": "65", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "SbLWSHXcjj8dQNUYAUPwvc", "prompt": "(2904  - 99 * 28) / 2", "response": "66 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BGErAzDh4RjjXyQTLqoLxG", "prompt": "(25 * 9914  - 95 * 3976) / (25 * 71 - 95 * 44)", "response": "54", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "TBiwyvc5GkFe6XaHsCWDD4", "prompt": "(5790  - 90 * 36) / 75", "response": "34 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "S3yesiBRvEKXoDdDCxPAUD", "prompt": "(2960  - 78 * 36) / 4", "response": "38 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jCFWCcHqjPxW6UFXBjgVXr", "prompt": "(31 * 2195  - 22 * 2969) / (31 * 19 - 22 * 13)", "response": "9", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fNABYVNKfHV3C5knrjAhkE", "prompt": "(16973  - 95 * 99) / 86", "response": "88 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bV78vEaUtstaK7qDuy3UTK", "prompt": "(60 * 1342  - 14 * 3556) / (60 * 32 - 14 * 8)", "response": "17", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bdsr4MXWxb8zpCs4G4FpLM", "prompt": "(57 * 12012  - 93 * 6336) / (57 * 58 - 93 * 20)", "response": "66", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "5MuZGZucWZFa75NTzokgN6", "prompt": "(1497  - 55 * 22) / 41", "response": "7 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "MivH78whhgWWi42JFCCHLZ", "prompt": "(5544  - 33 * 90) / 26", "response": "99 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KBRhGBoMonr5J6yuP2UpqE", "prompt": "(810  - 6 * 16) / 21", "response": "34 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GwxDW2zxKX9TwETvu2E3jX", "prompt": "(35 * 5074  - 89 * 1995) / (35 * 51 - 89 * 20)", "response": "7", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "eYmiXCkLmBZgh3z97GgQDv", "prompt": "(2067  - 21 * 93) / 2", "response": "57 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8bS8BYRqPntM6yeG8MvkC6", "prompt": "(1030  - 19 * 24) / 41", "response": "14 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "FCqYT6P9nDM23UPtnTVRMz", "prompt": "(21 * 7550  - 50 * 6668) / (21 * 60 - 50 * 79)", "response": "65", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "HQd7awKxtvPdVtz5kagLtB", "prompt": "(2127  - 43 * 48) / 3", "response": "21 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BnD2QsC4uUjKGhCSYCtv9Q", "prompt": "(2417  - 40 * 56) / 59", "response": "3 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jLsRagssxQk8B5kk98TQLK", "prompt": "(18 * 2976  - 43 * 2026) / (18 * 64 - 43 * 58)", "response": "25", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GWAJsy6MSaNKeuC9x6wRtQ", "prompt": "(7922  - 41 * 76) / 89", "response": "54 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Gz6cpd79pEBYrrSWPc6q7K", "prompt": "(88 * 10758  - 86 * 9868) / (88 * 33 - 86 * 17)", "response": "68", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3q7LLBxRADagNmjsyVfJnp", "prompt": "(45 * 3478  - 88 * 1716) / (45 * 85 - 88 * 39)", "response": "14", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "d8fXp3P3ZpBRzZZH3N3F3x", "prompt": "(9636  - 55 * 80) / 68", "response": "77 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dgXRUxLPZrvNgpxYMNpkYF", "prompt": "(1302  - 48 * 12) / 33", "response": "22 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "TBp4qrYkfG9asj5y7VG8HZ", "prompt": "(3625  - 55 * 21) / 95", "response": "26 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "DyXdbCHhPCnTcd3ihHqLUw", "prompt": "(63 * 11374  - 52 * 10955) / (63 * 89 - 52 * 79)", "response": "98", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "CPZ3p3tBNGMmyrhPCazm6X", "prompt": "(39 * 5326  - 82 * 2793) / (39 * 40 - 82 * 84)", "response": "4", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "TqLf5yQ8qWTpbzLjkbBY6s", "prompt": "(1264  - 86 * 6) / 44", "response": "17 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "NnzMeKtMirKuPRoaiTfWTR", "prompt": "(9590  - 98 * 30) / 95", "response": "70 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "MBPCbRJDT3Lnawfrw5o9DV", "prompt": "(6700  - 95 * 20) / 64", "response": "75 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cRoyww7jktHtWjEVCMgtdK", "prompt": "(8633  - 53 * 66) / 65", "response": "79 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BMuB4HtmNmB8TvGC3mUTFd", "prompt": "(5074  - 51 * 7) / 89", "response": "53 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "MfHmUDCHJTDXnciPAUQBRr", "prompt": "(7862  - 92 * 17) / 67", "response": "94 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bqrVcZ874ngZtPbz45WWef", "prompt": "(8 * 5337  - 99 * 1487) / (8 * 18 - 99 * 23)", "response": "49", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8QSBbAFgWwiyBL5Qez4rvV", "prompt": "(64 * 5544  - 26 * 10386) / (64 * 33 - 26 * 45)", "response": "90", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KRQiRQnwKHEfLdrR7tjJm8", "prompt": "(38 * 14403  - 73 * 9954) / (38 * 93 - 73 * 74)", "response": "96", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "6ZC7HNP4RotL9uzsxNYGzT", "prompt": "(5208  - 36 * 86) / 44", "response": "48 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RvGcu2f4bAfWvsm6ULHSu4", "prompt": "(93 * 7922  - 89 * 10646) / (93 * 41 - 89 * 74)", "response": "76", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "k68oWsAXZkgTmyJUYAB2Dx", "prompt": "(11 * 13049  - 88 * 1338) / (11 * 91 - 88 * 7)", "response": "67", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dBxyoLm9fGXU7zfMDdX2WP", "prompt": "(58 * 12656  - 64 * 10121) / (58 * 80 - 64 * 57)", "response": "87", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "goPqeZVpogwRqgj8JBcPBy", "prompt": "(21 * 2035  - 43 * 1422) / (21 * 89 - 43 * 66)", "response": "19", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "e88wReN5eA8UXiM8svvje3", "prompt": "(2299  - 11 * 79) / 22", "response": "65 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GVCsgK9zwJ6RfGyB3rD5Gw", "prompt": "(19 * 7727  - 53 * 4173) / (19 * 91 - 53 * 81)", "response": "29", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "grA5MDiGeJ5die3dQMthpV", "prompt": "(96 * 7032  - 78 * 12408) / (96 * 33 - 78 * 90)", "response": "76", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "WSG8BeWvRn4eNv4b8gsMjt", "prompt": "(46 * 2966  - 32 * 3974) / (46 * 90 - 32 * 88)", "response": "7", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cGTS6qVW3cveWBSAShbnwE", "prompt": "(31 * 5500  - 10 * 3702) / (31 * 70 - 10 * 29)", "response": "71", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XrHXWQb6PixCodHdHP5EEY", "prompt": "(3744  - 3 * 60) / 81", "response": "44 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "F6CWNGFMNMXSGGaZvsk9Uc", "prompt": "(82 * 12590  - 81 * 9206) / (82 * 83 - 81 * 23)", "response": "58", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "D87guKrGrGXoDYfQTSEpUJ", "prompt": "(45 * 4837  - 42 * 5197) / (45 * 77 - 42 * 83)", "response": "29", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XCT2eJChM2mE5cFTrHCScM", "prompt": "(7654  - 79 * 76) / 30", "response": "55 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "nneTTqz49kdjALD5mvjbbj", "prompt": "(51 * 2150  - 55 * 2620) / (51 * 30 - 55 * 76)", "response": "13", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "kpA9CChKxiwQtuvhBhSpTC", "prompt": "(7215  - 99 * 5) / 70", "response": "96 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XR5KvsfetokXguF2RdPyHg", "prompt": "(8 * 8712  - 76 * 3746) / (8 * 20 - 76 * 35)", "response": "86", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "WookALwZ254RMEV7peiWoA", "prompt": "(6310  - 90 * 53) / 28", "response": "55 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2dTsJnrCZ8HkcsNRJ8AJ6C", "prompt": "(81 * 7656  - 15426) / (81 * 84 - 85)", "response": "90", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GJi7cwHgV7tCJCikPWPrqc", "prompt": "(68 * 976  - 9 * 5373) / (68 * 43 - 9 * 39)", "response": "7", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "o7hHhWQPzyiF6YaKrTAd6f", "prompt": "(6525  - 72 * 31) / 81", "response": "53 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "LN5S7wcs2qcVcLuHFLFC3u", "prompt": "(194  - 8 * 19) / 3", "response": "14 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "k7DV8K4FDXtZ34pUqQkpRL", "prompt": "(1887  - 23 * 9) / 84", "response": "20 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "JLMAa4FHW89b4daUbstBep", "prompt": "(80 * 6499  - 25 * 970) / (80 * 88 - 25 * 10)", "response": "73", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Yu3vhAZwV7npNfhE3pRVjT", "prompt": "(5925  - 17 * 49) / 67", "response": "76 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XrpZjPLQXo3eBqZHHS6j9y", "prompt": "(28 * 2992  - 38 * 1499) / (28 * 60 - 38 * 27)", "response": "41", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "HjXgGMzDa2WUSWj6W9WEBS", "prompt": "(23 * 3962  - 28 * 5428) / (23 * 42 - 28 * 69)", "response": "63", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "GFSKmVtHMKso6L72TEJwwR", "prompt": "(834  - 14 * 45) / 3", "response": "68 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jzYYyEEB2omMxfPzpHUdUV", "prompt": "(37 * 194  - 3 * 1620) / (37 * 8 - 3 * 58)", "response": "19", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "7Wnc4hwHYkbxkjNrr9rsBD", "prompt": "(95 * 4236  - 13 * 2100) / (95 * 68 - 13 * 16)", "response": "60", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "NA88usRxEowBVzFhpitMuE", "prompt": "(2184  - 18 * 96) / 19", "response": "24 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "inJtWvQpNWUM9HQyYExgXq", "prompt": "487  - 9 * 49", "response": "46 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UQysxTvxcWhSu9aNqTLMCy", "prompt": "(4563  - 75 * 45) / 66", "response": "18 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "nAoTpxBUjuft8JfxGdikZS", "prompt": "(9472  - 96 * 97) / 80", "response": "2 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "mUqkBb9Zetzmf9oYuWgWfC", "prompt": "(5829  - 84 * 62) / 9", "response": "69 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "iQ8zBbRxWU7FB9dYWpRfJW", "prompt": "(2573  - 53 * 1) / 70", "response": "36 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2ZGV64WbyQF5mjaDGWo9ao", "prompt": "(6038  - 40 * 89) / 59", "response": "42 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bxLwvVMEES6PdTCNPcbwgD", "prompt": "(3072  - 65 * 30) / 51", "response": "22 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jQ8MFUXbrikhKuquNFJBwC", "prompt": "(2451  - 39 * 53) / 48", "response": "8 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UVGrBNmrZKRgGHAnQF6zh5", "prompt": "(59 * 2446  - 58 * 3983) / (59 * 10 - 58 * 60)", "response": "30", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KJuApVuQb8rLNnQbp6ngWa", "prompt": "(55 * 2471  - 21 * 5261) / (55 * 70 - 21 * 32)", "response": "8", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "M3MJPP4M77fDUXnDzzauc2", "prompt": "(6096  - 64 * 76) / 16", "response": "77 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "kBL7rxL7DXhLAWbaaf595H", "prompt": "(10426  - 52 * 85) / 78", "response": "77 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "eJUMD5BUhqYnccDpqNnoUe", "prompt": "(79 * 3561  - 35 * 11805) / (79 * 2 - 35 * 83)", "response": "48", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "oXX8gvPkyURse4WcpR67ki", "prompt": "(67 * 1557  - 29 * 4197) / (67 * 31 - 29 * 87)", "response": "39", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "YrJGtPPpvNEHidLj8w4pvk", "prompt": "(97 * 1104  - 21 * 4868) / (97 * 18 - 21 * 6)", "response": "3", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "R2Rnp2zNGLnkSeZgMni4yd", "prompt": "(1533  - 89 * 7) / 70", "response": "13 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "A5hcfucChfNCF4DrxaaeB6", "prompt": "(667  - 31 * 13) / 88", "response": "3 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "fAvaZccAfDmBb5JVGBfxPw", "prompt": "(8729  - 85 * 41) / 92", "response": "57 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "hfgHLQiZeTaje7QcJJQnb9", "prompt": "(2809  - 47 * 38) / 11", "response": "93 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jHdLmftFBycZyeQxTJM8Tj", "prompt": "(4740  - 45 * 67) / 69", "response": "25 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dECVUHuw7L9Ho9sKxM24gi", "prompt": "(6015  - 60 * 46) / 35", "response": "93 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "H5yG58pajTa59j74b62yYp", "prompt": "(71 * 3295  - 34 * 2910) / (71 * 37 - 34 * 18)", "response": "67", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RKaP3FjCq5D2cpo7J5JXug", "prompt": "(37 * 8010  - 82 * 3828) / (37 * 84 - 82 * 41)", "response": "69", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "CKJWEmKHXF8xtrLKCxKwZ8", "prompt": "(29 * 1984  - 7436) / (29 * 26 - 86)", "response": "75", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "9nXhdLW96G5yGGUBYLC93s", "prompt": "(651  - 59) / 74", "response": "8 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2KTtWu7A8UicscQKfpAC5c", "prompt": "(59 * 4512  - 65 * 4000) / (59 * 11 - 65 * 9)", "response": "97", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bKauTSBAcb4ePckMWegZ7K", "prompt": "(3880  - 10 * 64) / 81", "response": "40 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "oC3AVQWivi9oGLHx6sfwye", "prompt": "(4458  - 78 * 57) / 3", "response": "4 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "9MYgihwd6ZY3i6ELs8HPZq", "prompt": "(11 * 1404  - 2 * 2577) / (11 * 43 - 2 * 65)", "response": "30", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "DFUuCtX4yF8CLYupgLYutA", "prompt": "(51 * 9842  - 59 * 1634) / (51 * 98 - 59 * 10)", "response": "92", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "983ifAFGF2HQEHZMR7SYFa", "prompt": "(28 * 12484  - 88 * 6544) / (28 * 63 - 88 * 48)", "response": "92", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "o6a2vyAdjjLwpenksLmmjF", "prompt": "(70 * 1831  - 8 * 13594) / (70 * 15 - 8 * 98)", "response": "73", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "9PL5VY28TE3Cnw3Wp5bYgZ", "prompt": "(23 * 5586  - 63 * 3916) / (23 * 6 - 63 * 29)", "response": "70", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "QAdhobXFE4rkCgi32rFkGe", "prompt": "(6076  - 21 * 42) / 53", "response": "98 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "UyynJ6UZJGonnRXLvscJco", "prompt": "(8010  - 84 * 69) / 82", "response": "27 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "L22FwHn9sikcSeiFSr66MB", "prompt": "(8712  - 20 * 86) / 76", "response": "92 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "VrHzpfZdtu7Xvf4dJpB2Dw", "prompt": "(15 * 6428  - 62 * 3321) / (15 * 46 - 62 * 36)", "response": "71", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "k7GCAevybQFBVPLspzeZCQ", "prompt": "(10 * 7215  - 70 * 975) / (10 * 99 - 70 * 3)", "response": "5", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "7wgsGFTqxwjWnvXntPacNs", "prompt": "(55 * 11741  - 45 * 9881) / (55 * 86 - 45 * 56)", "response": "91", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "gWY74Kvn65QTRyKowr9fBA", "prompt": "(90 * 810  - 21 * 3124) / (90 * 6 - 21 * 4)", "response": "16", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "YT9WHKLTKGeydbWZMVLv2y", "prompt": "(64 * 7294  - 77 * 4814) / (64 * 86 - 77 * 46)", "response": "49", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "CWBsysuwt746AdbtEfdQ95", "prompt": "(12484  - 63 * 92) / 88", "response": "76 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "QnQoiTPNgKQ4TGnGzKxGi3", "prompt": "(37 * 1798  - 98 * 1289) / (37 * 12 - 98 * 60)", "response": "11", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "aV3QmA3v4DBTCrxZnPWCYM", "prompt": "(1268  - 5 * 38) / 77", "response": "14 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "JdsBHb9fE4ENKsjPwpxeD3", "prompt": "(3661  - 14 * 47) / 91", "response": "33 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "egzAJbQmi2DZbFkVcjtoP6", "prompt": "(3632  - 59 * 14) / 61", "response": "46 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "DBW3CedSETQQKXaRzpp92d", "prompt": "(2873  - 39 * 62) / 65", "response": "7 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "eH2eQPpsMiRSiJjcQ4DnYP", "prompt": "(32 * 7614  - 8 * 5381) / (32 * 86 - 8 * 49)", "response": "85", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "g3xQtgu8UMPZ3k3u7bzPE6", "prompt": "(4416  - 66 * 19) / 62", "response": "51 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BPgz3GC7gXgpMyNq483n6Y", "prompt": "(14403  - 93 * 96) / 73", "response": "75 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "5XWm6yjQEiSSKwybFVGESn", "prompt": "(364  - 6 * 46) / 8", "response": "11 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3zkio6qV8dKx3jaAp9L8wx", "prompt": "(8381  - 68 * 73) / 51", "response": "67 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BbrFThgUYBr2rTkseRvkAD", "prompt": "(2076  - 20 * 79) / 16", "response": "31 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "PEAgqD5a7SRwd4Xng59YLk", "prompt": "(12510  - 98 * 95) / 50", "response": "64 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Fjyc9ZYxkTA4eNHpXetRKK", "prompt": "(5967  - 17 * 43) / 77", "response": "68 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "YWyhVcJqA9yJvmUTSYSakX", "prompt": "(18 * 876  - 6 * 1704) / (18 * 60 - 6 * 48)", "response": "7", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jZBBLxbDsPak6uH6NpdPEr", "prompt": "(902  - 16 * 17) / 30", "response": "21 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "G3pbWDkQMvNpye7S8JL8bp", "prompt": "(2035  - 89 * 19) / 43", "response": "8 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dJm2h832VocbE7oZQPwCwS", "prompt": "(10644  - 87 * 52) / 85", "response": "72 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "54Ev7Yb4vi7zZ8o6HyggH4", "prompt": "(19 * 5414  - 34 * 7577) / (19 * 62 - 34 * 93)", "response": "78", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RucoFr7cNUUdpHukgdrT4H", "prompt": "(54 * 8672  - 98 * 668) / (54 * 94 - 98 * 4)", "response": "86", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "FTmMKjeeiv6auPLqmsBVtY", "prompt": "(763  - 35 * 20) / 7", "response": "9 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jkGM8Fin9hDHDYHaikuazE", "prompt": "(7193  - 61 * 26) / 63", "response": "89 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "gYumqAJrCWprw39FfDJAFe", "prompt": "(98 * 3516  - 26 * 8204) / (98 * 53 - 26 * 42)", "response": "32", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bZyHjhEVLiJ7AQJPVyg8jx", "prompt": "(12012  - 58 * 66) / 93", "response": "88 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4h8nnhJ78u9DDgR93uxvmM", "prompt": "(2017  - 11 * 47) / 20", "response": "75 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "EToCneTuNkKxrcXwTtqW85", "prompt": "(75 * 8828  - 47 * 9570) / (75 * 63 - 47 * 36)", "response": "70", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "CycouESCCFXn5XkxQushZD", "prompt": "(3920  - 38 * 58) / 26", "response": "66 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cn8gtsRPUZGZ6Cn7wd4HV4", "prompt": "(35 * 275  - 50 * 480) / (35 * 25 - 50 * 75)", "response": "5", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "LGfCEhc6JNR3EnpUT3DfzV", "prompt": "(13049  - 91 * 67) / 88", "response": "79 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "X4WgJsciDvyE4ATLEJ44un", "prompt": "(18 * 2032  - 36 * 2186) / (18 * 17 - 36 * 67)", "response": "20", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KwBb22LWGzbHj6dCD2ZdJ9", "prompt": "(7095  - 77 * 87) / 4", "response": "99 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RCHz3EAsntizZXTzezQyQK", "prompt": "(95 * 416  - 74 * 3401) / (95 * 9 - 74 * 87)", "response": "38", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "QmUNvXPyFCXRF6eiyqumjs", "prompt": "(1798  - 12 * 11) / 98", "response": "17 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cUNTKESqTA9J2LZVyiQ8GN", "prompt": "(4 * 9636  - 68 * 6228) / (4 * 55 - 68 * 74)", "response": "80", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "WLjSDwFx7kr778idC9AFkM", "prompt": "(5337  - 18 * 49) / 99", "response": "45 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "h3Nq3LjkL7Fue4WSutw4aH", "prompt": "(4728  - 97 * 48) / 3", "response": "24 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "3yrndY93up5CzJpNJj9ZM4", "prompt": "(24 * 8406  - 30 * 5538) / (24 * 84 - 30 * 50)", "response": "69", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cv33dTf3JZqFQjbXG9qkdP", "prompt": "(40 * 9175  - 67 * 6154) / (40 * 78 - 67 * 54)", "response": "91", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "SqksRNUwNzBVUWu3acdLvA", "prompt": "(4236  - 68 * 60) / 13", "response": "12 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4Q2yjT23yLWfnVuZtY4JkT", "prompt": "(45 * 7824  - 86 * 8370) / (45 * 52 - 86 * 80)", "response": "81", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Xo6AgNDhSs7jnYmf4RAMqi", "prompt": "(2340  - 44 * 50) / 5", "response": "28 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XGLcsA7A6hkLYYWdwQMh2u", "prompt": "(48 * 10426  - 78 * 11091) / (48 * 52 - 78 * 87)", "response": "85", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "2fg86ZuQXRP2dP8cDhkPYM", "prompt": "(67 * 9590  - 95 * 6010) / (67 * 98 - 95 * 44)", "response": "30", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "RL545Sub4KJAB4RdybkQg7", "prompt": "(2729  - 25 * 49) / 94", "response": "16 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "77RoZYVbhgGCK7JaQjvaPV", "prompt": "(3 * 4570  - 28 * 4978) / (3 * 71 - 28 * 80)", "response": "62", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "SSaUzMxxwuQRk4w64xSFrX", "prompt": "(7550  - 60 * 65) / 50", "response": "73 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "LZiiMoVPS7bWQHPq2bccik", "prompt": "(40 * 5260  - 24 * 3561) / (40 * 52 - 24 * 33)", "response": "97", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "bZX7JVazpMw9dcWXspSs62", "prompt": "(41 * 5275  - 48 * 5676) / (41 * 23 - 48 * 60)", "response": "29", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "8HsUZPuNZTBoaajVSaC2Eh", "prompt": "(3236  - 36 * 74) / 52", "response": "11 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "aGFnPUYTzz7jAas5MAYi3V", "prompt": "(1440  - 27 * 44) / 84", "response": "3 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "c67cnAqsxRhg4SpagfEgnr", "prompt": "(16 * 2904  - 2 * 2512) / (16 * 99 - 2 * 52)", "response": "28", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "FLbvwDtLdFNTi3viU6CbR5", "prompt": "(61 * 9908  - 98 * 6082) / (61 * 26 - 98 * 15)", "response": "72", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "XNUXupciwF6asasRyAryB3", "prompt": "(35 * 6750  - 47 * 7038) / (35 * 81 - 47 * 99)", "response": "52", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "6dxxTFdd2q7MFHNEX7GBEk", "prompt": "(2322  - 29 * 32) / 41", "response": "34 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "PJtyaVbfhjJ54ERb9f5Gga", "prompt": "(3516  - 53 * 32) / 26", "response": "70 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "P8qkeTAbJj83KYWHu7BANR", "prompt": "(7597  - 73 * 45) / 44", "response": "98 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "dbQ7Qh6BCyhA8gLvWvUHJa", "prompt": "(59 * 3369  - 48 * 3677) / (59 * 57 - 48 * 56)", "response": "33", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "jEr6ZfHtiwjV4MUwpL7CWv", "prompt": "(86 * 3236  - 52 * 4350) / (86 * 36 - 52 * 46)", "response": "74", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "5vet86EBpVNrntJHsv94s4", "prompt": "(10 * 944  - 48 * 876) / (10 * 41 - 48 * 51)", "response": "16", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "Aji7RgvPBhoogizMcjHVZg", "prompt": "(3960  - 3 * 66) / 99", "response": "38 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4pq4uyMJkQyyaiAZxduUQ2", "prompt": "(8642  - 77 * 67) / 43", "response": "81 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "WYxbH7LL4v8Rg5evHbgoCo", "prompt": "(93 * 6040  - 18 * 9885) / (93 * 82 - 18 * 36)", "response": "55", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "cQCb5iJYRDMERQegfFsr8Y", "prompt": "(2121  - 11 * 63) / 51", "response": "28 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "feEFizNi7TkmdhY5u5nfCv", "prompt": "(58 * 1664  - 20 * 1983) / (58 * 24 - 20 * 23)", "response": "61", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "JxoypSLkfWZAFTiL6E9ifJ", "prompt": "(1605  - 8 * 15) / 45", "response": "33 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "AjJPd9MNeXcpgYqzVtw9qc", "prompt": "(5414  - 62 * 78) / 34", "response": "17 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "4F8U3pFffDqLhK327JTNdu", "prompt": "(3786  - 42 * 45) / 79", "response": "24 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "i5evjohLf7kFdCUGGJTALh", "prompt": "(7592  - 80 * 42) / 46", "response": "92 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "KbpEC94HvEQN8tDva5P3Su", "prompt": "(6432  - 77 * 56) / 40", "response": "53 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}
+{"id": "BvuRDforsJPqzPKyFk3jBd", "prompt": "(5260  - 42 * 98) / 88", "response": "13 ", "domain": ["MATH", "quadratic_size"], "tag": "quadratic_size", "choice": ""}

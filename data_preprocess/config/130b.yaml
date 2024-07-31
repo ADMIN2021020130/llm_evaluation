@@ -1,0 +1,78 @@
+DataSource:
+  # cot_math:
+  #   file_path: /tal-vePFS/SFT/gaoshaojun/data/cot_math/all_frac_int_dec_train.json
+  #   parser: large_scale
+  #   cleaner: base
+  #   sample_ratio: 0.2
+  #   # 同时出现，ratio和num时；以sample_num优先
+  #   shuffle: True
+  
+  # jiaoyanyun_math:
+  #   file_path: /tal-vePFS/SFT/gaoshaojun/jiaoyan/jiaoyanyun_math/filted_nandu_largescale_high_medium_low.jsonl
+  #   parser: large_scale
+  #   cleaner: base
+  #   sample_ratio: 0.2
+  #   shuffle: True
+
+  # jiaoyanyun_physic:
+  #   file_path: /tal-vePFS/SFT/gaoshaojun/jiaoyan/jiaoyanyun_physic/filted_nandu_largescale_high_medium_low.jsonl
+  #   parser: large_scale
+  #   cleaner: base
+  #   sample_ratio: 1
+  #   shuffle: True
+  
+  # clue:
+  #   file_path: /tal-vePFS/SFT/gaoshaojun/data/clue/CLUEtrainsets_v2.json
+  #   parser: large_scale
+  #   cleaner: base
+  #   sample_ratio: 1
+  #   shuffle: True
+
+  coig_lite40w:
+    file_path: /tal-vePFS/SFT/gaoshaojun/data/coig_lite_40w/baai_coig_lite_40w.jsonl
+    parser: large_scale
+    cleaner: base
+    sample_ratio: 1
+    shuffle: True
+
+  # common_data:
+  #   file_path_list: [
+  #     "/tal-vePFS/ENGINE/datasets/belle_math/processed_10000_belle-math_train.json",
+  #     "/tal-vePFS/ENGINE/datasets/self-conscious-data/processed_1728_self_conscious.json",
+  #     "/tal-vePFS/ENGINE/datasets/BELLE_raw_txt_json/single_round/RMRAW0001_HHHarmInstructZH_chatGPT生成_HHHarmv1_20230324.json",
+  #     "/tal-vePFS/ENGINE/datasets/counterfactural_correction_multi_round_chat/processed_12037_counterfactural_IT.json",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/COIG/train/EXAM_train.jsonl",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/COIG/train/human_value_alignment_instructions_part1_train.jsonl",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/COIG/train/human_value_alignment_instructions_part2_train.jsonl",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/COIG/train/processed_108202_translated_instructions.json",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/bella/processed_222489_BELLA_50W_cleaned.json",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/bella/processed_415765_BELLA_100W_cleaned.json",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/HC3/format_HC3_Chinese_ChatGPT_deduplication_train.jsonl",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/MOSS/zh_helpfulness_fix_train.jsonl",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/MOSS/zh_honesty_fix_train.jsonl",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/idiom/idiom_train.jsonl_total_subtasks.jsonl",
+  #     "/tal-vePFS/ENGINE/datasets/IT组数据/author/author_detail_forIT_train_total_subtasks.jsonl",
+  #     "/tal-vePFS/ENGINE/datasets/TigerBot/zh/tigerbot-alpaca-zh-0.5m/processed_320925_tigerbot_alpaca_cleaned.json",
+  #     "/tal-vePFS/ENGINE/datasets/TigerBot/zh/tigerbot-zhihu-zh-10k/processed_10240_tiger-zhihu.json",
+  #     "/tal-vePFS/ENGINE/datasets/TigerBot/zh/tigerbot-wiki-qa-zh-1k/processed_999_tiger-wiki-qa.json",
+  #     "/tal-vePFS/ENGINE/datasets/LongForm/oridata/CSL_it_train.jsonl",
+  #     "/tal-vePFS/ENGINE/datasets/67w_gpt3.5/chatgpt/processed_248326_chatgpr_67w_cleaned.json",
+  #     "/tal-vePFS/ENGINE/datasets/GPT-4_gendata/processed_48818_alpaca_gpt4_data_zh.json",
+  #     "/tal-vePFS/ENGINE/datasets/LongForm/make_api_call/gen_data/processed_39662_WIKI_Lonform_part1.json"
+  #   ]
+  #   parser: large_scale
+  #   single_resp: True
+  #   cleaner: base
+  #   sample_ratio: 1
+  #   shuffle: True
+
+
+DataDump:
+  shuf_before_dump: True
+  format: 130B
+  # 可选的format：large_scale, glm_history
+  generate_bin: True
+  # 如果generate_bin是True，则必须要有tokenize_recipe_path
+  # tokenizer type: sft 或者 pretrain
+  output_dir: /tal-vePFS/SFT/gaoshaojun/data/coig_lite_40w/130b_0.05b
+  prefix: coig_lite_40w_0.05b

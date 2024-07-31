@@ -1,0 +1,33 @@
+Inference:
+  infer_type: glm-6b #glm-130b or glm-6b
+  model_path: /mnt/pfs/jinfeng_team/SFT/wangyingying/exp/data_plus512/global_step22 
+  work_dir: ./
+  infer_script: test_glm6b_multi_turn.sh 
+  out_dir: tmp1/data_plus512_global_step22 
+  num_gpu: 8
+  max_length: 1024 #2048
+
+TestSet:
+   Multi_Turn_Independent_2:
+     prefix: multi_Turn_Independent_2
+     6b_json_path: general/C-Eval-multi_Turn_Independent/ceval_all_no_shot_v3_middle_school_mathematics_RD2.jsonl 
+     6b_test_script: general/C-Eval-multi_Turn_Independent/eval.py
+     temperature: 0.01
+
+   Multi_Turn_Independent_3:
+     prefix: multi_Turn_Independent_3
+     6b_json_path: general/C-Eval-multi_Turn_Independent/ceval_all_no_shot_v3_middle_school_mathematics_RD3.jsonl 
+     6b_test_script: general/C-Eval-multi_Turn_Independent/eval.py
+     temperature: 0.01
+
+   Multi_Turn_Independent_4:
+     prefix: multi_Turn_Independent_4
+     6b_json_path: general/C-Eval-multi_Turn_Independent/ceval_all_no_shot_v3_middle_school_mathematics_RD4.jsonl
+     6b_test_script: general/C-Eval-multi_Turn_Independent/eval.py
+     temperature: 0.01
+
+   Multi_Turn_Independent_5:
+     prefix: multi_Turn_Independent_5
+     6b_json_path: general/C-Eval-multi_Turn_Independent/ceval_all_no_shot_v3_middle_school_mathematics_RD5.jsonl
+     6b_test_script: general/C-Eval-multi_Turn_Independent/eval.py
+     temperature: 0.01

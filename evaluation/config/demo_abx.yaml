@@ -1,0 +1,35 @@
+#Inference:
+#  infer_type: glm-130b #glm-130b or glm-6b
+#  model_path_A: /tal-vePFS/SFT/caiguodu/workspace/projects/130b-infer/130b-convert/llm_training_model_evaluation-master/batch_models/MathGPT_sft_v7.2_step200_int8/MathGPT_sft_v7.2_step200_batch
+#  model_path_B: /tal-vePFS/SFT/caiguodu/workspace/projects/130b-infer/130b-convert/llm_training_model_evaluation-master/batch_models/MathGPT_dsh_sft_v2.0_step300_int8  
+#  work_dir: /tal-vePFS/SFT/caiguodu/workspace/projects/130b-infer/llm_training_model_evaluation/evaluation/glm130b/encoder-decoder 
+#  infer_script: run_A100_dsh.sh
+#  out_dir: tmp/abx_1
+#  num_gpu: 8
+
+Inference:
+  infer_type: glm-6b 
+  work_dir: ./
+  model_path_A: /mnt/pfs/jinfeng_team/SFT/wzd_folder/exp/0904_changwenben/save_model/longtext_v2_0905/global_step50/
+  model_path_B: /mnt/pfs/jinfeng_team/SFT/wzd_folder/exp/0904_changwenben/save_model/longtext_v2_0905/global_step45/
+  infer_script: general_auto_eval_abx.sh
+  out_dir: tmp1/SFT_6B_v0.8-global_step35150
+  num_gpu: 8
+  max_length: 1024
+  
+TestSet:
+  #Safety_Prompts:
+    #prefix: safety_prompts
+    #130b_json_path: general/safety_tal/Tsinghua_safety_test_v1.jsonl
+    #130b_test_script: general/safety_tal/eval_safety_ABX.py
+    #6b_json_path: general/safety_tal/Tsinghua_safety_test_v2.jsonl
+    #6b_test_script: general/safety_tal/eval_safety_ABX.py
+    #temperature: 0.01
+
+  General-Auto-ABX:
+    prefix: general-auto-abx
+    #130b_json_path: general/Auto_General_ABX/ABX_General_865_v2.jsonl  
+    #130b_test_script: general/Auto_General_ABX/eval.py
+    6b_json_path: general/Auto_General_ABX/ABX_General_865_v2.jsonl  
+    6b_test_script: general/Auto_General_ABX/eval.py
+    temperature: 0.01

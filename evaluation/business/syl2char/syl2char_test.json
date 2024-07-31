@@ -1,0 +1,4502 @@
+[
+    {
+        "text": "ai1 zhe4 ge4 jia4 qi1 wo3 qu4 le5 zan2 men5 yi1 ge4 cheng2 shi4 a5",
+        "ori_answer": "哎这个假期我去了咱们一个城市啊",
+        "gen_answer": "埃 古 各 架 妻 我 去 了 攒 们 一 个 城 市 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "fu3 dao3 lao3 shi1 shuo1 ni3 men5 zhe4 jie2 ke4 ken3 ding4 bu2 hui4 hen3 guai1",
+        "ori_answer": "辅导老师说你们这节课肯定不会很乖",
+        "gen_answer": "抚 导 老 师 说 你 们 这 节 课 肯 定 不 会 很 瓜",
+        "f1": 0.0
+    },
+    {
+        "text": "yi3 hou4 bie2 ren2 fang4 jia4 zan2 men5 jiu4 bu4 fang4 jia4 le5",
+        "ori_answer": "以后别人放假咱们就不放假了",
+        "gen_answer": "以 后 别 人 放 假 攒 们 就 不 放 假 了",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 na4 xi1 wang4 ni3 men5 neng2 hao3 hao3 biao3 xian4",
+        "ori_answer": "好那希望你们能好好表现",
+        "gen_answer": "好 纳 希 望 你 们 能 好 好 表 现",
+        "f1": 0.0
+    },
+    {
+        "text": "chai1 shu4",
+        "ori_answer": "拆数",
+        "gen_answer": "拆 树",
+        "f1": 0.0
+    },
+    {
+        "text": "e4 n2",
+        "ori_answer": "呃嗯",
+        "gen_answer": "恶  n",
+        "f1": 0.0
+    },
+    {
+        "text": "o2 o2 wo3 dong3 le5",
+        "ori_answer": "哦哦我懂了",
+        "gen_answer": "俄 俄 我 懂 了",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 xie1 dou1 shi4 yao4 yan2 jiu1 de5",
+        "ori_answer": "这些都是要研究的",
+        "gen_answer": "这 些 都 是 要 研 究 的",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 zi4 ji3 du2 li4 fa1 xian4 le5 jin4 san1 qian1 jiu3 bai3 ge4 shu4 xue2 gong1 shi4 he2 ming4 ti2",
+        "ori_answer": "他自己独立发现了近三千九百个数学公式和命题",
+        "gen_answer": "他 自 己 独 立 发 现 了 近 三 千 九 百 个 数 学 公 式 和 命 题",
+        "f1": 0.0
+    },
+    {
+        "text": "liao3 jie3 le5 zhe4 xie1 yuan2 you2 zhi1 hou4 rang4 wo3 men5 kuai4 su4 jin4 ru4 jin1 tian1 de5 xue2 xi2 ba5",
+        "ori_answer": "了解了这些缘由之后让我们快速进入今天的学习吧",
+        "gen_answer": "了 解 了 这 些 员 由 之 后 让 我 们 快 速 进 入 今 天 的 学 习 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 mei3 li4 lao3 shi1 ne5 you3 si4 zhi1 chou4 wa4 zi5 a5",
+        "ori_answer": "好美丽老师呢有四只臭袜子啊",
+        "gen_answer": "好 美 丽 老 师 呢 有 四 只 臭 娃 子 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 ying1 gai1 shi4 xuan3 ze2 B liang3 zhong3 a5",
+        "ori_answer": "哎应该是选择B两种啊",
+        "gen_answer": "埃 婴 该 是 选 择 两 两 种",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 he2 er4 n2 hai2 you3 ma5",
+        "ori_answer": "二和二嗯还有吗",
+        "gen_answer": "二 核 二  n 还 有 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 ken3 ding4 bu4 neng2 suan4 liang3 zhong3 o2 zhi3 neng2 suan4 yi1 zhong3",
+        "ori_answer": "那肯定不能算两种哦只能算一种",
+        "gen_answer": "那 肯 定 不 能 算 两 种 俄 只 能 算 一 种",
+        "f1": 0.0
+    },
+    {
+        "text": "zhu4 yi4 fen1 dui1 de5 shi2 hou4 wo3 men5 shi4 bu4 neng2 wei2 ling2 de5",
+        "ori_answer": "注意分堆的时候我们是不能为零的",
+        "gen_answer": "注 意 分 堆 的 时 候 我 们 是 不 能 为 零 的",
+        "f1": 0.0
+    },
+    {
+        "text": "liu4 fen4 fen1 cheng2",
+        "ori_answer": "六份分成",
+        "gen_answer": "六 份 分 成",
+        "f1": 0.0
+    },
+    {
+        "text": "O K hao3 na4 me5 jie1 xia4 lai2 rang4 wo3 men5 yi1 qi3 lai2 kan4 yi1 kan4 tan4 suo3 yi1 de5 di4 yi1 xiao3 wen4",
+        "ori_answer": "OK好那么接下来让我们一起来看一看探索一的第一小问",
+        "gen_answer": "欧 好 那 么 接 下 来 让 我 们 一 起 来 看 一 看 探 索 一 的 第 一 小 问",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 gang1 gang1 zan2 men5 chai1 shu4 de5 shi2 hou4 a5 jiu4 shi4 fen1 dui1 de5 shi2 hou4 shi4 an4 zhao4 shun4 xu4 cong2 zui4 shao3 de5 zai4 man4 man4 de5 bian4 duo1 dui4 ba5",
+        "ori_answer": "那刚刚咱们拆数的时候啊就是分堆的时候是按照顺序从最少的再慢慢的变多对吧",
+        "gen_answer": "那 刚 刚 攒 们 拆 树 的 时 候 啊 就 是 分 堆 的 时 候 是 按 照 顺 序 排 队",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 dao4 ti2 da4 bu4 fen4 xiao3 peng2 you3 dou1 zuo4 dui4 le5 o2",
+        "ori_answer": "这道题大部分小朋友都做对了哦",
+        "gen_answer": "这 道 题 大 部 分 小 朋 友 都 做 对 了 哦",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 shu4 liang4 bu4 tong2 ren2 jia1 ke3 shi4 yao1 qiu2 shu4 liang4 bu4 tong2 de5 dui4 bu4 dui4",
+        "ori_answer": "哎数量不同人家可是要求数量不同的对不对",
+        "gen_answer": "埃 数 量 不 同 人 加 可 是 要 求 数 量 不 同 的 对 步 队",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 xian4 zai4 fen1 liang3 dui1 xiang1 xin4 da4 jia1 dou1 mei2 wen4 ti2 na1 jie1 xia4 lai2 wo3 yao4 fen1 san1 dui1 le5",
+        "ori_answer": "那现在分两堆相信大家都没问题那接下来我要分三堆了",
+        "gen_answer": "那 线 在 分 两 堆 相 信 大 家 都 没 问 题 拿 接 下 来 我 要 分 三 堆 了",
+        "f1": 0.0
+    },
+    {
+        "text": "bie2 fan1 shu1",
+        "ori_answer": "别翻书",
+        "gen_answer": "别 翻 书",
+        "f1": 0.0
+    },
+    {
+        "text": "ke3 shi4 zhe4 li3 ne5 bu4 tai4 hao3 zuo4 dui4 ba5 yao4 fen1 cheng2 san1 dui1 n2",
+        "ori_answer": "可是这里呢不太好做对吧要分成三堆嗯",
+        "gen_answer": "可 是 这 里 呢 不 太 好 做 对 吧 要 分 成 三 堆 泥",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 di4 yi1 dui1 you3 gu4 ding4 shi4 shui2 ne5",
+        "ori_answer": "那第一堆有固定是谁呢",
+        "gen_answer": "那 第 一 堆 有 故 定 是 谁 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "shi2 ai1 wo3 xie3 yi1 ge4 xiao3 xiao3 de5 shi2",
+        "ori_answer": "十哎我写一个小小的十",
+        "gen_answer": "食 埃 我 写 一 个 小 小 的 诗",
+        "f1": 0.0
+    },
+    {
+        "text": "na3 li3 cuo4 le5",
+        "ori_answer": "哪里错了",
+        "gen_answer": "哪 里 错 了",
+        "f1": 0.0
+    },
+    {
+        "text": "ye3 bu4 xing2 yin1 wei4 zhe4 li3 ye3 you3 chong2 fu4",
+        "ori_answer": "也不行因为这里也有重复",
+        "gen_answer": "也 不 行 因 为 这 里 也 有 重 付",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 ta1 shi4 er4 ta1 jiu4 shi4",
+        "ori_answer": "二它是二它就是",
+        "gen_answer": "二 她 是 二 她 就 是",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 dang1 lao3 da4 hao3 er4 dang1 lao3 da4 jie1 xia4 lai2 hou4 mian4 hai2 sheng4 duo1 shao3 gan3 jin3 suan4 yi1 xia4",
+        "ori_answer": "二当老大好二当老大接下来后面还剩多少赶紧算一下",
+        "gen_answer": "二 当 老 大 好 二 当 老 大 接 下 来 后 面 还 剩 多 少 感 紧 算 一 下",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 xian4 zai4 ba3 jiu3 fen1 cheng2 zhe4 liang3 dui1",
+        "ori_answer": "那现在把九分成这两堆",
+        "gen_answer": "那 现 在 把 九 分 成 这 两 堆",
+        "f1": 0.0
+    },
+    {
+        "text": "tong2 yi4 cong2 yi1 kai1 shi3 xie3 de5 qing3 ju3 shou3",
+        "ori_answer": "同意从一开始写的请举手",
+        "gen_answer": "同 意 从 一 开 始 写 的 请 举 手",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 dao4 ti2 jiu4 shi4 cuo4",
+        "ori_answer": "这道题就是错",
+        "gen_answer": "这 到 提 就 是 错",
+        "f1": 0.0
+    },
+    {
+        "text": "zai4 zhe4 li3 bian1 wo3 men5 yao4 xiang3 zhi1 dao4 duo1 shao3 zhong3 yi1 ding4 bu4 neng2 chong2 fu4 a5",
+        "ori_answer": "在这里边我们要想知道多少种一定不能重复啊",
+        "gen_answer": "在 这 里 边 我 们 要 想 知 道 多 少 种 一 定 不 能 重 复 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "qi2 shi2 gang1 gang1 wo3 men5 zai4 chai1 liang3 dui1 de5 shi2 hou4 ye3 shuo1 le5 bu4 neng2 chong2 fu4 jiu4 shi4 shuo1 san1 yi1 zhe4 jiu4 shi4 cuo4 de5",
+        "ori_answer": "其实刚刚我们在拆两堆的时候也说了不能重复就是说三一这就是错的",
+        "gen_answer": "其 实 刚 刚 我 们 在 拆 两 堆 的 时 候 也 说 了 不 能 重 复 就 是 说 三 一 这 就 是 错 的",
+        "f1": 0.0
+    },
+    {
+        "text": "hou4 mian4 de5 shu4 bi3 qian2 mian4 de5 shu4 xiao3",
+        "ori_answer": "后面的数比前面的数小",
+        "gen_answer": "后 面 的 数 比 前 面 的 数 小",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 dan4 ni3 hou4 mian4 shu4 bi3 qian2 mian4 xiao3 ni3 kan4 shi4 bu4 shi4 chong2 fu4 kan4 chu1 lai2 le5 bu4",
+        "ori_answer": "一旦你后面数比前面小你看是不是重复看出来了不",
+        "gen_answer": "一 旦 你 后 面 数 比 前 面 小 你 看 是 不 是 重 复 看 出 来 了 不",
+        "f1": 0.0
+    },
+    {
+        "text": "ceng2 jing1 yi1 ding4 xie3 guo4",
+        "ori_answer": "曾经一定写过",
+        "gen_answer": "曾 经 一 定 写 过",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 ni3 ben3 shen1 cong2 xiao3 dao4 da4 le5 yao4 xiang3 bu4 chong2 fu4",
+        "ori_answer": "因为你本身从小到大了要想不重复",
+        "gen_answer": "因 为 你 本 身 从 小 到 大 了 要 想 不 重 复",
+        "f1": 0.0
+    },
+    {
+        "text": "dan4 shi4 you4 yin1 wei4 ti2 mu4 yao1 qiu2 shu4 liang4 bu4 tong2 mei3 yi1 dui1 shu4 liang4 bu4 tong2",
+        "ori_answer": "但是又因为题目要求数量不同每一堆数量不同",
+        "gen_answer": "但 是 又 因 为 题 目 要 求 数 量 不 同 每 一 堆 数 量 不 同",
+        "f1": 0.0
+    },
+    {
+        "text": "ji4 xu4 san1 liu4 ni3 zai4 duo1 yi1 bian4",
+        "ori_answer": "继续三六你再多一遍",
+        "gen_answer": "继 续 三 六 你 在 多 一 变",
+        "f1": 0.0
+    },
+    {
+        "text": "san1 dui4 ba5 lao3 da4 shi4 san1",
+        "ori_answer": "三对吧老大是三",
+        "gen_answer": "三 队 把 老 大 是 三",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 wo3 ying1 gai1 cong2 ji3 kai1 shi3 xie3",
+        "ori_answer": "所以我应该从几开始写",
+        "gen_answer": "所 以 我 应 该 从 几 开 始 写",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 yong4 le5 yin1 wei4 dang1 ni3 lao3 da4 shi4 san1 de5 shi2 hou4",
+        "ori_answer": "不用了因为当你老大是三的时候",
+        "gen_answer": "不 用 了 因 为 当 尔 老 大 是 三 的 时 候",
+        "f1": 0.0
+    },
+    {
+        "text": "hou4 mian4 de5 bian4 xiao3 jiu4 hui4 chan3 sheng1 chong2 fu4",
+        "ori_answer": "后面的变小就会产生重复",
+        "gen_answer": "后 面 的 变 小 就 会 产 生 重 复",
+        "f1": 0.0
+    },
+    {
+        "text": "bao3 bei4 men5 zi4 ji3 zai4 zuo4 zhe4 dao4 ti2 de5 shi2 hou4 qing3 ni3 ye3 gen1 mei3 li4 yi1 yang4",
+        "ori_answer": "宝贝们自己在做这道题的时候请你也跟美丽一样",
+        "gen_answer": "保 备 们 自 己 在 做 这 道 题 的 时 候 请 你 也 跟 美 丽 一 样",
+        "f1": 0.0
+    },
+    {
+        "text": "xian1 ba3 ta1 zong3 he2 xie3 chu1 lai2",
+        "ori_answer": "先把它总和写出来",
+        "gen_answer": "掀 把 他 总 合 写 出 来",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 dao4 ti2 hui4 le5 ma5",
+        "ori_answer": "这道题会了吗",
+        "gen_answer": "这 到 提 会 了 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu3 zai4 ji4 xu4 wang3 xia4 fen1 de5 shi2 hou4 ni3 yao4 zhu4 yi4 le5",
+        "ori_answer": "九再继续往下分的时候你要注意了",
+        "gen_answer": "九 在 继 续 往 下 分 的 时 候 你 要 注 意 了",
+        "f1": 0.0
+    },
+    {
+        "text": "ran2 hou4 jiu4 san1 liu4",
+        "ori_answer": "然后就三六",
+        "gen_answer": "然 后 就 三 六",
+        "f1": 0.0
+    },
+    {
+        "text": "dan4 shi4 you4 bu4 neng2 xiang1 tong2 suo3 yi3 wo3 jiu4 shi4 si4",
+        "ori_answer": "但是又不能相同所以我就是四",
+        "gen_answer": "但 是 又 不 能 相 同 所 以 我 就 是 四",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 ne5 shuo1 ming2 a5 qian2 mian4 de5 zhe4 xie1 shu4 bu4 neng2 zai4 da4 le5",
+        "ori_answer": "所以呢说明啊前面的这些数不能再大了",
+        "gen_answer": "所 以 呢 说 明 的 前 面 的 这 些 数 不 能 再 大 了",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 kan4 dao4 ling4 yi1 lie4 a5 ta1 shi4 jiang1 shi2 ge4 xiang1 tong2 de5 bo1 li2 qiu2",
+        "ori_answer": "好看到另一列啊它是将十个相同的玻璃球",
+        "gen_answer": "好 看 到 另 一 列 啊 她 是 将 十 个 相 同 的 波 离 球",
+        "f1": 0.0
+    },
+    {
+        "text": "xian4 zai4 shi4 shi2 ge4 a5 gang1 gang1 gang1 shi4 shi2 yi1 ge4 a5 xian4 zai4 shi4 shi2 ge4",
+        "ori_answer": "现在是十个啊刚刚刚是十一个啊现在是十个",
+        "gen_answer": "现 在 是 十 个 啊 刚 刚 刚 是 十 一 个 啊 现 在 是 十 个",
+        "f1": 0.0
+    },
+    {
+        "text": "xian1 gu4 ding4 yi1 dui1 zai4 fen1 ling4 wai4 liang3 dui1 jiu4 hui4 qing1 song1 hen3 duo1 a5",
+        "ori_answer": "先固定一堆再分另外两堆就会轻松很多啊",
+        "gen_answer": "先 固 定 一 堆 在 分 令 外 两 堆 就 会 轻 松 很 多 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 bu4 neng2 bi3 ta1 xiao3 zhi4 shao3 gen1 ta1 yi1 yang4",
+        "ori_answer": "这个不能比它小至少跟它一样",
+        "gen_answer": "这 个 不 能 比 她 小 至 少 跟 她 一 样",
+        "f1": 0.0
+    },
+    {
+        "text": "xia4 yi1 ge4",
+        "ori_answer": "下一个",
+        "gen_answer": "下 一 个",
+        "f1": 0.0
+    },
+    {
+        "text": "you4 bu4 neng2 gen1 ni3 yi1 yang4 suo3 yi3 wo3 zhi4 shao3 cong2",
+        "ori_answer": "又不能跟你一样所以我至少从",
+        "gen_answer": "又 不 能 跟 你 一 样 所 以 我 至 少 从",
+        "f1": 0.0
+    },
+    {
+        "text": "zhi3 you3 qi1 qi1 zai4 fen1 zhe4 ge4 bu4 neng2 bi3 ni3 xiao3",
+        "ori_answer": "只有七七再分这个不能比你小",
+        "gen_answer": "只 有 七 七 在 分 这 个 不 能 比 你 小",
+        "f1": 0.0
+    },
+    {
+        "text": "qian2 mian4 zai4 da4 ni3 jiu4 chong2 fu4 le5 suo3 yi3 yi1 gong4 jiu4 shi4 zhe4 si4 zhong3 fen1 fa3",
+        "ori_answer": "前面再大你就重复了所以一共就是这四种分法",
+        "gen_answer": "前 面 在 大 脑 就 重 复 了 所 以 一 共 就 是 这 四 种 分 法",
+        "f1": 0.0
+    },
+    {
+        "text": "tan4 suo3 er4 shuo1 ya5 ai1",
+        "ori_answer": "探索二说呀哎",
+        "gen_answer": "探 索 二 说 牙 疼",
+        "f1": 0.0
+    },
+    {
+        "text": "lao3 shi1 yao4 jiang1 ba1 ge4 xiang1 tong2 de5 bang4 bang4 tang2 fen1 cheng2 san1 dui1 gong4 you3 duo1 shao3 zhong3 bu4 tong2 de5 fen1 fa3",
+        "ori_answer": "老师要将八个相同的棒棒糖分成三堆共有多少种不同的分法",
+        "gen_answer": "老 师 要 将 八 个 相 同 的 棒 棒 堂 分 成 三 堆 共 有 多 少 种 不 同 的 分 法",
+        "f1": 0.0
+    },
+    {
+        "text": "shu4 liang4 zen3 me5 yang4",
+        "ori_answer": "数量怎么样",
+        "gen_answer": "数 量 怎 么 样",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 hou4 bian1 hai2 sheng4 xia4 ba1 jian3 yi1 deng3 yu2 qi1 jie1 xia4 lai2 ba3 qi1 gei3 fen1 kai1",
+        "ori_answer": "那后边还剩下八减一等于七接下来把七给分开",
+        "gen_answer": "那 后 边 还 剩 下 八 简 一 等 于 七 接 下 来 八 七 给 分 开",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 zhi3 yao4 bu4 bi3 ni3 xiao3 jiu4 xing2 dui4 ba5",
+        "ori_answer": "我只要不比你小就行对吧",
+        "gen_answer": "我 只 要 不 比 你 小 就 行 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 zhe4 ge4 nan2 bu4 nan2 ya5",
+        "ori_answer": "好这个难不难呀",
+        "gen_answer": "好 这 个 男 不 男 鸭",
+        "f1": 0.0
+    },
+    {
+        "text": "si4 san1 xing2 bu4 xing2 a5",
+        "ori_answer": "四三行不行啊",
+        "gen_answer": "四 三 型 不 行 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "hai2 sheng4 xia4 liu4 na4 liu4 qu4 fen1 de5 hua4",
+        "ori_answer": "还剩下六那六去分的话",
+        "gen_answer": "还 剩 下 六 纳 六 去 分 的 话",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 si4",
+        "ori_answer": "二四",
+        "gen_answer": "二 四",
+        "f1": 0.0
+    },
+    {
+        "text": "san1 dang1 lao3 da4",
+        "ori_answer": "三当老大",
+        "gen_answer": "三 当 老 大",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 wo3 shi4 san1 na4 ni3 shi4",
+        "ori_answer": "如果我是三那你是",
+        "gen_answer": "如 果 我 是 三 娜 你 是",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 yi1 gong4 shi4 wu3 zhong3 yi1 gong4 shi4 wu3 zhong3 a5",
+        "ori_answer": "哎一共是五种一共是五种啊",
+        "gen_answer": "埃 依 共 是 五 种 一 共 是 五 种 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 xia4 zi5 you4 yao4 bu4 tong2 shu4 liang4 bu4 tong2 ai1 yi1 xia4 zi5 ne5",
+        "ori_answer": "一下子又要不同数量不同哎一下子呢",
+        "gen_answer": "一 下 子 又 要 不 同 数 量 不 同 埃 一 下 子 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 mei3 li4 lao3 shi1 shi4 yao4 ba3 shi2 ge4 dong1 xi1",
+        "ori_answer": "如果美丽老师是要把十个东西",
+        "gen_answer": "如 果 美 丽 老 师 是 要 把 十 个 东 西",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 hou4 mian4 hai2 sheng4 xia4 duo1 shao3",
+        "ori_answer": "那后面还剩下多少",
+        "gen_answer": "那 后 面 还 剩 下 多 少",
+        "f1": 0.0
+    },
+    {
+        "text": "qi1 san1 he2",
+        "ori_answer": "七三和",
+        "gen_answer": "七 三 合",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 hai2 neng2 shi4 er4 hou4 mian4 hai2 sheng4 duo1 shao3",
+        "ori_answer": "啊还能是二后面还剩多少",
+        "gen_answer": "啊 还 能 是 二 后 面 还 剩 多 少",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5 ni3 xian1 xiang3 zui4 xiao3 de5 xiao3 peng2 you3 men5 a5",
+        "ori_answer": "对吧你先想最小的小朋友们啊",
+        "gen_answer": "对 吧 你 先 想 最 小 的 小 朋 友 们 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "ran2 hou4 san1 wu3 ran2 hou4 zai4 si4 si4",
+        "ori_answer": "然后三五然后再四四",
+        "gen_answer": "然 后 三 五 然 后 在 四 四",
+        "f1": 0.0
+    },
+    {
+        "text": "da4 jia1 dou1 hui4 fen1 dui4 bu4 dui4",
+        "ori_answer": "大家都会分对不对",
+        "gen_answer": "大 家 都 会 分 队 不 对",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 ye3 jiu4 shi4 shuo1 bu4 neng2 shi4 ling2",
+        "ori_answer": "那也就是说不能是零",
+        "gen_answer": "那 也 就 是 说 不 能 是 零",
+        "f1": 0.0
+    },
+    {
+        "text": "zi4 ran2 shu4 ai1 li3 bian1 bao1 kuo4 ling2 zhe4 ge4 shu4",
+        "ori_answer": "自然数哎里边包括零这个数",
+        "gen_answer": "自 然 数 癌 理 编 包 括 零 这 个 数",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 lai2 shi4 yi1 xia4 ba5",
+        "ori_answer": "我们来试一下吧",
+        "gen_answer": "我 们 来 是 一 下 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "liu4 qu4 fen1 zhe4 ge4 shu4",
+        "ori_answer": "六去分这个数",
+        "gen_answer": "六 去 分 这 个 数",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 he2 wu3 liu4 ke3 yi3 fen1 cheng2",
+        "ori_answer": "一和五六可以分成",
+        "gen_answer": "一 合 五 六 可 以 分 成",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 hou4 mian4 bi3 qian2 mian4 xiao3 ni3 jiu4 hui4 chong2 fu4",
+        "ori_answer": "哎后面比前面小你就会重复",
+        "gen_answer": "埃 后 面 比 前 面 小 你 就 会 重 复",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 shi4 wu3 kai1 shi3 fen1 zhe4 ge4 shu4 zui4 xiao3 zui4 xiao3 cong2 ji3 kai1 shi3 xie3",
+        "ori_answer": "就是五开始分这个数最小最小从几开始写",
+        "gen_answer": "就 是 五 开 始 分 这 个 数 最 小 最 小 从 几 开 始 写",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 ni3 ru2 guo3 shi4 ling2 jiu4 hui4 chu1 xian4 yi1 ling2 wu3 na4 he2 ling2 yi1 wu3 bu4 shi4 chong2 fu4 de5 ma5 dui4 ba5",
+        "ori_answer": "因为你如果是零就会出现一零五那和零一五不是重复的吗对吧",
+        "gen_answer": "因 为 你 如 果 是 零 就 会 出 现 一 零 五 纳 合 零 一 五 不 是 重 复 的 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "mei2 le5 dui4 ba5 ran2 hou4 jie1 xia4 lai2 pai2 tou2 shi4 er4",
+        "ori_answer": "没了对吧然后接下来排头是二",
+        "gen_answer": "没 了 对 巴 兰 后 接 下 来 排 头 是 二",
+        "f1": 0.0
+    },
+    {
+        "text": "mei2 le5 yin1 wei4 wo3 men5 zai4 wang3 hou4 xie3 yi1 ding4 shi4 rang4 qian2 mian4 de5 shu4 bian4 da4 ru2 guo3 qian2 mian4 shu4 zai4 da4 o2 hou4 mian4 jiu4 bi3 ta1 xiao3 yi1 ding4 shi4 chong2 fu4 le5 dui4 ba5",
+        "ori_answer": "没了因为我们再往后写一定是让前面的数变大如果前面数再大哦后面就比它小一定是重复了对吧",
+        "gen_answer": "没 了 因 为 我 们 在 网 后 写 一 定 是 让 前 面 的 数 变 大 如 果 前 面 就 比 她 小 一 定 是 重 复 了 数 变 大 如 果 前 面 就 比 她 小 一 定 是 重 复 了 数 变 大 如 果 前 面 就 比 她 小 一 定 是 重 复 了 数 变",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 dang1 ni3 xie3 cheng2 er4 he2 er4 de5 shi2 hou4 hou4 mian4 bu4 neng2 zai4 bi3 qian2 mian4 xiao3 le5",
+        "ori_answer": "所以当你写成二和二的时候后面不能再比前面小了",
+        "gen_answer": "所 以 当 你 写 成 二 和 二 的 时 候 候 面 不 能 在 比 前 面 小 了",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 na4 liu4 de5 wo3 xie3 wan2 le5 shi2 de5 kao4 ni3 men5 lou2",
+        "ori_answer": "好那六的我写完了十的靠你们喽",
+        "gen_answer": "好 纳 六 的 我 写 完 了 时 的 靠 拟 们 楼",
+        "f1": 0.0
+    },
+    {
+        "text": "chai1 chai1 zhe4 ge4 san1 fen4 de5 yi1 hui4 er5 ne5 qing3 na4 ge4 fu3 dao3 lao3 shi1 a5 gen1 zan2 men5 xiao3 peng2 you3 hao3 hao3 zai4 qu4 gong3 gu4 yi1 xia4 a5",
+        "ori_answer": "拆拆这个三份的一会儿呢请那个辅导老师啊跟咱们小朋友好好再去巩固一下啊",
+        "gen_answer": "拆 拆 这 个 三 份 的 依 会 儿 呢 请 那 个 父 导 老 师 跟 您 说",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 ni3 shi4 zi4 ran2 shu4 shi4 ke3 yi3 you3 ling2",
+        "ori_answer": "因为你是自然数是可以有零",
+        "gen_answer": "因 为 你 是 自 然 数 式 可 以 有 零",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 ba1 xian1 bu4 guan3 ta1 qian2 mian4 ba3 hou4 mian4 fen1 wan2 zai4 qu4 bu3 san1 qi1",
+        "ori_answer": "二八先不管它前面把后面分完再去补三七",
+        "gen_answer": "二 八 先 部 管 她 前 面 把 后 面 分 完 再 去 补 三 七",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 shi4 ling2 dang1 lao3 da4 de5 dui4 ba5",
+        "ori_answer": "这个是零当老大的对吧",
+        "gen_answer": "这 个 事 灵 当 老 大 的 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 he2 qi1 yin1 wei4 chu1 xian4 ling2 de5 quan2 dou1 xie3 wan2 le5 dui4 bu4 dui4",
+        "ori_answer": "二和七因为出现零的全都写完了对不对",
+        "gen_answer": "二 核 期 因 为 出 现 零 的 全 都 写 完 了 对 不 对",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 xing2 yi3 jing1 chong2 fu4 le5",
+        "ori_answer": "不行已经重复了",
+        "gen_answer": "不 行 已 经 重 复 了",
+        "f1": 0.0
+    },
+    {
+        "text": "ba1 kai1 shi3 cong2 ji3 kai1 shi3 xie3 ne5",
+        "ori_answer": "八开始从几开始写呢",
+        "gen_answer": "八 开 始 从 几 开 始 写 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 bi3 qian2 mian4 xiao3 ma5 suo3 yi3 ni3 bu4 neng2 bi3 qian2 mian4 xiao3",
+        "ori_answer": "不比前面小嘛所以你不能比前面小",
+        "gen_answer": "不 比 前 面 小 妈 所 以 你 不 能 比 前 面 小",
+        "f1": 0.0
+    },
+    {
+        "text": "ye3 mei2 le5 dui4 ba5 zhe4 shi4 er4 pai2 tou2 de5",
+        "ori_answer": "也没了对吧这是二排头的",
+        "gen_answer": "也 没 了 对 吧 这 是 二 排 头 的",
+        "f1": 0.0
+    },
+    {
+        "text": "san1 he2 si4",
+        "ori_answer": "三和四",
+        "gen_answer": "三 合 四",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 bi3 ni3 xiao3 si4 zhe4 jiu4 hui4 bian4 cheng2 er4 dui4 bu4 dui4",
+        "ori_answer": "不比你小四这就会变成二对不对",
+        "gen_answer": "不 比 你 小 四 这 就 会 变 成 二 对 不 对",
+        "f1": 0.0
+    },
+    {
+        "text": "liu4 jia1 shang4 yi1 er4 san1 si4",
+        "ori_answer": "六加上一二三四",
+        "gen_answer": "六 家 上 一 二 三 四",
+        "f1": 0.0
+    },
+    {
+        "text": "ding4 zheng4 wan2 le5 zhi1 hou4 ne5 wo3 men5 jiu4 jin4 ru4 dao4 jin1 tian1 de5 di4 yi1 xiao3 jie2 ke4 de5 ke4 qing1 huan2 jie2",
+        "ori_answer": "订正完了之后呢我们就进入到今天的第一小节课的课清环节",
+        "gen_answer": "定 正 完 了 之 后 呢 我 们 就 进 入 到 今 天 的 第 一 小 节 课 的 课 清 环 节",
+        "f1": 0.0
+    },
+    {
+        "text": "bo2 shi4",
+        "ori_answer": "博士",
+        "gen_answer": "博 士",
+        "f1": 0.0
+    },
+    {
+        "text": "mei2 cuo4",
+        "ori_answer": "没错",
+        "gen_answer": "没 错",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 ju4 ti3 yao4 zuo4 shen2 me5 ne5",
+        "ori_answer": "我们具体要做什么呢",
+        "gen_answer": "我 们 具 体 要 做 什 么 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 wei4 nian2 ling2 tai4 da4 le5 hai2 shi4 ti4 ni3 men5 qu4 xuan3 ze2 xu1 yao4 chai1 fen1 de5 kuai4 di4 ren4 wu4 ba5",
+        "ori_answer": "这位年龄太大了还是替你们去选择需要拆分的快递任务吧",
+        "gen_answer": "这 位 年 龄 太 大 了 还 是 替 你 们 去 选 择 需 要 拆 分 的 块 地 任 务 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "shun4 xu4",
+        "ori_answer": "顺序",
+        "gen_answer": "顺 序",
+        "f1": 0.0
+    },
+    {
+        "text": "bo2 shi4 jiu4 bie2 ti4 wo3 men5 cao1 xin1 le5",
+        "ori_answer": "博士就别替我们操心了",
+        "gen_answer": "博 士 就 别 替 我 们 操 心 了",
+        "f1": 0.0
+    },
+    {
+        "text": "ai4 di2 ni3 gan4 ma5",
+        "ori_answer": "艾迪你干嘛",
+        "gen_answer": "爱 迪 你 干 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 jin1 tian1 de5 zhe4 ge4 tan4 suo3 si4 ne5",
+        "ori_answer": "那今天的这个探索四呢",
+        "gen_answer": "那 今 天 的 这 个 探 索 似 乎",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 na4 zai4 shang4 yi1 jie2 ke4 li3 bian1 ne5 zan2 men5 zhu3 yao4 shi4 zai4 xue2 xi2 fen1 dui1 dui4 ba5",
+        "ori_answer": "好那在上一节课里边呢咱们主要是在学习分堆对吧",
+        "gen_answer": "好 纳 在 上 一 节 课 里 边 呢 攒 们 主 要 是 在 学 习 分 堆 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "ye3 bu4 neng2 lou4 diao4 zai4 zhe4 li3 jiao4 yao4 you3 xu4",
+        "ori_answer": "也不能漏掉在这里叫要有序",
+        "gen_answer": "也 不 能 漏 掉 在 这 里 较 要 有 序",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 me5 zai4 fen1 de5 shi2 hou4 yao4 xiang3 zuo4 dao4 bu4 chong2 fu4 a5 ni3 yao4 xiang3 dao4",
+        "ori_answer": "那么在分的时候要想做到不重复啊你要想到",
+        "gen_answer": "那 么 在 分 的 时 候 要 想 做 到 不 重 复 啊 你 要 想 到",
+        "f1": 0.0
+    },
+    {
+        "text": "bi3 ta1 xiao3 shuo1 ming2 qian2 mian4 xie3 guo4 dui4 ba5",
+        "ori_answer": "比它小说明前面写过对吧",
+        "gen_answer": "比 他 小 说 名 前 面 写 过 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 de5 shi2 hou4 yao1 qiu2 ne5 n2 jiu4 shi4 mei3 dui1 ke3 yi3 xiang1 tong2",
+        "ori_answer": "有的时候要求呢嗯就是每堆可以相同",
+        "gen_answer": "有 的 时 候 要 求 哪 么 就 是 每 堆 可 以 相 同",
+        "f1": 0.0
+    },
+    {
+        "text": "n2 wo3 zhao3 dao4 le5 yi1 jian4 chuan1 hong2 se4 yi1 fu2 de5 bao3 bei4 zuo4 de5 bu4 duan1 zheng4 hai2 you3 yi1 jian4",
+        "ori_answer": "嗯我找到了一件穿红色衣服的宝贝坐的不端正还有一件",
+        "gen_answer": "没 我 找 到 了 一 件 穿 红 色 衣 服 的 宝 贝 做 的 不 端 正 还 有 一 件",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 a5 lao3 shi1 ba3 wa4 zi5 zhuan3 yi2 dao4 ta1 men5 shen1 shang4 a5",
+        "ori_answer": "好啊老师把袜子转移到他们身上啊",
+        "gen_answer": "好 啊 老 师 把 娃 子 转 移 到 他 们 身 上 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "zheng4 que4 de5 da2 an4 ying1 gai1 xuan3 ze2",
+        "ori_answer": "正确的答案应该选择",
+        "gen_answer": "正 确 的 达 案 应 该 选 择",
+        "f1": 0.0
+    },
+    {
+        "text": "ai4 di2 na2 liang3 zhi1 wei1 er3 na2 liang3 zhi1 hai2 ke3 yi3 zen3 me5 yang4 a5",
+        "ori_answer": "艾迪拿两只威尔拿两只还可以怎么样啊",
+        "gen_answer": "爱 迪 拿 两 只 微 尔 拿 两 只 还 可 以 怎 么 样 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 zai4 zhe4 li3 bian1 wo3 men5 ai4 di2 na2 yi1 zhi1 chou4 wa4 zi5 gen1",
+        "ori_answer": "因为在这里边我们艾迪拿一只臭袜子跟",
+        "gen_answer": "因 为 在 这 里 边 我 们 爱 迪 拿 一 支 臭 袜 子 跟",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 xie1 fen1 dui1 liang3 dui1 mei3 dui1 a5 ta1 dou1 shi4 yi1 yang4 de5",
+        "ori_answer": "这些分堆两堆每堆啊它都是一样的",
+        "gen_answer": "这 些 分 堆 两 堆 美 堆 啊 他 都 是 一 样 的",
+        "f1": 0.0
+    },
+    {
+        "text": "ren2 he2 ren2 zhi1 jian1 shi4 bu4 yi1 yang4 de5",
+        "ori_answer": "人和人之间是不一样的",
+        "gen_answer": "人 和 人 之 间 是 不 一 样 的",
+        "f1": 0.0
+    },
+    {
+        "text": "shi2 zhi3 chou4 wa4 zi5 fen1 gei3 fen1 gei3 shui2",
+        "ori_answer": "十只臭袜子分给分给谁",
+        "gen_answer": "十 只 臭 娃 子 分 给 分 给 谁",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 he2 ba1",
+        "ori_answer": "二和八",
+        "gen_answer": "二 河 八",
+        "f1": 0.0
+    },
+    {
+        "text": "ba1 he2 er4 hai2 you3",
+        "ori_answer": "八和二还有",
+        "gen_answer": "八 核 二 还 有",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 mei3 li4 ye3 na2 dao4 le5 jiu3 ba1 qi1 liu4 wu3 si4 si4 san1 er4 yi1 jiu3 zhong3 dui4 ba5",
+        "ori_answer": "那美丽也拿到了九八七六五四四三二一九种对吧",
+        "gen_answer": "那 美 丽 也 拿 到 了 九 八 七 六 五 四 四 三 二 一 九 种 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "di4 yi1 xiao3 wen4 kong3 rong2 you3 ba1 ge4 wan2 quan2 xiang1 tong2 de5 li2",
+        "ori_answer": "第一小问孔融有八个完全相同的梨",
+        "gen_answer": "第 一 小 问 孔 容 有 八 个 完 全 相 同 的 离",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 ni3 jue2 de5 shi4 fen1 cheng2 ji3 dui1 ni3 jiu4 bi3 hua4 ge4 tu4 zi5 a5 bi3 tu4 zi5 er3 duo3",
+        "ori_answer": "如果你觉得是分成几堆你就比划个兔子啊比兔子耳朵",
+        "gen_answer": "如 果 你 觉 得 是 分 成 给 堆 你 就 比 划 个 土 子 啊 比 土 子 儿 多",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 yi1 ge4 wo3 yi1 ge4 zhe4 shi4 bu4 tong2 de5 gai4 nian4 dui4 ba5",
+        "ori_answer": "你一个我一个这是不同的概念对吧",
+        "gen_answer": "你 一 个 我 一 个 这 是 不 同 的 概 念 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "diao4 keng1 li3 qu4 le5 ba5",
+        "ori_answer": "掉坑里去了吧",
+        "gen_answer": "调 升 理 去 了 把",
+        "f1": 0.0
+    },
+    {
+        "text": "zhu4 yi4 zhe4 li3 bu4 shi4 fen1 sui2 bian4 fen1 gei3 liang3 dui1 de5",
+        "ori_answer": "注意这里不是分随便分给两堆的",
+        "gen_answer": "注 意 这 里 不 是 分 随 变 分 给 两 堆 的",
+        "f1": 0.0
+    },
+    {
+        "text": "ling2 he2 ba1",
+        "ori_answer": "零和八",
+        "gen_answer": "凌 河 巴",
+        "f1": 0.0
+    },
+    {
+        "text": "wu3 san1",
+        "ori_answer": "五三",
+        "gen_answer": "五 三",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 shi4 bu4 yi1 yang4 de5",
+        "ori_answer": "它是不一样的",
+        "gen_answer": "她 是 不 一 样 的",
+        "f1": 0.0
+    },
+    {
+        "text": "kong3 rong2 kan4 dao4 mei2 fen1 dao4 li2 de5 kong3 er4 yu4 yu4 gua3 huan1 jue2 ding4 chong2 xin1 fen1 li2",
+        "ori_answer": "孔融看到没分到梨的孔二郁郁寡欢决定重新分梨",
+        "gen_answer": "孔 容 看 到 梅 芬 到 离 的 孔 二 预 预 挂 欢 决 定 重 新 分 离",
+        "f1": 0.0
+    },
+    {
+        "text": "kan4 kan4 zhe4 ti2 gen1 shang4 mian4 de5 you3 shen2 me5 qu1 bie2 a5",
+        "ori_answer": "看看这题跟上面的有什么区别啊",
+        "gen_answer": "看 看 这 题 根 上 面 的 有 什 么 区 别 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "ba1 fen1 cheng2 kong3 da4 kong3 er4 zhe4 li3",
+        "ori_answer": "八分成孔大孔二这里",
+        "gen_answer": "八 分 成 恐 大 恐 二 这 里",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wo3 men5 yi1 qi1 he2 qi1 yi1 shi4 bu4 yi1 yang4 qian2 mian4 xiao3 zhe4 li3 hai2 ke3 yi3 xiao3",
+        "ori_answer": "那我们一七和七一是不一样前面小这里还可以小",
+        "gen_answer": "那 我 们 一 期 和 七 一 是 不 一 样 前 面 小 这 里 还 可 以 小",
+        "f1": 0.0
+    },
+    {
+        "text": "ba1 ge4 li2",
+        "ori_answer": "八个梨",
+        "gen_answer": "八 个 离",
+        "f1": 0.0
+    },
+    {
+        "text": "kong3 er4 hai2 you3 yi1 ge4 ren2 shi4 shui2 ya5",
+        "ori_answer": "孔二还有一个人是谁呀",
+        "gen_answer": "恐 二 还 有 一 个 人 是 谁 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 shi4 xiong1 di4 san1 ren2 yi1 gong4 ba1 ge4 li2 fa4 fen1 gei3 san1 ge4 ren2",
+        "ori_answer": "这是兄弟三人一共八个梨发分给三个人",
+        "gen_answer": "这 是 兄 弟 三 人 一 共 八 个 离 发 分 给 三 个 人",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 gei3 ni3 san1 fen1 zhong1",
+        "ori_answer": "好给你三分钟",
+        "gen_answer": "好 给 你 三 分 钟",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 zhe4 dao4 ti2 zen3 me5 jiu4 zuo4 bu4 dui4 ne5",
+        "ori_answer": "那这道题怎么就做不对呢",
+        "gen_answer": "那 这 道 题 怎 么 就 做 不 对 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "fen1 gei3 san1 ge4 ren2 na4 zhe4 li3 shuo1 le5 mei3 ren2 zhi4 shao3 fen1 yi1 ge4",
+        "ori_answer": "分给三个人那这里说了每人至少分一个",
+        "gen_answer": "分 给 三 个 人 那 这 里 说 了 每 人 至 少 分 一 个",
+        "f1": 0.0
+    },
+    {
+        "text": "qi1 zai4 wang3 xia4 fen1 de5 shi2 hou4 a5",
+        "ori_answer": "七再往下分的时候啊",
+        "gen_answer": "期 在 网 下 分 的 时 候 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 ge4 ta1 shi4 yi1",
+        "ori_answer": "一个它是一",
+        "gen_answer": "一 个 她 是 一",
+        "f1": 0.0
+    },
+    {
+        "text": "wu3 ai1 zen3 me5 zhi3 you3 zhe4 me5 yi1 dian3 sheng1 yin1 a5",
+        "ori_answer": "五哎怎么只有这么一点声音啊",
+        "gen_answer": "武 癌 怎 么 只 有 这 么 一 点 声 音 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 yi1 yang4 yi1 ge4 shi4 kong3 er4 de5 yi1 ge4 shi4",
+        "ori_answer": "不一样一个是孔二的一个是",
+        "gen_answer": "不 一 样 一 个 试 孔 二 的 一 个 试",
+        "f1": 0.0
+    },
+    {
+        "text": "liu4 yi1 neng2 bu4 neng2 zai4 duo1",
+        "ori_answer": "六一能不能再多",
+        "gen_answer": "六 一 能 不 能 在 多",
+        "f1": 0.0
+    },
+    {
+        "text": "hai2 shi4 yi1 yang4 de5 lao3 kong3 da4 kong3 er4 he2 kong3 rong2",
+        "ori_answer": "还是一样的老孔大孔二和孔融",
+        "gen_answer": "还 是 一 样 的 老 孔 大 孔 二 合 孔 容",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 shi4 er4 hou4 mian4 hai2 sheng4 xia4 duo1 shao3",
+        "ori_answer": "它是二后面还剩下多少",
+        "gen_answer": "她 是 二 后 面 还 剩 下 多 少",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 zai4 zhe4 li3 qi2 shi2 yi1 he2 wu3 jiu4 bi3 jiao4 nan2 xiang3 dao4 le5",
+        "ori_answer": "好在这里其实一和五就比较难想到了",
+        "gen_answer": "好 在 这 里 其 实 一 和 五 就 比 较 难 想 到 了",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 zhe4 ge4 bu4 neng2 bi3 ta1 xiao3 bu4 neng2 bi3 ta1 xiao3 de5 yuan2 yin1 shi4 shen2 me5",
+        "ori_answer": "哎这个不能比它小不能比它小的原因是什么",
+        "gen_answer": "埃 这 个 不 能 比 她 小 不 能 比 她 小 的 原 因 是 什 么",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 yi1 wu3 he2 yi1 er4 wu3 suan4 bu4 suan4 yi1 zhong3",
+        "ori_answer": "二一五和一二五算不算一种",
+        "gen_answer": "二 一 五 合 一 二 五 算 不 算 一 种",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 shi4 bu4 tong2 de5 a5 suo3 yi3 zai4 zhe4 li3 liu4 fen1 cheng2 yi1 he2 wu3",
+        "ori_answer": "它是不同的啊所以在这里六分成一和五",
+        "gen_answer": "他 是 不 同 的 阿 索 以 在 这 里 六 分 成 一 和 五",
+        "f1": 0.0
+    },
+    {
+        "text": "wu3 he2 yi1 hai2 you3 ma5",
+        "ori_answer": "五和一还有吗",
+        "gen_answer": "五 合 一 还 有 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "zi4 ji3 shi4 yi1 xia4 a5",
+        "ori_answer": "自己试一下啊",
+        "gen_answer": "自 己 是 一 下 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 bao3 bei4 men5 zi4 ji3 qu4 shi4 yi1 shi4 a5 zhao3 wo3 xie3 wan2 zhi1 hou4 xie3 wan2",
+        "ori_answer": "好宝贝们自己去试一试啊找我写完之后写完",
+        "gen_answer": "好 宝 被 们 自 己 去 试 一 试 啊 找 我 写 完 之 后 写 完",
+        "f1": 0.0
+    },
+    {
+        "text": "gui1 lv4",
+        "ori_answer": "规律",
+        "gen_answer": "规 律",
+        "f1": 0.0
+    },
+    {
+        "text": "zhao3 dao4 gui1 lv4 le5 mei2 you3 a5",
+        "ori_answer": "找到规律了没有啊",
+        "gen_answer": "找 到 规 律 了 没 有 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "n2 ba1 fen1 cheng2 wu3 wu3 zai4 wang3 xia4 fen1 a5 wu3 zai4 wang3 xia4 fen1",
+        "ori_answer": "嗯八分成五五再往下分啊五再往下分",
+        "gen_answer": "没 八 分 成 五 五 在 网 下 分 半 五 在 网 下 分",
+        "f1": 0.0
+    },
+    {
+        "text": "pai2 tou2 shi4 san1 de5 xie3 wan2 le5 jie1 xia4 lai2 wo3 men5 qu4 xie3 pai2 tou2 shi4 si4 de5",
+        "ori_answer": "排头是三的写完了接下来我们去写排头是四的",
+        "gen_answer": "排 头 是 三 的 谢 玩 了 接 下 来 我 们 去 写 排 头 是 四 的",
+        "f1": 0.0
+    },
+    {
+        "text": "san1 he2 yi1",
+        "ori_answer": "三和一",
+        "gen_answer": "三 合 一",
+        "f1": 0.0
+    },
+    {
+        "text": "wu3 na4 wo3 jie1 zhe5 ta1 wang3 xia4 xie3 le5 a5",
+        "ori_answer": "五那我接着它往下写了啊",
+        "gen_answer": "五 纳 我 接 着 她 往 下 写 了 一",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 he2 yi1",
+        "ori_answer": "二和一",
+        "gen_answer": "二 合 一",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 he2 yi1 hao3 na4 ru2 guo3 wo3 xie3 you3 mei2 you3 ke3 neng2 qi1 pai2 tou2 ne5",
+        "ori_answer": "一和一好那如果我写有没有可能七排头呢",
+        "gen_answer": "一 河 一 好 纳 如 果 我 写 有 没 有 可 能 期 排 头 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 er4 san1 si4 wu3 liu4",
+        "ori_answer": "一二三四五六",
+        "gen_answer": "一 二 三 四 五 六",
+        "f1": 0.0
+    },
+    {
+        "text": "lao3 da4 shi4 liu4 de5",
+        "ori_answer": "老大是六的",
+        "gen_answer": "老 大 是 六 的",
+        "f1": 0.0
+    },
+    {
+        "text": "gui1 lv4 jiu4 shi4 ni3 zhi3 yao4 zhao3 dao4 pai2 tou2 zai4 lian2 xu4 de5 jia1 dao4 yi1 shi4 bu4 shi4 jiu4 ke3 yi3 le5",
+        "ori_answer": "规律就是你只要找到排头再连续的加到一是不是就可以了",
+        "gen_answer": "规 律 就 是 你 只 要 找 到 排 头 在 连 续 的 加 到 一 是 不 是 就 可 以 了",
+        "f1": 0.0
+    },
+    {
+        "text": "dang1 ni3 lao3 da4 mei3 ci4 bian4 da4 yi1 ge4 shi2 hou4 ni3 de5 lao3 er4 ta1 hui4 zen3 me5 yang4 mei3 ci4",
+        "ori_answer": "当你老大每次变大一个时候你的老二他会怎么样每次",
+        "gen_answer": "当 你 老 大 每 次 变 大 一 个 时 候 你 的 老 二 她 会 怎 么 样 美 次",
+        "f1": 0.0
+    },
+    {
+        "text": "lao3 er4 jiu4 hui4 zen3 me5 yang4 bian4",
+        "ori_answer": "老二就会怎么样变",
+        "gen_answer": "老 二 就 会 怎 么 样 变",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 zai4 zhe4 li3 bian1 a5",
+        "ori_answer": "所以在这里边啊",
+        "gen_answer": "所 以 在 这 里 编 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "jia3 ru2 shuo1 ni3 chai1 chu1 lai2 yi1 dang1 lao3 da4 de5 shi2 hou4 you3 shi2 zhong3",
+        "ori_answer": "假如说你拆出来一当老大的时候有十种",
+        "gen_answer": "假 如 说 你 拆 出 来 一 当 老 大 的 时 候 有 十 种",
+        "f1": 0.0
+    },
+    {
+        "text": "lao3 da4 shi4 er4 de5 cai1 yi1 cai1 you3 ji3 zhong3",
+        "ori_answer": "老大是二的猜一猜有几种",
+        "gen_answer": "老 大 是 二 的 裁 一 裁 有 几 种",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 zhe4 dao4 ti2 qi2 shi2 ni3 zhi3 xu1 yao4 xie3 dao4 na3 li3 jiu4 xing2 le5 ne5",
+        "ori_answer": "所以这道题其实你只需要写到哪里就行了呢",
+        "gen_answer": "所 以 这 道 题 其 实 你 只 需 要 写 到 哪 里 就 行 了 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 shi4 xiang4 zhe4 zhong3 lei4 xing2 de5 a5",
+        "ori_answer": "就是像这种类型的啊",
+        "gen_answer": "就 是 像 这 种 类 型 的 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 shi2 jian1 dao4 le5",
+        "ori_answer": "好时间到了",
+        "gen_answer": "好 时 间 到 了",
+        "f1": 0.0
+    },
+    {
+        "text": "qi2 shi2 xiang4 zhe4 zhong3 ne5 zui4 guan1 zhong4 yao4 de5 jiu4 shi4 ni3 yao4 xue2 hui4 qu4 ai1 zhu4 yi4 zhe4 ge4 shun4 xu4 qu4 zhao3 gui1 lv4 dui4 ba5",
+        "ori_answer": "其实像这种呢最关重要的就是你要学会去哎注意这个顺序去找规律对吧",
+        "gen_answer": "其 实 像 这 种 呢 最 关 重 要 的 就 是 你 要 学 会 去 爱 助 益 这 个 顺 序 去 找 规 律 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "ran2 hou4 mei3 ge4 xiao3 peng2 you3 zhi4 shao3 fen1 yi1 kuai4 zhi4 shao3 you3 duo1 shao3 zhong3 bu4 tong2 de5 fen1 fa3",
+        "ori_answer": "然后每个小朋友至少分一块至少有多少种不同的分法",
+        "gen_answer": "然 后 每 个 小 朋 友 至 少 分 一 块 至 少 有 多 少 种 不 同 的 分 法",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 A B C ying1 wen2 ming2 bu4 jiu4 hao3 le5 ma5 dui4 ba5",
+        "ori_answer": "哎ABC英文名不就好了嘛对吧",
+        "gen_answer": "埃 阿 斯 文 明 名 不 就 好 了 吗 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "zhu1 er4 pi4",
+        "ori_answer": "猪二屁",
+        "gen_answer": "诸 二 批",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 jiu4 cong2 yi1 kai1 shi3 le5 lou2 yi1 ran2 hou4 jie1 xia4 lai2 hai2 sheng4 xia4 ji3 a5",
+        "ori_answer": "我就从一开始了喽一然后接下来还剩下几啊",
+        "gen_answer": "我 就 从 一 开 始 了 楼 依 然 后 接 下 来 还 剩 下 几 个",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 yi1 shi4 zhao3 gui1 lv4 gang1 gang1 de5 gui1 lv4 shi4 ke3 yi3 yong4 de5",
+        "ori_answer": "试一试找规律刚刚的规律是可以用的",
+        "gen_answer": "是 一 是 找 规 律 刚 刚 的 规 律 试 可 以 用 的",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 gang1 hao3 jin4 ru4 dao4 zan2 men5 de5 di4 er4 jie2 ke4 ke4 qing1",
+        "ori_answer": "那刚好进入到咱们的第二节课课清",
+        "gen_answer": "那 刚 好 进 入 到 攒 们 的 第 二 节 课 课 厅",
+        "f1": 0.0
+    },
+    {
+        "text": "ke4 qing1 shi2 jian1 a5 di4 er4 jie2 ke4 de5 ke4 qing1",
+        "ori_answer": "课清时间啊第二节课的课清",
+        "gen_answer": "客 情 时 间 啊 第 二 节 课 的 客 情",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ci4 mei2 you3 diao4 keng1 li3 ma5",
+        "ori_answer": "这次没有掉坑里吗",
+        "gen_answer": "这 次 没 有 调 eng 理 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "hai2 ji4 de5 bo2 shi4 dui4 wo3 men5 shuo1 de5 hua4 ma5",
+        "ori_answer": "还记得博士对我们说的话吗",
+        "gen_answer": "还 记 得 博 士 对 我 们 说 的 话 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "ba3 shi2 er4 kuai4 qiao3 ke4 li4 quan2 bu4 fen4 gei3 san1 wei4 xiao3 peng2 you3",
+        "ori_answer": "把十二块巧克力全部分给三位小朋友",
+        "gen_answer": "把 十 二 块 巧 克 力 全 部 份 给 三 位 小 朋 友",
+        "f1": 0.0
+    },
+    {
+        "text": "fen1 gei3 san1 ge4 xiao3 peng2 you3",
+        "ori_answer": "分给三个小朋友",
+        "gen_answer": "分 给 三 个 小 朋 友",
+        "f1": 0.0
+    },
+    {
+        "text": "ke3 yi3 dui4 ba5 dan4 shi4 zui4 jian3 dan1 de5 hai2 shi4 A B C a5",
+        "ori_answer": "可以对吧但是最简单的还是ABC啊",
+        "gen_answer": "可 以 对 吧 但 是 最 简 单 的 还 是 A B C 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "ran2 hou4 mian4 shi2 yi1",
+        "ori_answer": "然后面十一",
+        "gen_answer": "然 后 面 十 一",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 wo3 zui4 shao3 zui4 shao3 bao3 bei4 men5 da4 sheng1 de5 gao4 su4 mei3 li4 ying1 gai1 cong2 ji3 kai1 shi3 ya5",
+        "ori_answer": "所以我最少最少宝贝们大声的告诉美丽应该从几开始呀",
+        "gen_answer": "所 以 我 最 少 最 少 保 备 们 大 生 的 告 诉 美 利 应 该 从 几 开 始 亚",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 cong2 ji3 kai1 shi3",
+        "ori_answer": "他从几开始",
+        "gen_answer": "她 从 几 开 始",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 gei3 ni3 wu3 fen1 zhong1 shi2 jian1 zi4 ji3 ba3 zhe4 dao4 ti2 shi4 zhe5 qu4 xie3 wan2 a5",
+        "ori_answer": "哎给你五分钟时间自己把这道题试着去写完啊",
+        "gen_answer": "埃 给 你 五 分 钟 时 间 自 己 把 这 道 题 试 着 解 解 完 了",
+        "f1": 0.0
+    },
+    {
+        "text": "hai2 shi4 fei1 chang2 li4 hai4 de5",
+        "ori_answer": "还是非常厉害的",
+        "gen_answer": "还 是 非 常 利 害 的",
+        "f1": 0.0
+    },
+    {
+        "text": "ran2 hou4 wu3 si4",
+        "ori_answer": "然后五四",
+        "gen_answer": "然 后 五 四",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 si4 dang1 pai2 tou2 wo3 men5 ji4 xu4 lou2",
+        "ori_answer": "好四当排头我们继续喽",
+        "gen_answer": "好 四 当 排 头 我 们 继 续 楼",
+        "f1": 0.0
+    },
+    {
+        "text": "ran2 hou4 ba3 fen1 cheng2 san1 wu3",
+        "ori_answer": "然后把分成三五",
+        "gen_answer": "然 后 把 分 成 三 五",
+        "f1": 0.0
+    },
+    {
+        "text": "cong2 wu3 kai1 shi3 lou2",
+        "ori_answer": "从五开始喽",
+        "gen_answer": "从 五 开 始 楼",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5 zhe4 shi4 wu3 pai2 tou2 de5",
+        "ori_answer": "对吧这是五排头的",
+        "gen_answer": "对 吧 这 是 五 排 头 的",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 mei3 yi1 dui1 ye3 shi4 mei3 ren2 zhi4 shao3 fen1 san1 ge4 a5",
+        "ori_answer": "那每一堆也是每人至少分三个啊",
+        "gen_answer": "那 每 一 堆 也 是 每 人 至 少 分 三 个 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 na4 jie1 xia4 lai2 ni3 kan4 kan4 zong3 shu4 shi4 duo1 shao3",
+        "ori_answer": "好那接下来你看看总数是多少",
+        "gen_answer": "好 纳 哥 下 来 你 看 看 总 数 是 多 少",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 deng3 yu2",
+        "ori_answer": "一等于",
+        "gen_answer": "一 等 于",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 me5 zong3 gong4 de5 zong3 shu4 jiu4 shi4 cong2 ji3 jia1 dao4 yi1",
+        "ori_answer": "那么总共的总数就是从几加到一",
+        "gen_answer": "那 么 总 共 的 总 数 就 是 从 几 家 到 一",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 zhu4 yi4 ni3 xie3 dui4 le5 ji1 ben3 shang4 mei2 wen4 ti2",
+        "ori_answer": "这个注意你写对了基本上没问题",
+        "gen_answer": "这 个 注 意 你 写 对 了 基 本 上 没 问 题",
+        "f1": 0.0
+    },
+    {
+        "text": "mei3 ci4 dou1 shi4 cong2 san1 kai1 shi3",
+        "ori_answer": "每次都是从三开始",
+        "gen_answer": "每 次 都 是 从 三 开 始",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 na4 me5 jin1 tian1 suo3 you3 nei4 rong2 jiu4 dao4 zhe4 li3 jie2 shu4 le5 a5",
+        "ori_answer": "哎那么今天所有内容就到这里结束了啊",
+        "gen_answer": "埃 娜 么 今 天 所 有 内 容 就 到 这 里 结 束 了 阿",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 na4 yi1 hui4 er5 zong3 jie2 de5 shi2 hou4 ne5 a5",
+        "ori_answer": "好那一会儿总结的时候呢啊",
+        "gen_answer": "好 那 一 会 二 总 结 的 时 候 呢 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 shi4 zhe4 ge4 cang1 ku4 de5 guan3 li3 yuan2",
+        "ori_answer": "我是这个仓库的管理员",
+        "gen_answer": "我 是 这 个 仓 库 的 管 理 员",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 gang1 gang1 de5 kuai4 di4 xiao3 ge1",
+        "ori_answer": "那刚刚的快递小哥",
+        "gen_answer": "那 刚 刚 的 块 地 小 哥",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 bei4 pian4 le5",
+        "ori_answer": "我们被骗了",
+        "gen_answer": "我 们 被 骗 了",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 shi4 wo3 men5 tong1 guo4 zi4 ji3 xin1 xin1 lao2 dong4 shou1 huo4 de5 chou2 lao2",
+        "ori_answer": "这是我们通过自己辛心劳动收获的筹劳",
+        "gen_answer": "这 是 我 们 通 过 自 己 新 新 劳 动 收 获 的 筹 劳",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 jiu4 shuo1 bai4 bai4 le5",
+        "ori_answer": "我们就说拜拜了",
+        "gen_answer": "我 们 就 说 败 败 了",
+        "f1": 0.0
+    },
+    {
+        "text": "da4 jia1 zhu4 yi4",
+        "ori_answer": "大家注意",
+        "gen_answer": "大 家 注 意",
+        "f1": 0.0
+    },
+    {
+        "text": "da4 jia1 xue2 de5 li4 xue2 nan2 bu4 nan2 a5",
+        "ori_answer": "大家学的力学难不难啊",
+        "gen_answer": "大 家 学 的 利 学 难 不 难 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 bu2 yao4 zhuang1 a5",
+        "ori_answer": "所以不要装啊",
+        "gen_answer": "所 以 不 要 装 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "zan2 men5 hai2 shi4 yi3 ting1 dong3 wei2 zhu3 a5",
+        "ori_answer": "咱们还是以听懂为主啊",
+        "gen_answer": "严 们 还 是 以 听 董 为 主 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 bi4 xu1 dei3 cong2 yi1 ge4 te4 bie2 niu2 bai1 de5 ren2 wu4 jiang3 qi3",
+        "ori_answer": "就必须得从一个特别牛掰的人物讲起",
+        "gen_answer": "就 必 须 得 从 一 个 特 别 牛 包 的 人 物 奖 起",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 tong2 xue2 shuo1 bi4 da2 ge1 a1 si1",
+        "ori_answer": "有同学说毕达哥阿斯",
+        "gen_answer": "有 同 学 说 必 达 哥 阿 斯",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 jiao4 ya4",
+        "ori_answer": "它叫亚",
+        "gen_answer": "她 较 亚",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 zai4 na4 ge4 shi2 hou4 cheng1 zhi1 wei2 wei3 da4 de5 zhe2 xue2 jia1",
+        "ori_answer": "他在那个时候称之为伟大的哲学家",
+        "gen_answer": "他 在 那 个 时 候 称 之 为 伟 大 的 哲 学 家",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 wei4 shen2 me5 zhe4 me5 you1 xiu4",
+        "ori_answer": "他为什么这么优秀",
+        "gen_answer": "他 为 什 么 这 么 忧 虑",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 bu2 yao4 lao3 zai4 wo3 tou2 shang4 an4 mao4 zi5",
+        "ori_answer": "你不要老在我头上按帽子",
+        "gen_answer": "你 不 要 老 在 我 头 上 按 冒 子",
+        "f1": 0.0
+    },
+    {
+        "text": "bo2 la1 tu2",
+        "ori_answer": "柏拉图",
+        "gen_answer": "博 拉 图",
+        "f1": 0.0
+    },
+    {
+        "text": "fen1 wei2 wei2 wu4 he2 wei2 xin1 dui4 bu4 dui4",
+        "ori_answer": "分为维物和维新对不对",
+        "gen_answer": "分 为 违 物 和 违 心 对 不 对",
+        "f1": 0.0
+    },
+    {
+        "text": "jiao4 su1 ge2 la1 di3",
+        "ori_answer": "叫苏格拉底",
+        "gen_answer": "较 苏 格 拉 底",
+        "f1": 0.0
+    },
+    {
+        "text": "cai2 hui4 man4 man4 de5 xing2 cheng2 zi4 ji3 de5 men2 pai4",
+        "ori_answer": "才会慢慢的形成自己的门派",
+        "gen_answer": "财 会 慢 慢 地 形 成 自 己 的 门 派",
+        "f1": 0.0
+    },
+    {
+        "text": "wu4 li3 hua4 xue2 sheng1 wu4",
+        "ori_answer": "物理化学生物",
+        "gen_answer": "物 理 化 学 生 物",
+        "f1": 0.0
+    },
+    {
+        "text": "qi2 ta1 ren2 jiu4 jue2 de5",
+        "ori_answer": "其他人就觉得",
+        "gen_answer": "其 他 人 就 觉 得 很",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 me5 li4 hai4 de5 yi1 ge4 ren2",
+        "ori_answer": "这么厉害的一个人",
+        "gen_answer": "这 么 利 害 的 一 个 人",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 xiang4 jiu4 fan4 le5 san1 ge4 bi3 jiao4 da4 de5 cuo4 wu4",
+        "ori_answer": "好像就犯了三个比较大的错误",
+        "gen_answer": "好 像 就 饭 了 三 个 比 较 大 的 错 误",
+        "f1": 0.0
+    },
+    {
+        "text": "zhen1 kong1 bu2 hui4 cun2 zai4",
+        "ori_answer": "真空不会存在",
+        "gen_answer": "真 空 不 会 存 在",
+        "f1": 0.0
+    },
+    {
+        "text": "ga1 li4 lve4 bing4 bu4 shi4",
+        "ori_answer": "伽利略并不是",
+        "gen_answer": "加 力 略 并 不 是",
+        "f1": 0.0
+    },
+    {
+        "text": "shui2 zheng4 ming2 chu1 lai2 le5 ne5",
+        "ori_answer": "谁证明出来了呢",
+        "gen_answer": "谁 证 明 出 来 了 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 ni3 hui4 fa1 xian4",
+        "ori_answer": "因为你会发现",
+        "gen_answer": "因 为 你 会 发 现",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wo3 men5 zai4 kan4 shuo1 de5 di4 er4 ju4 cuo4 hua4",
+        "ori_answer": "那我们再看说的第二句错话",
+        "gen_answer": "那 我 们 在 看 说 的 第 二 句 措 话",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5",
+        "ori_answer": "对吧",
+        "gen_answer": "对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "yun4 dong4 ting2 zhi3",
+        "ori_answer": "运动停止",
+        "gen_answer": "运 动 停 止",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 tui1 gen1 ben3 dou1 bu4 dong4",
+        "ori_answer": "不推根本都不动",
+        "gen_answer": "不 推 根 本 都 不 动",
+        "f1": 0.0
+    },
+    {
+        "text": "da3 ta1 lian3 de5 na4 ge4 ren2 jiao4 shen2 me5 ne5",
+        "ori_answer": "打他脸的那个人叫什么呢",
+        "gen_answer": "打 他 脸 的 那 个 人 教 什 么 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "ga1 li4 lve4 jia1 li3 bi3 jiao4 you3 qian2 a5",
+        "ori_answer": "伽利略家里比较有钱啊",
+        "gen_answer": "加 力 略 加 理 比 较 有 潜 味",
+        "f1": 0.0
+    },
+    {
+        "text": "jin1 shu3 cao2",
+        "ori_answer": "金属槽",
+        "gen_answer": "金 属 草",
+        "f1": 0.0
+    },
+    {
+        "text": "yu2 shi4 ba3 zhe4 ge4 jin1 shu3 cao2 you4 da3 le5 yi1 ci4",
+        "ori_answer": "于是把这个金属槽又打了一次",
+        "gen_answer": "于 是 把 这 个 金 属 草 又 打 了 一 次",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 ba3 zhe4 ge4 jin1 shu3 cao2 da3 cheng2 shui3 ping2 de5 hua4",
+        "ori_answer": "我把这个金属槽打成水平的话",
+        "gen_answer": "我 把 这 个 金 属 草 打 成 水 平 的 画",
+        "f1": 0.0
+    },
+    {
+        "text": "ji4 ran2 yi1 zhi2 zhao3 bu4 dao4",
+        "ori_answer": "既然一直找不到",
+        "gen_answer": "既 然 一 直 找 不 到",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 xu1 yao4 li4 de5 wei2 chi2",
+        "ori_answer": "不需要力的维持",
+        "gen_answer": "不 需 要 立 的 维 持",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 ge4 xiao3 qiu2 cong2 A dian3 pao3 dao4 B dian3 de5 shi2 hou4",
+        "ori_answer": "一个小球从A点跑到B点的时候",
+        "gen_answer": "一 个 小 球 从 A 点 跑 到 B 点 的 时 候",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 cai2 de2 dao4 zhe4 ge4 jie2 lun4",
+        "ori_answer": "所以才得到这个结论",
+        "gen_answer": "所 以 才 得 到 这 个 结 论",
+        "f1": 0.0
+    },
+    {
+        "text": "zuo4 qi2 ta1 shi4 qing2 qu4 le5",
+        "ori_answer": "做其他事情去了",
+        "gen_answer": "作 其 他 事 情 去 了",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 ren2 jiao4 shen2 me5 ne5",
+        "ori_answer": "这个人叫什么呢",
+        "gen_answer": "这 个 人 较 什 么 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "bing4 bu4 shi4 shuo1 duo1 cong1 ming2",
+        "ori_answer": "并不是说多聪明",
+        "gen_answer": "并 不 是 说 多 从 明",
+        "f1": 0.0
+    },
+    {
+        "text": "zhan4 zai4 ta1 de5 jian1 bang3 shang4",
+        "ori_answer": "站在它的肩膀上",
+        "gen_answer": "站 在 她 的 肩 膀 上",
+        "f1": 0.0
+    },
+    {
+        "text": "zuo4 yi1 mu2 yi1 yang4 zhe4 jiu4 jiao4 chao1 xi2 le5",
+        "ori_answer": "做一模一样这就叫抄袭了",
+        "gen_answer": "做 一 幕 一 样 这 就 较 超 习 了",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 zan2 men5 kan4 yi1 xia4 a5",
+        "ori_answer": "好咱们看一下啊",
+        "gen_answer": "好 牢 们 看 一 下 阿",
+        "f1": 0.0
+    },
+    {
+        "text": "tong2 yi1 xie2 mian4",
+        "ori_answer": "同一斜面",
+        "gen_answer": "同 一 条 面",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 kan4 mao2 jin1 mian2 bu4 he2 mu4 ban3",
+        "ori_answer": "你看毛巾棉布和木板",
+        "gen_answer": "你 看 毛 金 棉 不 合 目 板",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 pao3 de5 shi2 jiu4 bu4 gou4 yuan3",
+        "ori_answer": "它跑的时就不够远",
+        "gen_answer": "他 跑 得 实 就 不 够 远",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ju4 hua4 da4 jia1 neng2 zhi1 dao4 wei4 shen2 me5 cong2 zhe4 ge4 shi2 yan4 de2 dao4 le5",
+        "ori_answer": "这句话大家能知道为什么从这个实验得到了",
+        "gen_answer": "这 句 话 大 家 能 知 道 为 什 么 从 这 个 实 验 得 到 了",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 san1 ge4 xiao3 che1 shi4 bu4 ju4 you3",
+        "ori_answer": "那三个小车是不具有",
+        "gen_answer": "那 三 个 小 车 是 不 具 有",
+        "f1": 0.0
+    },
+    {
+        "text": "dan4 shi4 you2 yu2 shou4 dao4 de5 zu3 li4 bu4 yi1 yang4",
+        "ori_answer": "但是由于受到的阻力不一样",
+        "gen_answer": "但 是 由 于 受 到 的 组 立 不 一 样",
+        "f1": 0.0
+    },
+    {
+        "text": "yun4 dong4 zhuang4 tai4 gai3 bian4 de5 yue4 kuai4",
+        "ori_answer": "运动状态改变的越快",
+        "gen_answer": "运 动 状 态 改 变 的 月 块",
+        "f1": 0.0
+    },
+    {
+        "text": "dang1 ru2 guo3 zhe4 ge4 mian4 zu2 gou4 guang1 hua2",
+        "ori_answer": "当如果这个面足够光滑",
+        "gen_answer": "当 如 果 这 个 面 族 购 光 华",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 mei2 you3 shou4 li4 de5 hua4",
+        "ori_answer": "如果没有受力的话",
+        "gen_answer": "如 果 没 有 受 力 的 化",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 neng2",
+        "ori_answer": "不能",
+        "gen_answer": "不 能",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 jiao4 li3 xiang3 shi2 yan4 wo3 ke3 yi3 tui1 li3",
+        "ori_answer": "所以叫理想实验我可以推理",
+        "gen_answer": "所 以 教 理 想 实 验 我 可 以 推 理",
+        "f1": 0.0
+    },
+    {
+        "text": "tong2 yi1 xiao3 che1 tong2 yi1 xie2 mian4 tong2 yi1 gao1 du4 you2 jing4 zhi3 xia4 hua2",
+        "ori_answer": "同一小车同一斜面同一高度由静止下滑",
+        "gen_answer": "同 一 小 车 同 一 些 面 同 一 高 度 油 靖 止 下 滑",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 kong4 zhi4 zhe4 me5 duo1 de5 bian4 liang4 de5 mu4 di4",
+        "ori_answer": "我控制这么多的变量的目的",
+        "gen_answer": "我 控 制 这 么 多 的 变 量 的 目 的",
+        "f1": 0.0
+    },
+    {
+        "text": "di4 er4 ge4 kao3 dian3 jiu4 shi4 zhe4 ge4 shi2 yan4 de5 shi2 yan4 fang1 shi4",
+        "ori_answer": "第二个考点就是这个实验的实验方式",
+        "gen_answer": "第 二 个 考 点 就 是 这 个 实 验 的 实 验 方 式",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 zhong3 shi2 yan4 fang1 shi4 zhi3 you3 liang3 ge4 tan4 jiu1 zhong1 yong4 de5",
+        "ori_answer": "这种实验方式只有两个探究中用的",
+        "gen_answer": "这 种 实 验 方 式 只 有 两 个 探 究 中 用 的",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 zui4 zhong1 ye3 shi4 tui1 chu1 lai2 de5",
+        "ori_answer": "所最终也是推出来的",
+        "gen_answer": "所 最 终 也 是 推 出 来 的",
+        "f1": 0.0
+    },
+    {
+        "text": "huo4 ke1 xue2 tui1 li3 fa3",
+        "ori_answer": "或科学推理法",
+        "gen_answer": "获 科 学 推 理 法",
+        "f1": 0.0
+    },
+    {
+        "text": "ba3 wen2 zi4 chong2 xin1 de5 zu3 zhi1 le5 yi1 xia4",
+        "ori_answer": "把文字重新的组织了一下",
+        "gen_answer": "把 文 字 重 新 地 组 织 了 一 下",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 qie4 wu4 ti3 zai4 mei2 you3 shou4 li4 de5 zuo4 yong4 shi2",
+        "ori_answer": "一切物体在没有受力的作用时",
+        "gen_answer": "一 切 物 体 在 没 有 受 力 的 作 用 时",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 yong4 ba1 ge4 zi4 lai2 bang1 da4 jia1 lai2 ji4 zhe4 ju4 hua4",
+        "ori_answer": "我用八个字来帮大家来记这句话",
+        "gen_answer": "我 用 八 个 字 来 帮 大 家 来 记 这 句 话",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 ta1 shi4 jing4 zhi3 de5",
+        "ori_answer": "如果它是静止的",
+        "gen_answer": "如 果 他 是 净 值 的",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 jiu4 shi4 liu2 yi1 ding4 lve4 a5",
+        "ori_answer": "这就是留一定略啊",
+        "gen_answer": "这 就 是 流 一 定 略 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "ting1 guo4 dan1 ban3 mei2 you3",
+        "ori_answer": "听过单版没有",
+        "gen_answer": "听 过 单 板 没 有",
+        "f1": 0.0
+    },
+    {
+        "text": "na2 ge4 huai2 biao3",
+        "ori_answer": "拿个怀表",
+        "gen_answer": "拿 个 怀 表",
+        "f1": 0.0
+    },
+    {
+        "text": "zhao3 ge4 sheng2 zi5 diao4 zhe5",
+        "ori_answer": "找个绳子吊着",
+        "gen_answer": "找 个 生 子 扛 着",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 rang4 zhe4 ge4 xiao3 qiu2 cong2 A dian3 kai1 shi3 bai3",
+        "ori_answer": "我们让这个小球从A点开始摆",
+        "gen_answer": "我 们 让 这 个 小 球 从 点 开 始 摆",
+        "f1": 0.0
+    },
+    {
+        "text": "qing3 wen4 zhe4 ge4 shi2 hou4 xiao3 qiu2 zuo4 shen2 me5 yun4 dong4",
+        "ori_answer": "请问这个时候小球做什么运动",
+        "gen_answer": "请 问 这 个 时 候 小 球 做 什 么 运 动",
+        "f1": 0.0
+    },
+    {
+        "text": "la1 li4 ye3 shi4 wai4 li4",
+        "ori_answer": "拉力也是外力",
+        "gen_answer": "拉 力 也 是 外 力",
+        "f1": 0.0
+    },
+    {
+        "text": "mei2 you3 la1 li4 jiu4 yi4 wei4 zhe5 zhe4 ge4 sheng2 zi5 duan4 le5",
+        "ori_answer": "没有拉力就意味着这个绳子断了",
+        "gen_answer": "没 有 拉 力 就 意 味 着 这 个 生 子 断 了",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 yi1 ge4 shui3 ping2 chu1 su4 du4",
+        "ori_answer": "有一个水平初速度",
+        "gen_answer": "有 一 个 水 平 出 速 度",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 zhi2 dong4 xia4 qu4 a5",
+        "ori_answer": "一直动下去啊",
+        "gen_answer": "一 直 动 下 去 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "zai4 bai3 dao4 zui4 gao1 dian3",
+        "ori_answer": "再摆到最高点",
+        "gen_answer": "在 摆 到 最 高 点",
+        "f1": 0.0
+    },
+    {
+        "text": "xiao3 qiu2 zen3 me5 ban4",
+        "ori_answer": "小球怎么办",
+        "gen_answer": "小 球 怎 么 办",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 shuo1 de5 zhe4 shi4 zui4 gao1 dian3 you3 mei2 you3 su4 du4",
+        "ori_answer": "我说的这是最高点有没有速度",
+        "gen_answer": "我 说 的 这 是 最 高 点 有 没 有 速 度",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 xian1 fen1 xi1 yi1 xia4",
+        "ori_answer": "你先分析一下",
+        "gen_answer": "你 先 分 析 一 下",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 mei2 su4 du4 jiu4 bao3 chi2 jing4 zhi3",
+        "ori_answer": "如果没速度就保持静止",
+        "gen_answer": "如 果 没 速 度 就 保 持 净 指",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 fa1 xian4 niu2 yi1 ding4 lv4 he2 wo3 men5 ping2 shi2 ri4 chang2 sheng1 huo2 zhong1",
+        "ori_answer": "因为发现牛一定律和我们平时日常生活中",
+        "gen_answer": "因 为 发 现 牛 一 定 率 合 我 们 平 时 日 常 生 活 中",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 zai4",
+        "ori_answer": "我们再",
+        "gen_answer": "我 们 在",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 me5 jin1 tian1 lai2 xi4 tong3 de5 xue2 xi2 yi1 xia4 a5",
+        "ori_answer": "那么今天来系统的学习一下啊",
+        "gen_answer": "那 么 今 天 来 系 统 的 学 习 一 下 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "ying1 gai1 zai4 bu4 shou4 wai4 li4 de5 shi2 hou4 yi1 zhi2 bao3 chi2 yi1 yang4 de5 yun4 dong4 zhuang4 tai4 ma5",
+        "ori_answer": "应该在不受外力的时候一直保持一样的运动状态嘛",
+        "gen_answer": "应 该 在 不 受 外 力 的 时 候 一 直 保 持 一 样 的 运 动 状 态 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 xin1 yi1 yi4 xiang3 xue2 xi2",
+        "ori_answer": "一心一意想学习",
+        "gen_answer": "一 心 一 意 想 学 习",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 jiu4 jiao4 guan4 xing4",
+        "ori_answer": "这就叫惯性",
+        "gen_answer": "这 就 较 冠 姓",
+        "f1": 0.0
+    },
+    {
+        "text": "dan4 shi4 ni3 jiu4 shi4 bu4 xiang3 qi3 lai2 jiu4 yao4 shui4 lan3 jue2",
+        "ori_answer": "但是你就是不想起来就要睡懒觉",
+        "gen_answer": "但 是 你 就 是 不 想 起 来 就 要 睡 懒 觉",
+        "f1": 0.0
+    },
+    {
+        "text": "wei4 le5 bang1 zhu4 da4 jia1",
+        "ori_answer": "为了帮助大家",
+        "gen_answer": "为 了 帮 助 大 家",
+        "f1": 0.0
+    },
+    {
+        "text": "zan2 men5 yi3",
+        "ori_answer": "咱们以",
+        "gen_answer": "凭 们 以",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 hao3 lai2",
+        "ori_answer": "好好来",
+        "gen_answer": "好 好 来",
+        "f1": 0.0
+    },
+    {
+        "text": "gan1 zao4 liu2 shi3 da4 jia1 ying1 gai1 jian4 guo4 a5",
+        "ori_answer": "甘燥流史大家应该见过啊",
+        "gen_answer": "干 造 流 使 大 家 应 该 见 过 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 hui4 shuai1 dui4 ba5",
+        "ori_answer": "她会摔对吧",
+        "gen_answer": "她 会 摔 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 zai4 mei2 you3 xue2 wu4 li3 zhi1 qian2 ni3 fa1 xian4 hen3 duo1 sheng1 huo2 xian4 xiang4 wo3 men5 dou1 zhi1 dao4 jie2 guo3",
+        "ori_answer": "我们在没有学物理之前你发现很多生活现象我们都知道结果",
+        "gen_answer": "我 们 在 没 有 学 务 理 之 前 你 发 现 很 多 生 活 现 象 我 们 都 知 道 结 果",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5 ti1 dao4 le5 ma5 jiao3 jiu4 bu4 de2 bu4",
+        "ori_answer": "对吧踢到了吗脚就不得不",
+        "gen_answer": "对 把 踢 到 了 马 角 就 不 得 不",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5",
+        "ori_answer": "对吧",
+        "gen_answer": "对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 na4 zai4 ju3 ge4 li4 zi5",
+        "ori_answer": "好那再举个例子",
+        "gen_answer": "好 纳 在 举 个 例 子",
+        "f1": 0.0
+    },
+    {
+        "text": "tu1 ran2 sha1 che1",
+        "ori_answer": "突然刹车",
+        "gen_answer": "突 然 杀 车",
+        "f1": 0.0
+    },
+    {
+        "text": "che1 shi4 ma5",
+        "ori_answer": "车是吗",
+        "gen_answer": "车 事 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "dan4 shi4 qiu2 yao4 bao3 chi2 yuan2 you3 de5 yun4 dong4 zhuang4 tai4",
+        "ori_answer": "但是球要保持原有的运动状态",
+        "gen_answer": "但 是 求 要 保 持 原 有 的 运 动 状 态",
+        "f1": 0.0
+    },
+    {
+        "text": "bao3 chi2 yuan2 zhuang4",
+        "ori_answer": "保持原状",
+        "gen_answer": "保 持 原 状",
+        "f1": 0.0
+    },
+    {
+        "text": "zhi1 qian2 de5 yun4 dong4 zhuang4 tai4",
+        "ori_answer": "之前的运动状态",
+        "gen_answer": "之 前 的 运 动 状 态",
+        "f1": 0.0
+    },
+    {
+        "text": "gai3 bian4 yun4 dong4 zhuang4 tai4 de5 bu4 wei4",
+        "ori_answer": "改变运动状态的部位",
+        "gen_answer": "改 变 运 动 状 态 的 不 为",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 shi4 yi3 zhe4 yang4 de5 yi1 ge4 li4 zi5 a5",
+        "ori_answer": "这是以这样的一个例子啊",
+        "gen_answer": "这 是 以 这 样 的 一 个 例 子 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "kao3 de5 zui4 duo1 ye3 bi3 jiao4 jian3 dan1 rong2 yi4 de2 fen1 de5 shi4 zhe4 zhong3",
+        "ori_answer": "考的最多也比较简单容易得分的是这种",
+        "gen_answer": "考 得 最 多 也 比 较 简 单 容 易 得 分 的 是 这 种",
+        "f1": 0.0
+    },
+    {
+        "text": "gen1 ju4 sheng1 huo2 chang2 shi2 wo3 jiu4 zhi1 dao4 da2 an4",
+        "ori_answer": "根据生活常识我就知道答案",
+        "gen_answer": "根 据 生 活 长 时 我 就 知 道 达 案",
+        "f1": 0.0
+    },
+    {
+        "text": "qing3 wen4",
+        "ori_answer": "请问",
+        "gen_answer": "请 问",
+        "f1": 0.0
+    },
+    {
+        "text": "zhuang4 tai4 a5 na1 jie1 xia4 lai2 chu1 yi1 dao4 nan2 de5",
+        "ori_answer": "状态啊那接下来出一道难的",
+        "gen_answer": "状 态 啊 拿 接 下 来 出 一 道 难 的",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 yi1 ge4 dian3",
+        "ori_answer": "有一个点",
+        "gen_answer": "有 一 个 点",
+        "f1": 0.0
+    },
+    {
+        "text": "zai4 A dian3 de5 ren2 ru2 guo3 xiang4 shang4 tiao4",
+        "ori_answer": "在A点的人如果向上跳",
+        "gen_answer": "在 点 的 人 如 果 像 上 跳",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 xian4 zai4 jiu4 zhan4 zai4 nan2 zhou1",
+        "ori_answer": "你现在就站在南州",
+        "gen_answer": "你 现 在 就 站 在 南 周",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 ba5",
+        "ori_answer": "是吧",
+        "gen_answer": "是 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "dan4 shi4 wei4 shen2 me5 ne5",
+        "ori_answer": "但是为什么呢",
+        "gen_answer": "但 是 为 什 么 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 ni3 luo4 bu4 dao4 yuan2 dian3 de5 hua4",
+        "ori_answer": "如果你落不到原点的话",
+        "gen_answer": "如 果 你 落 步 到 原 点 的 话",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 shuo1 a5 ji4 de5 luo4 di4 dian3 bu4 bian4 yuan2 yin1 shi4 guan4 xing4",
+        "ori_answer": "所以说啊记得落地点不变原因是惯性",
+        "gen_answer": "所 以 说 阿 季 的 落 地 点 不 便 原 因 是 冠 性",
+        "f1": 0.0
+    },
+    {
+        "text": "xiang4 xi1 bian1 tiao4",
+        "ori_answer": "像西边跳",
+        "gen_answer": "向 西 边 跳",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 yang4 yuan3",
+        "ori_answer": "一样远",
+        "gen_answer": "一 样 远",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 kan4 di4 qiu2 zi4 zhuan4 cong2 xi1 wang3 dong1 zhuan3",
+        "ori_answer": "你看地球自转从西往东转",
+        "gen_answer": "你 看 地 球 自 献 从 西 往 东 转",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 tiao4 yuan3 zhi3 you2 shen2 me5 jue2 ding4 ne5 ni3 de5 tui3 bu4 ji1 rou4 jue2 ding4",
+        "ori_answer": "你跳远只由什么决定呢你的腿部肌肉决定",
+        "gen_answer": "你 跳 远 只 由 什 么 决 定 呢 你 的 腿 部 肌 肉 决 定",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5 ni3 lai2 tiao4 yuan3",
+        "ori_answer": "对吧你来跳远",
+        "gen_answer": "对 吧 你 来 跳 远",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 jiu4 xing2 le5 ma5",
+        "ori_answer": "不就行了吗",
+        "gen_answer": "不 就 行 了 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "xi1 wang4 zhe4 dao4 li4 ti2 jiang3 wan2 zhi1 hou4",
+        "ori_answer": "希望这道例题讲完之后",
+        "gen_answer": "希 望 这 道 理 题 讲 完 之 后",
+        "f1": 0.0
+    },
+    {
+        "text": "zhu4 yi4 ting1",
+        "ori_answer": "注意听",
+        "gen_answer": "助 益 听",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 ceng2 jing1 kao3 guo4",
+        "ori_answer": "因为曾经考过",
+        "gen_answer": "因 为 曾 经 考 过",
+        "f1": 0.0
+    },
+    {
+        "text": "niu2 yi1 ding4 lv4 jiu4 shi4 yi1 ge4 gui1 lv4 dui4 ba5",
+        "ori_answer": "牛一定律就是一个规律对吧",
+        "gen_answer": "牛 一 定 绿 就 是 一 个 规 律 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "xian1 bie2 zhao2 ji2 ji4 xian1 ting1",
+        "ori_answer": "先别着急记先听",
+        "gen_answer": "掀 别 招 集 记 先 听",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 shi4 dui4 de5",
+        "ori_answer": "它是对的",
+        "gen_answer": "她 是 对 的",
+        "f1": 0.0
+    },
+    {
+        "text": "niu2 yi1 ding4 lv4 ji4 ran2 shuo1 le5 yi1 qie4 wu4 ti3 na4 shuo1 ming2 guan4 xing4 ding4 lv4",
+        "ori_answer": "牛一定律既然说了一切物体那说明惯性定律",
+        "gen_answer": "牛 一 定 绿 季 然 说 了 一 切 误 体 纳 说 名 冠 性 定 律",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 guan3 zhe4 wu4 ti3 shi4 dong4 de5",
+        "ori_answer": "不管这物体是动的",
+        "gen_answer": "不 管 这 物 体 适 动 的",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 guan4 xing4",
+        "ori_answer": "有惯性",
+        "gen_answer": "有 惯 性",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 men5 jue2 de5 guan4 xing4 zhe4 ge4 dong1 xi1",
+        "ori_answer": "你们觉得惯性这个东西",
+        "gen_answer": "你 们 觉 得 惯 性 这 个 东 西",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 li4 zhe4 ge4 dong1 xi1 yao4 you3 de5 hua4",
+        "ori_answer": "因为力这个东西要有的话",
+        "gen_answer": "因 为 立 这 个 东 西 要 有 的 话",
+        "f1": 0.0
+    },
+    {
+        "text": "shuo1 ta1 men5 lia3 bu4 neng2 hua4 deng3 hao4 a5",
+        "ori_answer": "说它们俩不能画等号啊",
+        "gen_answer": "说 他 们 俩 不 能 化 等 号 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 shuo1 yi1 ge4 wu4 ti3 you2 yu2 shou4 dao4 guan4 xing4",
+        "ori_answer": "我说一个物体由于受到惯性",
+        "gen_answer": "我 说 一 个 误 体 由 于 受 到 惯 性",
+        "f1": 0.0
+    },
+    {
+        "text": "da1 pei4 de5 ci2 er2",
+        "ori_answer": "搭配的词儿",
+        "gen_answer": "搭 配 的 词 儿",
+        "f1": 0.0
+    },
+    {
+        "text": "bu2 hui4 shuo1 zhe4 wu4 ti3 ju4 you3 guan4 xing4 dan4 wo3 men5 neng2 shuo1 shou4 dao4 guan4 xing4",
+        "ori_answer": "不会说这物体具有惯性但我们能说受到惯性",
+        "gen_answer": "不 会 说 这 物 体 具 有 惯 性 但 我 们 能 说 受 到 惯 性",
+        "f1": 0.0
+    },
+    {
+        "text": "guan4 xing4 bu4 shi4 li4",
+        "ori_answer": "惯性不是力",
+        "gen_answer": "惯 性 不 是 例",
+        "f1": 0.0
+    },
+    {
+        "text": "huo4 ke4 fu2 guan4 xing4",
+        "ori_answer": "或克服惯性",
+        "gen_answer": "货 客 服 冠 性",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 ke4 fu2 shi4 bu4 neng2 yu3 guan4 xing4 da1 pei4 zhi3 neng2 yu3 li4 da1 pei4 de5",
+        "ori_answer": "这个克服是不能与惯性搭配只能与力搭配的",
+        "gen_answer": "这 个 客 服 是 不 能 与 冠 姓 搭 配 只 能 与 利 达 配 的",
+        "f1": 0.0
+    },
+    {
+        "text": "zui4 hou4 yi1 dian3",
+        "ori_answer": "最后一点",
+        "gen_answer": "最 后 一 点",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wo3 men5 jiu4 lai2 shuo1 yi1 shuo1 zhe4 liang3 ge4 hao3 ba5",
+        "ori_answer": "那我们就来说一说这两个好吧",
+        "gen_answer": "那 我 们 就 来 说 一 说 这 两 个 好 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "xian1 shuo1 yi1 xia4 zhi4 liang4",
+        "ori_answer": "先说一下质量",
+        "gen_answer": "掀 说 一 下 质 量",
+        "f1": 0.0
+    },
+    {
+        "text": "zi4 ji3 lai2 si1 kao3",
+        "ori_answer": "自己来思考",
+        "gen_answer": "自 己 来 思 考",
+        "f1": 0.0
+    },
+    {
+        "text": "ye3 shi4 shi2 a5 bu4 shi4 shi4 a5 shi4 de5 shi2 mi3 mei3 miao3",
+        "ori_answer": "也是十啊不是是啊是的十米每秒",
+        "gen_answer": "也 是 十 个 不 是 是 阿 是 的 十 米 每 秒",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 ding4 shi4 xiao3 zi4 xing2 che1 ba5",
+        "ori_answer": "一定是小自行车吧",
+        "gen_answer": "一 定 是 小 自 行 车 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "er2 geng4 rong2 yi4 fa1 sheng1 gai3 bian4 de5",
+        "ori_answer": "而更容易发生改变的",
+        "gen_answer": "而 更 容 易 发 生 改 变 的",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 jiu4 shuo1 ming2 guan4 xing4 xiao3",
+        "ori_answer": "那就说明惯性小",
+        "gen_answer": "那 就 说 明 冠 姓 小",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 gang1 gang1 yi1 zhi2 xiang3 shuo1 yi1 bai3 mi3 mei3 miao3 shi4 you3 yuan2 yin1 de5",
+        "ori_answer": "我刚刚一直想说一百米每秒是有原因的",
+        "gen_answer": "我 刚 刚 一 直 想 说 一 百 米 每 秒 是 有 原 因 的",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 bai3 mi3 mei3 miao3 de5 zi4 xing2 che1",
+        "ori_answer": "一百米每秒的自行车",
+        "gen_answer": "一 百 米 每 秒 的 自 行 车",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 wo3 men5 xian4 zai4 yi1 jiu4 rang4 yang4 yi1 ge4 shu4 xue2 lao3 shi1",
+        "ori_answer": "好我们现在依旧让样一个数学老师",
+        "gen_answer": "好 我 们 现 在 一 就 让 样 一 个 数 学 老 师",
+        "f1": 0.0
+    },
+    {
+        "text": "er2 qie3 zhe4 yi1 qian1 niu2 de5 li4 yi1 gong4 zuo4 yong4 le5 yi4 fen1 zhong1 liu4 shi2 miao3",
+        "ori_answer": "而且这一千牛的力一共作用了一分钟六十秒",
+        "gen_answer": "而 且 这 一 千 牛 的 力 一 共 做 用 了 亿 分 钟 六 十 秒",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 qing3 wen4",
+        "ori_answer": "那请问",
+        "gen_answer": "那 请 问",
+        "f1": 0.0
+    },
+    {
+        "text": "xiang3 yi1 xiang3",
+        "ori_answer": "想一想",
+        "gen_answer": "想 一 想",
+        "f1": 0.0
+    },
+    {
+        "text": "su4 du4 zhe4 ge4 dong1 xi1 dao4 di3 neng2 bu4 neng2 ying3 xiang3 guan4 xing4 da4 xiao3",
+        "ori_answer": "速度这个东西到底能不能影响惯性大小",
+        "gen_answer": "速 度 这 个 东 西 到 底 能 不 能 影 响 冠 性 大 小",
+        "f1": 0.0
+    },
+    {
+        "text": "rang4 ta1 men5 yun4 dong4 zhuang4 tai4 de5 gai3 bian4 liang4 shi4 shen2 me5 guan1 xi4",
+        "ori_answer": "让它们运动状态的改变量是什么关系",
+        "gen_answer": "让 他 们 运 动 状 态 的 改 变 量 是 什 么 关 系",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 jiu4 shuo1 ming2 ta1 men5 liang3 ge4 de5 guan4 xing4 shen2 me5 guan1 xi4",
+        "ori_answer": "那就说明它们两个的惯性什么关系",
+        "gen_answer": "那 就 说 明 他 们 两 个 的 惯 性 什 么 关 系",
+        "f1": 0.0
+    },
+    {
+        "text": "gai3 bian4 liang4 shi4 shi2",
+        "ori_answer": "改变量是十",
+        "gen_answer": "改 变 量 是 十",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 ni3 qian1 wan4 bu2 yao4 zai4 shuo1 su4 du4 da4 xiao3 hui4 ying3 xiang3 guan4 xing4",
+        "ori_answer": "所以你千万不要再说速度大小会影响惯性",
+        "gen_answer": "所 以 你 千 万 不 要 在 说 速 度 大 小 会 影 响 冠 性",
+        "f1": 0.0
+    },
+    {
+        "text": "gen1 qi2 ta1 ren4 he2 yin1 su4 dou1 mei2 you3 guan1 xi4",
+        "ori_answer": "跟其他任何因素都没有关系",
+        "gen_answer": "跟 其 他 任 何 因 素 都 没 有 关 系",
+        "f1": 0.0
+    },
+    {
+        "text": "xiang4 ni3 reng1 guo4 lai2 liang3 ge4 qiu2",
+        "ori_answer": "向你扔过来两个球",
+        "gen_answer": "像 你 刚 过 来 两 个 球",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 pai1 bu4 zou3 ta1",
+        "ori_answer": "你拍不走它",
+        "gen_answer": "你 拍 不 走 她",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ni3 shuo1 de5 shi4 dui4 de5",
+        "ori_answer": "这你说的是对的",
+        "gen_answer": "这 你 说 的 是 对 的",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 zhe4 shi4 guan1 yu2 guan4 xing4 de5 yi1 xie1 kao3 dian3",
+        "ori_answer": "好这是关于惯性的一些考点",
+        "gen_answer": "好 这 事 关 于 惯 性 的 一 些 考 点",
+        "f1": 0.0
+    },
+    {
+        "text": "zhuang4 ni3 a5",
+        "ori_answer": "撞你啊",
+        "gen_answer": "撞 你 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 hao4 cheng1 xue2 er2 shi1 di4 yi1 shuai4",
+        "ori_answer": "啊浩称学而师第一帅",
+        "gen_answer": "阿 浩 称 学 而 师 第 一 率",
+        "f1": 0.0
+    },
+    {
+        "text": "zai4 xue2 er2 si1 dai1 le5 zhe4 me5 duo1 nian2 ti3 zhong4 shang4 lai2 le5",
+        "ori_answer": "在学而思待了这么多年体重上来了",
+        "gen_answer": "在 学 而 思 戴 了 这 么 多 年 体 重 上 来 了",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 dui4 bu4 guo4",
+        "ori_answer": "啊怼不过",
+        "gen_answer": "阿 对 不 过",
+        "f1": 0.0
+    },
+    {
+        "text": "zan2 men5 lai2 kan4 yi1 yan3",
+        "ori_answer": "咱们来看一眼",
+        "gen_answer": "凭 们 来 看 一 眼",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 zai4 wo3 men5 ping2 shi2 zai4 yi1 gui4 xia4 mian4 fan1 yi1 fu2 de5 shi2 hou4",
+        "ori_answer": "这个在我们平时在衣柜下面翻衣服的时候",
+        "gen_answer": "这 个 在 我 们 平 时 在 一 柜 下 面 翻 一 幅 的 时 候",
+        "f1": 0.0
+    },
+    {
+        "text": "hen3 zhun3",
+        "ori_answer": "狠准",
+        "gen_answer": "很 准",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 ba5",
+        "ori_answer": "好吧",
+        "gen_answer": "好 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 meng3 de5 yi1 la1",
+        "ori_answer": "你猛的一拉",
+        "gen_answer": "你 猛 的 一 拉",
+        "f1": 0.0
+    },
+    {
+        "text": "lai2 wo3 men5 zai4 kan4 di4 er4 ge4 li4 zi5 a5",
+        "ori_answer": "来我们再看第二个例子啊",
+        "gen_answer": "来 我 们 在 看 第 二 个 立 子 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "zhu4 pao3 zhi3 shi4 you3 li4 yu2 ta1 tiao4 de5 geng4 yuan3 zhe4 ge4 jiao4 zuo4 li4 yu2 guan4 xing4",
+        "ori_answer": "助跑只是有利于他跳的更远这个叫做利于惯性",
+        "gen_answer": "助 跑 只 是 有 力 于 他 跳 的 更 远 这 个 教 作 力 于 观 性",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 bu4 dui4",
+        "ori_answer": "对不对",
+        "gen_answer": "对 不 对",
+        "f1": 0.0
+    },
+    {
+        "text": "he2 di4 yi1 ge4 li4 zi5 yi1 yang4 de5 wo3 jiu4 bu4 jiang3 le5",
+        "ori_answer": "和第一个例子一样的我就不讲了",
+        "gen_answer": "合 第 一 个 立 子 一 样 的 我 就 不 奖 了",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 dao3 zhi4 shuai1 zhe5 shuai1 jiao1 a5 wo3 men5 zai4 kan4 an1 quan2 dai4",
+        "ori_answer": "就导致摔着摔跤啊我们再看安全带",
+        "gen_answer": "就 导 致 摔 着 摔 交 打 我 们 在 看 安 全 带",
+        "f1": 0.0
+    },
+    {
+        "text": "te4 bie2 shi4 shang4 gao1 su4 de5 shi2 hou4",
+        "ori_answer": "特别是上高速的时候",
+        "gen_answer": "特 别 是 上 高 速 的 时 候",
+        "f1": 0.0
+    },
+    {
+        "text": "dang1 yi1 ge4 chui2 zi5 yong4 jiu3 zhi1 hou4",
+        "ori_answer": "当一个锤子用久之后",
+        "gen_answer": "当 一 个 猴 子 用 九 只 后",
+        "f1": 0.0
+    },
+    {
+        "text": "yao4 dui4 ta1",
+        "ori_answer": "要怼它",
+        "gen_answer": "要 对 她",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 chui2 tou2 bu4 shi4 chui2 bing3 a5",
+        "ori_answer": "是锤头不是锤柄啊",
+        "gen_answer": "市 筹 投 不 是 垂 柄 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "chui2 bing3 bei4 po4",
+        "ori_answer": "锤柄被迫",
+        "gen_answer": "猴 棒 被 破",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 zhe4 shi4 guan1 yu2 guan4 xing4 de5 li4 yong4",
+        "ori_answer": "好这是关于惯性的利用",
+        "gen_answer": "好 这 事 关 于 冠 姓 的 利 用",
+        "f1": 0.0
+    },
+    {
+        "text": "qing1 ye4 hui4 piao1 xiang4 kong1 zhong1",
+        "ori_answer": "青叶会飘向空中",
+        "gen_answer": "轻 业 会 漂 像 空 中",
+        "f1": 0.0
+    },
+    {
+        "text": "yi4 da4 li4 tian1 wen2 xue2 jia1 ga1 li4 lve4 jiu4 dui4 yao4 rang4 yi1 ge4 wu4 ti3 wei2 chi2 yun4 dong4 zhuang4 tai4 jiu4 dei3 shi1 jia1 yi1 ge4 li4 de5 shuo1 fa3 ti2 chu1 le5 zhi4 yi2",
+        "ori_answer": "意大利天文学家伽利略就对要让一个物体维持运动状态就得施加一个力的说法提出了质疑",
+        "gen_answer": "意 大 利 天 文 学 家 加 利 略 就 对 要 让 一 个 物 体 维 持 运 动 状 态 就 得 失 一 个 理 的 说 法 提 出 了 致 意",
+        "f1": 0.0
+    },
+    {
+        "text": "ren4 he2 wu4 ti3 dou1 ju4 you3 bao3 chi2 jing4 zhi3 huo4 yun2 su4 zhi2 xian4 yun4 dong4 zhuang4 tai4 de5 xing4 zhi4",
+        "ori_answer": "任何物体都具有保持静止或匀速直线运动状态的性质",
+        "gen_answer": "认 合 物 体 都 具 有 保 持 净 值 或 云 素 值 限 运 动 状 态 的 性 质",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 jiu4 neng2 yan2 zhe5 guang1 hua2 de5 bing1 mian4 hua2 xing2 hao3 yuan3",
+        "ori_answer": "你就能沿着光滑的冰面滑行好远",
+        "gen_answer": "你 就 能 研 着 光 华 的 冰 面 滑 行 好 远",
+        "f1": 0.0
+    },
+    {
+        "text": "zai4 shi2 qi1 shi4 ji4 hou4 qi1 niu2 dun4 fa1 xian4 le5 san1 da4 ji1 ben3 yun4 dong4 gui1 lv4",
+        "ori_answer": "在十七世纪后期牛顿发现了三大基本运动规律",
+        "gen_answer": "在 十 七 世 纪 后 七 牛 顿 发 现 了 三 大 基 本 运 动 规 律",
+        "f1": 0.0
+    },
+    {
+        "text": "jiang1 yi1 zhi2 bao3 chi2 jing4 zhi3 huo4 yun2 su4 zhi2 xian4 yun4 dong4 zhuang4 tai4",
+        "ori_answer": "将一直保持静止或匀速直线运动状态",
+        "gen_answer": "将 一 直 保 持 净 值 或 云 素 值 限 运 动 状 态",
+        "f1": 0.0
+    },
+    {
+        "text": "dang1 che1 zi5 tu1 ran2 ting2 xia4 ni3 de5 shen1 ti3 jiu4 hui4 xiang4 qian2 chong1",
+        "ori_answer": "当车子突然停下你的身体就会向前冲",
+        "gen_answer": "当 车 子 突 然 停 下 你 的 身 体 就 会 像 前 冲",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 jiu4 bu2 hui4 he2 dang3 feng1 bo1 li2 qin1 mi4 jie1 chu4 le5",
+        "ori_answer": "你就不会和挡风玻璃亲密接触了",
+        "gen_answer": "你 就 不 会 和 档 风 波 离 亲 密 接 触 了",
+        "f1": 0.0
+    },
+    {
+        "text": "lai2 ba5",
+        "ori_answer": "来吧",
+        "gen_answer": "来 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 wo3 men5 zai4 wang3 xia4",
+        "ori_answer": "好我们再往下",
+        "gen_answer": "好 我 们 在 网 下",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 tong2 xue2 shuo1 tong2 shi2 ni3 da2 tong2 shi2 jiu4 cuo4 le5",
+        "ori_answer": "有同学说同时你答同时就错了",
+        "gen_answer": "有 同 学 说 同 时 你 打 同 时 就 错 了",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 zai4 kan4",
+        "ori_answer": "我们再看",
+        "gen_answer": "我 们 在 看",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 jiang1",
+        "ori_answer": "它将",
+        "gen_answer": "他 将",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 ni3 ying1 gai1 da2 de5 jiu4 shi4 yun2 zhi2",
+        "ori_answer": "所以你应该答的就是匀直",
+        "gen_answer": "所 以 你 应 该 达 得 就 是 云 之",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 jiu4 ke3 yi3 chu1 qu4 le5",
+        "ori_answer": "你就可以出去了",
+        "gen_answer": "你 就 可 以 出 去 了",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 bu4 jiu4 shi4 dong4 zhe2 heng2 dong4 ma5",
+        "ori_answer": "那不就是动折横动吗",
+        "gen_answer": "那 不 就 是 动 折 横 动 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "bu2 yao4 zai4 xuan3 cuo4 le5 lai2 di4 san1 ti2 yi1 mu2 yi1 yang4 da2 an4 xuan3 C",
+        "ori_answer": "不要再选错了来第三题一模一样答案选C",
+        "gen_answer": "不 要 在 选 错 了 来 第 三 提 一 木 一 样 达 案 选 选",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 li4 ti2 si4 duo1 xuan3",
+        "ori_answer": "好例题四多选",
+        "gen_answer": "好 力 提 四 多 选",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 guan3 ta1 shi4 dong4 de5 hai2 shi4 jing4 de5",
+        "ori_answer": "我管它是动的还是静的",
+        "gen_answer": "我 管 他 事 动 的 还 是 净 的",
+        "f1": 0.0
+    },
+    {
+        "text": "ju4 you3 guan4 xing4",
+        "ori_answer": "具有惯性",
+        "gen_answer": "具 有 惯 性",
+        "f1": 0.0
+    },
+    {
+        "text": "ye3 you3 yi1 ge4 zhuan1 men2 kao3 cha2 yu3 wen2 de5 da1 pei4 de5",
+        "ori_answer": "也有一个专门考察语文的搭配的",
+        "gen_answer": "也 有 一 个 专 门 考 察 与 文 的 搭 配 的",
+        "f1": 0.0
+    },
+    {
+        "text": "huo4 shi4 fang4 nei4 neng2",
+        "ori_answer": "或释放内能",
+        "gen_answer": "或 释 放 内 能",
+        "f1": 0.0
+    },
+    {
+        "text": "F zhe4 ge4 shi4 li4 yong4 guan4 xing4 jie2 neng2",
+        "ori_answer": "F这个是利用惯性节能",
+        "gen_answer": "这 个 事 实 用 冠 姓 节 能",
+        "f1": 0.0
+    },
+    {
+        "text": "da4 huo4 se4 nan2 ting2 xia4 shi4 yin1 wei4 zhi4 liang4 da4",
+        "ori_answer": "大货色难停下是因为质量大",
+        "gen_answer": "大 货 色 男 停 下 事 因 为 质 量 大",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 ceng2 jing1 jian4 guo4 a5",
+        "ori_answer": "我曾经见过啊",
+        "gen_answer": "我 曾 经 见 过 阿",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 sha1",
+        "ori_answer": "他刹",
+        "gen_answer": "她 杀",
+        "f1": 0.0
+    },
+    {
+        "text": "hou4 a5",
+        "ori_answer": "后啊",
+        "gen_answer": "后 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "bˌiːsˈiː",
+        "ori_answer": "BC",
+        "gen_answer": "被 围 救",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wo3 zai4 lai2 shuo1 yi1 ge4 sheng1 huo2 zhong1 li4 yong4 de5",
+        "ori_answer": "那我再来说一个生活中利用的",
+        "gen_answer": "那 我 在 来 说 一 个 生 活 中 利 用 的",
+        "f1": 0.0
+    },
+    {
+        "text": "hui1 de5 guan4 xing4 hui1 chen2 de5 guan4 xing4 a5",
+        "ori_answer": "灰的惯性灰尘的惯性啊",
+        "gen_answer": "恢 复 惯 性 恢 回 的 惯 性 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 hui4 luo4 xia4 lai2",
+        "ori_answer": "就会落下来",
+        "gen_answer": "就 会 落 下 来",
+        "f1": 0.0
+    },
+    {
+        "text": "wei4 shen2 me5 ne5",
+        "ori_answer": "为什么呢",
+        "gen_answer": "为 什 么 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "wu4 ti3 xia4 lai2 zhi1 hou4",
+        "ori_answer": "物体下来之后",
+        "gen_answer": "物 体 下 来 之 后",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 wei4 le5 jian3 xiao3 guan4 xing4 dai4 lai2 wei1 hai4",
+        "ori_answer": "是为了减小惯性带来危害",
+        "gen_answer": "是 为 了 减 小 冠 姓 带 来 危 害",
+        "f1": 0.0
+    },
+    {
+        "text": "quan2 dui4 de5",
+        "ori_answer": "全对的",
+        "gen_answer": "全 队 的",
+        "f1": 0.0
+    },
+    {
+        "text": "cuo4 yi1 ge4 de5",
+        "ori_answer": "错一个的",
+        "gen_answer": "错 一 个 的",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 lai2",
+        "ori_answer": "好来",
+        "gen_answer": "好 来",
+        "f1": 0.0
+    },
+    {
+        "text": "gen1 da4 jia1 yi3 jing1 jiang3 le5 yi1 ge4 da4 zhi4 de5 nei4 rong2",
+        "ori_answer": "跟大家已经讲了一个大致的内容",
+        "gen_answer": "跟 大 家 已 经 讲 了 一 个 大 致 的 内 容",
+        "f1": 0.0
+    },
+    {
+        "text": "guan1 fang1 gei3 de5 ding4 yi4 you3 dian3 chang2 dan4 shi4 wo3 xiang1 xin4 yi3 da4 jia1 de5 zhi4 hui4 a5",
+        "ori_answer": "官方给的定义有点长但是我相信以大家的智慧啊",
+        "gen_answer": "官 方 给 的 定 义 有 点 长 但 是 我 相 信 已 大 家 的 志 愿 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 jiao4 he2 li4",
+        "ori_answer": "就叫合力",
+        "gen_answer": "就 较 合 理",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 me5 da4 ren2 gei3 de5 li4 jiu4 ke3 yi3 jiao4 he2 li4",
+        "ori_answer": "那么大人给的力就可以叫合力",
+        "gen_answer": "那 么 大 人 给 的 力 就 可 以 叫 合 力",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 xie1 ren2 mei3 ge4 ren2 de5 li4 ke3 yi3 shuo1 shi4 fen1 li4",
+        "ori_answer": "这些人每个人的力可以说是分力",
+        "gen_answer": "这 些 人 每 个 人 的 力 可 以 说 是 分 力",
+        "f1": 0.0
+    },
+    {
+        "text": "bi3 ru2 shuo1",
+        "ori_answer": "比如说",
+        "gen_answer": "比 如 说",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 zhi2 jie1 # # guang1 hua2",
+        "ori_answer": "就直接##光滑",
+        "gen_answer": "就 直 接 接 光 华",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 ni3 yi1 yan3 jiu4 neng2 kan4 chu1 lai2 suo3 shou4 he2 li4 deng3 yu2 duo1 shao3 niu2",
+        "ori_answer": "所以你一眼就能看出来所受合力等于多少牛",
+        "gen_answer": "所 以 你 一 眼 就 能 看 出 来 所 受 合 力 等 于 多 少 牛",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 me5 fan3 xiang4 da4 jia1 ying1 gai1 ye3 dong3 le5",
+        "ori_answer": "那么反向大家应该也懂了",
+        "gen_answer": "那 么 反 向 大 家 应 该 也 懂 了",
+        "f1": 0.0
+    },
+    {
+        "text": "tong2 xiang4 xiang1 jia1",
+        "ori_answer": "同向相加",
+        "gen_answer": "同 项 相 加",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5",
+        "ori_answer": "对吧",
+        "gen_answer": "对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "zhong1 kao3 zhi3 kao3 tong2 yi1 zhi2 xian4 shang4 de5",
+        "ori_answer": "中考只考同一直线上的",
+        "gen_answer": "中 考 只 考 同 一 职 线 上 的",
+        "f1": 0.0
+    },
+    {
+        "text": "wei4 shen2 me5 ke3 yi3 yong4 ping2 xing2 shi2 bian1 xing2 fa3 ze2 ne5",
+        "ori_answer": "为什么可以用平行时边形法则呢",
+        "gen_answer": "为 什 么 可 以 用 平 行 时 边 行 法 则 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "hai2 mei2 xue2 dao4 wo3 xian4 zai4 jiu4 hai2 bu4 jiang3",
+        "ori_answer": "还没学到我现在就还不讲",
+        "gen_answer": "还 没 学 到 我 现 在 就 还 不 讲",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 you3 de5 xue2 le5 you3 de5 mei2 xue2 shi4 ma5",
+        "ori_answer": "啊有的学了有的没学是吗",
+        "gen_answer": "哪 有 的 学 了 有 的 没 学 是 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 ba5 zai4 zuo4 de5 ge4 wei4 you3 de5 ke3 neng2 zai4",
+        "ori_answer": "是吧在座的各位有的可能在",
+        "gen_answer": "是 把 在 做 的 各 位 有 的 可 能 再",
+        "f1": 0.0
+    },
+    {
+        "text": "chun1 ji4 wo3 tong3 yi1 jiang3 wo3 men5 xian4 zai4 xian1 da4 zhi4 de5 shuo1 yi1 xia4 ping2 xing2 si4 bian1 xing2 fa3 ze2 a5",
+        "ori_answer": "春季我统一讲我们现在先大致的说一下平行四边形法则啊",
+        "gen_answer": "春 季 我 统 一 讲 我 们 现 在 先 大 致 的 说 一 下 平 行 四 边 行 法 则 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "hai2 shi4 jie4 yu2 F yi1 jian3 F er4",
+        "ori_answer": "还是介于F一减F二",
+        "gen_answer": "还 是 借 于 F 一 简 二",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 jia3 she4 F yi1 he2 F er4 de5 jia1 jiao3 shi4 xi1 ta3",
+        "ori_answer": "我假设F一和F二的夹角是西塔",
+        "gen_answer": "我 假 设 F 一 和 二 的 家 角 是 西 塔",
+        "f1": 0.0
+    },
+    {
+        "text": "he2 li4 shi4 bu4 jiu4 shi4 ta1",
+        "ori_answer": "合力是不就是它",
+        "gen_answer": "合 力 是 不 就 是 她",
+        "f1": 0.0
+    },
+    {
+        "text": "ran2 hou4 zhe4 jiu4 shi4 bu4 zai4 tong2 yi1 zhi2 xian4 shang4 de5 er4 li4 he2 cheng2",
+        "ori_answer": "然后这就是不在同一直线上的二力合成",
+        "gen_answer": "然 后 这 就 是 不 再 同 一 直 现 上 的 二 力 合 成",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 yu2 zhi2 jiao3 zuo4 biao1 xi4 suo3",
+        "ori_answer": "对于直角坐标系所",
+        "gen_answer": "对 于 执 教 作 标 示 所",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 hui4 gen1 da4 jia1 xian1 jiang3 yi1 xia4 li4 yong4 zhi2 jiao3 zuo4 biao1 xi4",
+        "ori_answer": "我会跟大家先讲一下利用直角坐标系",
+        "gen_answer": "我 会 跟 大 家 掀 讲 一 下 利 用 直 交 作 标 识",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 lai2 zhe4 shi4 guan1 yu2 he2 li4",
+        "ori_answer": "啊来这是关于合力",
+        "gen_answer": "啊 来 这 事 关 于 合 利",
+        "f1": 0.0
+    },
+    {
+        "text": "bi3 ru2 shuo1 jing4 zhi3",
+        "ori_answer": "比如说静止",
+        "gen_answer": "比 如 说 净 值",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 wo3 ting1 dao4 you3 tong2 xue2 shuo1 yun2 zhi2",
+        "ori_answer": "好我听到有同学说匀直",
+        "gen_answer": "好 我 听 到 有 同 学 说 云 之",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 you3 tong2 xue2 xue2 chen2 mo4 le5 a5",
+        "ori_answer": "好有同学学沉默了啊",
+        "gen_answer": "好 友 同 学 学 童 默 了 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 mei2 you3 xiang4 xin1 li4 ta1 shi4 bu4 ke3 neng2 zuo4 yun2 su4 yuan2 dong4 yun4 dong4 de5",
+        "ori_answer": "如果没有向心力它是不可能做匀速圆动运动的",
+        "gen_answer": "如 果 没 有 向 新 力 他 是 不 可 能 做 云 速 员 动 运 动 的",
+        "f1": 0.0
+    },
+    {
+        "text": "ping2 heng2 zhuang4 tai4",
+        "ori_answer": "平衡状态",
+        "gen_answer": "平 衡 状 态",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 ta1 de5 tiao2 jian4 jiu4 zai4 zhe4 li3",
+        "ori_answer": "所以它的条件就在这里",
+        "gen_answer": "所 以 他 的 条 件 就 在 这 里",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 shou4 dao4 de5 xiang1 hu4 di3 xiao1 de5 li4",
+        "ori_answer": "所受到的相互抵消的力",
+        "gen_answer": "所 受 到 的 相 互 抵 销 的 力",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wo3 men5 jie1 xia4 lai2 li3 yi1 li3 zhe4 san1 ge4 zhi1 jian1 de5 guan1 xi4",
+        "ori_answer": "那我们接下来理一理这三个之间的关系",
+        "gen_answer": "那 我 们 接 下 来 里 一 里 这 三 个 之 间 的 关 系",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 bian4 cheng2 le5 di4 er4 ge4 jin1 san1 jiao3 wo3 men5 lai2 kan4 yi1 xia4 a5 zen3 me5 tui1",
+        "ori_answer": "就变成了第二个金三角我们来看一下啊怎么推",
+        "gen_answer": "就 便 成 了 第 二 个 金 三 角 我 们 来 看 一 下 啊 怎 么 推",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 neng2 bu4 neng2 shuo1 ta1 shou4 dao4 de5 zhe4 xie1 li4 jiao4 ping2 heng2 li4",
+        "ori_answer": "我能不能说它受到的这些力叫平衡力",
+        "gen_answer": "我 能 不 能 说 他 受 到 的 这 些 力 教 平 衡 力",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 jiao4 ping2 heng2 li4 ma5",
+        "ori_answer": "不叫平衡力吗",
+        "gen_answer": "不 叫 平 平 利 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 yao4 zhu4 yi4",
+        "ori_answer": "所以要注意",
+        "gen_answer": "所 以 要 注 意",
+        "f1": 0.0
+    },
+    {
+        "text": "guan1 yu2 ta1 de5 hu4 tui1",
+        "ori_answer": "关于它的互推",
+        "gen_answer": "关 于 他 的 互 推",
+        "f1": 0.0
+    },
+    {
+        "text": "qing3 wen4",
+        "ori_answer": "请问",
+        "gen_answer": "请 问",
+        "f1": 0.0
+    },
+    {
+        "text": "zai4 gei3 ni3 yi1 ci4 ji1 hui4",
+        "ori_answer": "再给你一次机会",
+        "gen_answer": "在 给 你 一 次 机 会",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 he2 li4 wei2 ling2 jiu4 yi4 wei4 zhe5",
+        "ori_answer": "所以合力为零就意味着",
+        "gen_answer": "所 以 合 力 为 零 就 意 味 着",
+        "f1": 0.0
+    },
+    {
+        "text": "zhong4 li4 he2 zhi1 chi2 li4 xiang1 deng3",
+        "ori_answer": "重力和支持力相等",
+        "gen_answer": "重 力 合 支 持 力 相 等",
+        "f1": 0.0
+    },
+    {
+        "text": "shou4 li4 wei2 ling2 ni3 cai2 neng2 tui1 chu1 lai2 zhe4 liang3 ge4 li4 shi4 xiang1 deng3 de5",
+        "ori_answer": "受力为零你才能推出来这两个力是相等的",
+        "gen_answer": "受 力 为 零 你 才 能 推 出 来 这 两 个 力 势 相 等 的",
+        "f1": 0.0
+    },
+    {
+        "text": "ping2 heng2 li4",
+        "ori_answer": "平衡力",
+        "gen_answer": "平 衡 力",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 ta1 zhi3 zai4 zhe4 liang3 li4 qing2 kuang4 xia4 jiu4 ping2 heng2 le5 ma5",
+        "ori_answer": "因为它只在这两力情况下就平衡了嘛",
+        "gen_answer": "因 为 她 只 在 这 两 例 情 况 下 就 平 衡 了 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "ji4 ran2 you3 er4 li4 ping2 heng2 jiu4 shuo1 ming2 you3",
+        "ori_answer": "既然有二力平衡就说明有",
+        "gen_answer": "既 然 有 二 利 平 衡 就 说 明 有",
+        "f1": 0.0
+    },
+    {
+        "text": "ji3 ge4",
+        "ori_answer": "几个",
+        "gen_answer": "几 个",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 shou4 dao4 zhong4 li4",
+        "ori_answer": "好受到重力",
+        "gen_answer": "好 受 到 重 力",
+        "f1": 0.0
+    },
+    {
+        "text": "wei4 shen2 me5 yao4 zhong4 dian3 jiang3 er4 li4 ping2 heng2 ne5",
+        "ori_answer": "为什么要重点讲二力平衡呢",
+        "gen_answer": "为 什 么 要 重 点 奖 二 利 平 平 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "da4 xiao3 shen2 me5 guan1 xi4",
+        "ori_answer": "大小什么关系",
+        "gen_answer": "大 小 什 么 关 系",
+        "f1": 0.0
+    },
+    {
+        "text": "gong4 xian4",
+        "ori_answer": "共线",
+        "gen_answer": "共 现",
+        "f1": 0.0
+    },
+    {
+        "text": "xiang1 hu4 zuo4 yong4 li4 shi4 deng3 da4",
+        "ori_answer": "相互作用力是等大",
+        "gen_answer": "相 互 作 用 力 是 等 大",
+        "f1": 0.0
+    },
+    {
+        "text": "ke3 neng2 you3 de5 tong2 xue2 hai2 you3 dian3 hu2 shuo1 lao3 shi1 wo3 mei2 gao3 qing1 chu3",
+        "ori_answer": "可能有的同学还有点糊说老师我没搞清楚",
+        "gen_answer": "可 能 有 的 同 学 还 有 点 糊 说 老 师 我 没 搞 清 楚",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 kan4 kan4 wu4 ti3 shou4 ji3 ge4 li4",
+        "ori_answer": "我们看看物体受几个力",
+        "gen_answer": "我 们 看 看 物 体 受 几 个 力",
+        "f1": 0.0
+    },
+    {
+        "text": "qing3 wen4 zai4 zhe4 san1 ge4 li4 dang1 zhong1",
+        "ori_answer": "请问在这三个力当中",
+        "gen_answer": "请 问 在 这 三 个 利 当 中",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 zhong4 li4 yu3 zhi1 chi2 li4",
+        "ori_answer": "是重力与支持力",
+        "gen_answer": "事 重 力 与 支 持 力",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 ge4 zuo4 yong4 zai4 di4 mian4 shang4",
+        "ori_answer": "一个作用在地面上",
+        "gen_answer": "一 个 作 用 在 地 面 上",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 li4 ping2 heng2 yuan2 yin1 jiu4 shi4 yin1 wei4 ta1 yu3 xiang1 hu4 zuo4 yong4 li4 zhi1 jian1",
+        "ori_answer": "二力平衡原因就是因为它与相互作用力之间",
+        "gen_answer": "二 力 平 衡 原 因 就 是 因 为 它 与 相 互 作 用 力 之 间",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 ke3 yi3 zuo4 ti2 lai2 lian4 xi2 yi1 xia4",
+        "ori_answer": "就可以做题来练习一下",
+        "gen_answer": "就 可 以 做 提 来 练 习 一 下",
+        "f1": 0.0
+    },
+    {
+        "text": "di4 yi1 ti2 kao3 cha2 he2 li4 de5 dui4 ba5",
+        "ori_answer": "第一题考察合力的对吧",
+        "gen_answer": "第 一 提 考 察 合 力 的 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "hao4 A C a5",
+        "ori_answer": "好AC啊",
+        "gen_answer": "号 号 卡",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 xia4 ci4 da4 jia1 yao4 ji1 ling2 yi1 dian3 er2",
+        "ori_answer": "所以下次大家要机灵一点儿",
+        "gen_answer": "所 以 下 次 大 家 要 积 零 一 点 而",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 kan4 ta1 shou4 na3 xie1 li4 a5 jia3 ru2 shi4 ge4 qiu2",
+        "ori_answer": "我们看它受哪些力啊假如是个球",
+        "gen_answer": "我 们 看 他 受 哪 些 力 的 假 如 是 个 球",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 kan4 a5",
+        "ori_answer": "我们看啊",
+        "gen_answer": "我 们 看 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "ˈeisˈiː",
+        "ori_answer": "AC",
+        "gen_answer": "苛 苛 ",
+        "f1": 0.0
+    },
+    {
+        "text": "zuo4 yong4 zai4 tong2 yi1 wu4 ti3 shang4 mian4 de5 liang3 ge4 li4",
+        "ori_answer": "作用在同一物体上面的两个力",
+        "gen_answer": "作 用 在 同 一 物 体 上 面 的 两 个 力",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 zhe4 ge4 fen1 li4",
+        "ori_answer": "如果这个分力",
+        "gen_answer": "如 果 这 个 分 力",
+        "f1": 0.0
+    },
+    {
+        "text": "fang1 xiang4 ye3 xiang4 zuo3",
+        "ori_answer": "方向也向左",
+        "gen_answer": "方 向 也 向 左",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 jiu4 bu4 kan4 xuan3 xiang4 le5 ba5",
+        "ori_answer": "我们就不看选项了吧",
+        "gen_answer": "我 们 就 不 看 选 项 了 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "xuan3 B",
+        "ori_answer": "选B",
+        "gen_answer": "选 择",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 zhe4 zhong3 ti2 yao4 she4 ji2 dao4 li4 ju4 wen4 ti2",
+        "ori_answer": "因为这种题要涉及到例句问题",
+        "gen_answer": "因 为 这 种 提 要 涉 及 到 立 具 问 题",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 ta1 jiu4 hui4 zhuan4 qi3 lai2",
+        "ori_answer": "那它就会转起来",
+        "gen_answer": "那 他 就 会 赚 起 来",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 bu4 kai1 xuan3 a5 xuan3 C zhe4 me5 jian3 dan1",
+        "ori_answer": "这个不开选啊选C这么简单",
+        "gen_answer": "这 个 不 开 选 择 选 这 么 简 单",
+        "f1": 0.0
+    },
+    {
+        "text": "da2 an4 xuan3 C",
+        "ori_answer": "答案选C",
+        "gen_answer": "达 案 选 择",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 shi4 xiang1 hu4 zuo4 yong4 li4",
+        "ori_answer": "这是相互作用力",
+        "gen_answer": "这 是 相 互 作 用 力",
+        "f1": 0.0
+    },
+    {
+        "text": "sha2 dou1 bu4 shi4",
+        "ori_answer": "啥都不是",
+        "gen_answer": "砂 都 不 是",
+        "f1": 0.0
+    },
+    {
+        "text": "xiang1 hu4 zuo4 yong4 li4",
+        "ori_answer": "相互作用力",
+        "gen_answer": "相 互 作 用 力",
+        "f1": 0.0
+    },
+    {
+        "text": "kan4 shen2 me5 xuan3 xiang4 gan3 yu4 bao4 xuan3 shen2 me5",
+        "ori_answer": "看什么选项赶预报选什么",
+        "gen_answer": "看 什 么 选 项 感 欲 爆 选 什 么",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 kan4 xia4 A C cuo4 na3 li3 a5",
+        "ori_answer": "我们看下AC错哪里啊",
+        "gen_answer": "我 们 看 下 A 错 哪 里 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "shen2 me5 li4 dou1 bu4 shi4",
+        "ori_answer": "什么力都不是",
+        "gen_answer": "什 么 力 都 不 是",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 shou3 niang2 niang2 song4 gei3 ni3 men5",
+        "ori_answer": "一手娘娘送给你们",
+        "gen_answer": "一 手 娘 娘 送 给 你 们",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 kan4 dao4 mei2 you3 shou4 li4 wu4 ti3 dou1 shi4 yi3 ni3 kan4 dao4 mei2 you3",
+        "ori_answer": "你看到没有受力物体都是乙你看到没有",
+        "gen_answer": "你 看 到 没 有 受 利 物 体 都 是 以 你 看 到 没 有",
+        "f1": 0.0
+    },
+    {
+        "text": "ye3 bu4 yi1 yang4",
+        "ori_answer": "也不一样",
+        "gen_answer": "也 不 一 样",
+        "f1": 0.0
+    },
+    {
+        "text": "cuo4 zai4 na3 li3 ne5",
+        "ori_answer": "错在哪里呢",
+        "gen_answer": "错 在 哪 里 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "er2 yi3 shou4 dao4 de5 zhi1 chi2 li4",
+        "ori_answer": "而乙受到的支持力",
+        "gen_answer": "而 已 受 到 的 支 持 力",
+        "f1": 0.0
+    },
+    {
+        "text": "yi3 shou4 dao4 yi1 ge4 zi4 dong4",
+        "ori_answer": "乙受到一个自动",
+        "gen_answer": "以 受 到 一 个 自 动",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 kan4 ni3 men5 zheng4 que4 lv4 duo1 di1",
+        "ori_answer": "你看你们正确率多低",
+        "gen_answer": "你 看 你 们 正 确 率 多 低",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5 ta1 zai4 wang3 shang4 tai2 zhuo1 zi5 jiu4 xiang1 dang1 yu2",
+        "ori_answer": "对吧它在往上抬桌子就相当于",
+        "gen_answer": "对 吧 她 在 网 上 压 桌 子 就 相 当 于",
+        "f1": 0.0
+    },
+    {
+        "text": "he2 li4 wei2 duo1 shao3",
+        "ori_answer": "合力为多少",
+        "gen_answer": "合 力 为 多 少",
+        "f1": 0.0
+    },
+    {
+        "text": "wu3 shi2 niu2 de5 shi2 hou4 qing3 wen4 zhe4 wu4 ti3 bei4 la1 qi3 lai2 mei2 you3",
+        "ori_answer": "五十牛的时候请问这物体被拉起来没有",
+        "gen_answer": "五 十 牛 的 时 候 请 问 这 物 体 被 拉 起 来 没 有",
+        "f1": 0.0
+    },
+    {
+        "text": "wu3 shi2 niu2 la1 yi1 bai3 wu3 he2 li4 bu4 jiu4 ying1 gai1 shi4 yi1 bai3 ma5",
+        "ori_answer": "五十牛拉一百五合力不就应该是一百吗",
+        "gen_answer": "五 十 牛 拉 一 百 五 合 力 不 就 应 该 是 一 百 码",
+        "f1": 0.0
+    },
+    {
+        "text": "F deng3 yu2 yi1 bai3 niu2 de5 shi2 hou4 he2 li4 wei2 duo1 shao3",
+        "ori_answer": "F等于一百牛的时候合力为多少",
+        "gen_answer": "等 于 一 百 牛 的 时 候 合 力 为 多 少",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5 he2 li4 hai2 shi4 wei2 ling2",
+        "ori_answer": "对吧合力还是为零",
+        "gen_answer": "对 把 合 利 还 是 为 零",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 kan4 duo1 hao3 ni3 bu4 gou4 de5 bu3 ji3 ni3",
+        "ori_answer": "你看多好你不够的补给你",
+        "gen_answer": "你 看 多 好 你 不 够 的 补 给 你",
+        "f1": 0.0
+    },
+    {
+        "text": "lai2 wo3 men5 kan4 a5 zhe4 xie1 ti2",
+        "ori_answer": "来我们看啊这些题",
+        "gen_answer": "来 我 们 看 啊 这 些 提",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 lai2 san1 dao4 ti2 nei4 wo3 kan4 kan4 duo1 bu4 duo1",
+        "ori_answer": "好来三道题内我看看多不多",
+        "gen_answer": "好 来 三 到 提 内 我 看 看 多 不 多",
+        "f1": 0.0
+    },
+    {
+        "text": "jie2 shu4",
+        "ori_answer": "结束",
+        "gen_answer": "结 束",
+        "f1": 0.0
+    },
+    {
+        "text": "zhong4 li4 tan2 li4 shang4 jie2 ke4 yi3 jing1 jiang3 guo4 le5",
+        "ori_answer": "重力弹力上节课已经讲过了",
+        "gen_answer": "重 力 谈 立 上 节 课 已 经 奖 过 了",
+        "f1": 0.0
+    },
+    {
+        "text": "te4 bie2 zao1 gao1",
+        "ori_answer": "特别糟糕",
+        "gen_answer": "特 别 遭 高",
+        "f1": 0.0
+    },
+    {
+        "text": "dai4 shang4 zhi1 hou4 li4 ma3 jiu4 hua2 xia4 lai2 le5",
+        "ori_answer": "戴上之后立马就滑下来了",
+        "gen_answer": "带 上 之 后 利 马 就 滑 下 来 了",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 zhi3 wang3 xia4 diao4",
+        "ori_answer": "它只往下掉",
+        "gen_answer": "她 只 往 下 调",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 mo2 ca1 li4 shang4 de5 dong1 xi1 a5 zai4 ri4 chang2 sheng1 huo2 zhong1 hai2 shi4 hen3 you3 yong4 de5 a5",
+        "ori_answer": "所以摩擦力上的东西啊在日常生活中还是很有用的啊",
+        "gen_answer": "所 以 摩 擦 力 上 的 东 西 啊 在 日 常 生 活 中 还 是 很 有 用 的 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "liang3 wu4 ti3",
+        "ori_answer": "两物体",
+        "gen_answer": "两 物 体",
+        "f1": 0.0
+    },
+    {
+        "text": "huo4 xiang1 dui4 yun4 dong4 qu1 shi4",
+        "ori_answer": "或相对运动趋势",
+        "gen_answer": "或 相 对 运 动 区 示",
+        "f1": 0.0
+    },
+    {
+        "text": "ju3 ge4 li4 zi5 a5",
+        "ori_answer": "举个例子啊",
+        "gen_answer": "举 个 例 子 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 zai4 yi1 ge4 cu1 cao1 de5 di4 mian4 shang4",
+        "ori_answer": "它在一个粗糙的地面上",
+        "gen_answer": "她 在 一 个 粗 操 的 地 面 上",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 zhe4 ge4 shi2 hou4 ta1 you4 hui4 shou4 dao4 yi1 ge4 xiang4 na3 bian1 de5 mo2 ca1 li4",
+        "ori_answer": "那这个时候它又会受到一个向哪边的摩擦力",
+        "gen_answer": "那 这 个 时 候 他 又 会 受 到 一 个 像 哪 边 的 模 擦 力",
+        "f1": 0.0
+    },
+    {
+        "text": "jia3 ru2 shuo1 zhe4 you3 yi1 ge4 xie2 mian4",
+        "ori_answer": "假如说这有一个斜面",
+        "gen_answer": "假 如 说 这 有 一 个 携 面",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 jiu4 shi4 zu3 ai4 xiang1 dui4 yun4 dong4 qu1 shi4 de5 li4",
+        "ori_answer": "这个就是阻碍相对运动趋势的力",
+        "gen_answer": "这 个 就 是 组 爱 相 对 运 动 区 示 的 例",
+        "f1": 0.0
+    },
+    {
+        "text": "di4 er4 ge4 kao3 dian3 jiu4 shi4 guan1 yu2 mo2 ca1 li4 de5 chan3 sheng1 tiao2 jian4",
+        "ori_answer": "第二个考点就是关于摩擦力的产生条件",
+        "gen_answer": "第 二 个 考 点 就 是 关 于 摩 擦 力 的 产 生 条 件",
+        "f1": 0.0
+    },
+    {
+        "text": "dei3 man3 zu2 yao4 you3 liang3 ge4 wu4 ti3 er2 qie3 yao4 jie1 chu4 yao4 xiang1 hu4 zuo4 yong4",
+        "ori_answer": "得满足要有两个物体而且要接触要相互作用",
+        "gen_answer": "得 满 足 要 有 两 个 物 体 而 且 要 接 触 要 相 互 作 用",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 kan4 wo3 zai4 zhe4 li3 qi2 shi2 yi3 jing1 an4 shi4 le5",
+        "ori_answer": "你看我在这里其实已经暗示了",
+        "gen_answer": "你 看 我 在 这 里 其 实 已 经 暗 示 了",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 de5 tong2 xue2 shuo1 dou1 chu1 shang4 er2 you3 de5 tong2 xue2 bu4 gan3 shuo1",
+        "ori_answer": "有的同学说都出上而有的同学不敢说",
+        "gen_answer": "有 的 同 学 说 都 出 上 而 有 的 同 学 不 敢 说",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 wo3 men5 ba3 fang4 da4",
+        "ori_answer": "啊我们把放大",
+        "gen_answer": "阿 我 们 把 放 大",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 zai4 lai2 hua4 wu4 ti3 xia4 biao3 mian4 de5 cu1 cao1",
+        "ori_answer": "我再来画物体下表面的粗糙",
+        "gen_answer": "我 在 来 话 务 体 下 表 面 的 搓 搓",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 shuo1 zhi3 shi4 yi1 ge4 mian4 cu1 cao1",
+        "ori_answer": "如果说只是一个面粗糙",
+        "gen_answer": "如 果 说 只 是 一 个 面 煎 锅",
+        "f1": 0.0
+    },
+    {
+        "text": "dou1 cu1 cao1",
+        "ori_answer": "都粗糙",
+        "gen_answer": "都 吃 操",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 wo3 men5 ping2 shi2",
+        "ori_answer": "所以我们平时",
+        "gen_answer": "所 以 我 们 平 时",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 zhe4 shi4 guan1 yu2 mo2 ca1 li4",
+        "ori_answer": "好这是关于摩擦力",
+        "gen_answer": "好 这 事 关 于 模 搭 力",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 tong2 xue2 shuo1 lao3 shi1 fen1 lei4 you3 shen2 me5 nan2 de5 ya5",
+        "ori_answer": "有同学说老师分类有什么难的呀",
+        "gen_answer": "有 同 学 说 老 师 分 类 有 什 么 难 的 呀",
+        "f1": 0.0
+    },
+    {
+        "text": "fang1 xiang4",
+        "ori_answer": "方向",
+        "gen_answer": "方 向",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 de5 mo2 ca1 li4 gen1 ju4 zhe4 ge4 mo2 ca1 shi4 zu3 ai4 ta1 xiang1 dui4 yun4 dong4",
+        "ori_answer": "我们的摩擦力根据这个摩擦是阻碍它相对运动",
+        "gen_answer": "我 们 的 模 像 按 据 这 个 模 像 是 组 爱 她 相 对 运 动",
+        "f1": 0.0
+    },
+    {
+        "text": "ru2 guo3 shi4 zu3 ai4 xiang1 dui4 yun4 dong4",
+        "ori_answer": "如果是阻碍相对运动",
+        "gen_answer": "如 果 是 组 爱 相 对 运 动",
+        "f1": 0.0
+    },
+    {
+        "text": "dong4 bu4 qi3 lai2",
+        "ori_answer": "动不起来",
+        "gen_answer": "动 步 起 来",
+        "f1": 0.0
+    },
+    {
+        "text": "hua2 dong4",
+        "ori_answer": "滑动",
+        "gen_answer": "华 东",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 zhong3 jiao4 hua2 dong4 mo2 ca1 ling4 wai4 yi1 zhong3 jiao4 shen2 me5 mo2 ca1",
+        "ori_answer": "一种叫滑动摩擦另外一种叫什么摩擦",
+        "gen_answer": "一 种 叫 滑 动 模 擦 令 外 一 种 叫 什 么 模 擦",
+        "f1": 0.0
+    },
+    {
+        "text": "hua2 dong4 mo2 ca1 de5 da4 xiao3 fang1 xiang4 zuo4 yong4 dian3 wo3 men5 yi1 yi1 lai2 xue2 yi1 xia4 a5",
+        "ori_answer": "滑动摩擦的大小方向作用点我们一一来学一下啊",
+        "gen_answer": "华 动 模 猜 的 大 小 方 向 做 用 点 我 们 一 一 来 学 一 下",
+        "f1": 0.0
+    },
+    {
+        "text": "lai2 dui4 bi3 kan4 yi1 xia4 mo2 ca1 li4 gen1 shen2 me5 you3 guan1",
+        "ori_answer": "来对比看一下摩擦力跟什么有关",
+        "gen_answer": "来 对 比 看 一 下 摩 擦 力 跟 什 么 有 关",
+        "f1": 0.0
+    },
+    {
+        "text": "ya1 li4 yue4 da4",
+        "ori_answer": "压力越大",
+        "gen_answer": "压 力 越 大",
+        "f1": 0.0
+    },
+    {
+        "text": "jie1 chu4 mian4 de5 cu1 cao1 cheng2 du4",
+        "ori_answer": "接触面的粗糙程度",
+        "gen_answer": "接 触 面 的 粗 操 程 度",
+        "f1": 0.0
+    },
+    {
+        "text": "zuo4 zhe4 ge4 shi2 yan4 de5 ren2 ba3 zuo4 de5 zhe4 ge4 shi2 yan4",
+        "ori_answer": "做这个实验的人把做的这个实验",
+        "gen_answer": "做 这 个 实 验 的 人 把 做 的 这 个 实 验",
+        "f1": 0.0
+    },
+    {
+        "text": "tan2 li4 gong1 shi4 F deng3 yu2 K cheng2 yi3 de2 er3 ta3 X",
+        "ori_answer": "弹力公式F等于K乘以德尔塔X",
+        "gen_answer": "谈 立 功 是 等 于 柯 承 以 得 尔 塔 什",
+        "f1": 0.0
+    },
+    {
+        "text": "he2 zhe4 li3 de5 K",
+        "ori_answer": "和这里的K",
+        "gen_answer": "合 这 里 的 卡",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 ye3 shi4 ge4 chang2 liang4 ni3 kan4 zhe4 ge4",
+        "ori_answer": "它也是个常量你看这个",
+        "gen_answer": "她 也 是 个 长 量 你 看 这 个",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 kan4 mo2 ca1 yin1 su4 gen1 shen2 me5 you3 guan1",
+        "ori_answer": "我们看摩擦因素跟什么有关",
+        "gen_answer": "我 们 看 模 擦 音 速 跟 什 么 有 关",
+        "f1": 0.0
+    },
+    {
+        "text": "you4 gen1 cu1 cao1 ceng2 du4 you3 guan1",
+        "ori_answer": "又跟粗糙层度有关",
+        "gen_answer": "又 跟 孤 胞 曾 度 有 关",
+        "f1": 0.0
+    },
+    {
+        "text": "shen2 me5 yi4 si1 ne5 a5",
+        "ori_answer": "什么意思呢啊",
+        "gen_answer": "什 么 意 思 呢 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "mo2 ca1 li4 yao4 bi3 ni3 tai2 ta1 ke4 fu2 de5 zhong4 li4 yao4 xiao3",
+        "ori_answer": "摩擦力要比你抬它克服的重力要小",
+        "gen_answer": "摩 擦 力 要 比 你 台 塌 克 福 的 重 力 要 小",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 hui4 fa1 xian4 tui1 de5 geng4 nan2 shi4 bu4 shi4",
+        "ori_answer": "你会发现推的更难是不是",
+        "gen_answer": "你 会 发 现 推 的 更 难 是 不 是",
+        "f1": 0.0
+    },
+    {
+        "text": "da4 xiao3 gong1 shi4",
+        "ori_answer": "大小公式",
+        "gen_answer": "大 小 公 示",
+        "f1": 0.0
+    },
+    {
+        "text": "zu3 ai4 dui4 ba5 yin1 wei4 mo2 ca1 li4 de5 gong1 shi4 dou1 shuo1 le5",
+        "ori_answer": "阻碍对吧因为摩擦力的公式都说了",
+        "gen_answer": "组 爱 对 吧 因 为 模 擦 力 的 工 作 都 说 了",
+        "f1": 0.0
+    },
+    {
+        "text": "jia3 ru2 shuo1 zhe4 li3 you3 ge4 lun2 tai1",
+        "ori_answer": "假如说这里有个轮胎",
+        "gen_answer": "假 如 说 这 里 有 个 轮 胎",
+        "f1": 0.0
+    },
+    {
+        "text": "qing3 wen4 zhe4 ge4 lun2 tai1 shou4 dao4 mo2 ca1 li4 xiang4 na3 bian1",
+        "ori_answer": "请问这个轮胎受到摩擦力向哪边",
+        "gen_answer": "请 问 这 个 轮 胎 受 到 摩 擦 力 向 哪 边",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 ni3 ye3 zhi1 dao4 le5 ta1 de5 fang1 xiang4 ye3 shi4 zu3 ai4 xiang1 dui4 yun4 dong4",
+        "ori_answer": "所以你也知道了它的方向也是阻碍相对运动",
+        "gen_answer": "所 以 你 也 知 道 了 他 的 方 向 也 是 组 爱 相 对 运 动",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 da4 jia1 bu4 zhi1 dao4 shi4 ma5 lai2",
+        "ori_answer": "好大家不知道是吗来",
+        "gen_answer": "好 大 家 不 知 道 是 哪 来",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 bu4 shi4 yi1 yang4 de5 ne5",
+        "ori_answer": "是不是一样的呢",
+        "gen_answer": "是 不 是 一 样 的 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "hai2 shi4 hua2 qi3 lai2 shou4 dao4 mo2 ca1 xiao3",
+        "ori_answer": "还是滑起来受到摩擦小",
+        "gen_answer": "还 是 华 企 来 受 到 摩 擦 小",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 he2 zhi2 jie1 ping2 tan1 zai4 di4 shang4 ni3 rang4 ni3 tong2 zhuo1 tui1 yi1 xia4",
+        "ori_answer": "啊和直接平摊在地上你让你同桌推一下",
+        "gen_answer": "阿 合 直 接 平 潭 在 地 上 你 让 你 同 桌 推 一 下",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 zhe4 yang4 de5 miao4 gun3",
+        "ori_answer": "是这样的缪滚",
+        "gen_answer": "是 这 样 的 尿 尿",
+        "f1": 0.0
+    },
+    {
+        "text": "miao4 hua2",
+        "ori_answer": "缪滑",
+        "gen_answer": "妙 花",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 suo3 yi3 you3 shi2 hou4 jian3 xiao3 mo2 ca1 de5 hua4 wo3 ke3 yi3 bian4 hua2 dong4 wei4 shen2 me5 dong4",
+        "ori_answer": "好所以有时候减小摩擦的话我可以变滑动为什么动",
+        "gen_answer": "好 所 已 有 十 后 减 小 模 擦 的 画 我 可 以 变 化 动 位 什 么 动",
+        "f1": 0.0
+    },
+    {
+        "text": "gun3 mu4 a5",
+        "ori_answer": "滚木啊",
+        "gen_answer": "滚 幕 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "hen3 gang1 dui4 ba5 wo3 shuo1 de5 bu4 fa1 sheng1 xing2 bian4",
+        "ori_answer": "很钢对吧我说的不发生形变",
+        "gen_answer": "很 刚 对 吧 我 说 的 不 发 生 行 变",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 zai4 shuo1 zai4 jie1 chu4 mian4 shang4",
+        "ori_answer": "你再说在接触面上",
+        "gen_answer": "你 在 说 在 接 触 面 上",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 ni3 men5 jue2 de5 man3 zu2 shi4 ba5 na4 wo3 chu1 yi1 ge4 li4 zi5 a5",
+        "ori_answer": "好你们觉得满足是吧那我出一个例子啊",
+        "gen_answer": "好 拟 们 觉 得 满 足 是 把 那 我 出 一 个 利 子 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "qing3 wen4 shou4 dao4 mo2 ca1 li4 de5 da4 xiao3 wei2 duo1 shao3",
+        "ori_answer": "请问受到摩擦力的大小为多少",
+        "gen_answer": "请 问 受 到 摩 擦 力 的 大 小 为 多 少",
+        "f1": 0.0
+    },
+    {
+        "text": "la1 bu4 dong4",
+        "ori_answer": "拉不动",
+        "gen_answer": "拉 不 动",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 jiu4 la1 bu4 dong4",
+        "ori_answer": "依旧拉不动",
+        "gen_answer": "依 旧 拉 不 动",
+        "f1": 0.0
+    },
+    {
+        "text": "yong4 de5 shi4 er4 li4 ping2 heng2",
+        "ori_answer": "用的是二力平衡",
+        "gen_answer": "用 的 是 二 力 平 衡",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 suo3 yi3 ta1 de5 da4 xiao3 zhu4 yi4 man3 zu2 zhe4 ge4 gong1 shi4",
+        "ori_answer": "好所以它的大小注意满足这个公式",
+        "gen_answer": "好 所 以 她 的 大 小 住 意 满 足 这 个 公 事",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 xian1 pian1 bu4 rang4 ni3 wang3 you4 bian1 pao3",
+        "ori_answer": "我先偏不让你往右边跑",
+        "gen_answer": "我 先 偏 不 让 你 往 右 边 跑",
+        "f1": 0.0
+    },
+    {
+        "text": "zai4 jie1 chu4 mian4 shang4",
+        "ori_answer": "在接触面上",
+        "gen_answer": "在 接 触 面 上",
+        "f1": 0.0
+    },
+    {
+        "text": "shou4 dao4 de5 mo2 ca1 ni3 men5 jue2 de5 shi4 jing4 mo2 ca1",
+        "ori_answer": "受到的摩擦你们觉得是静摩擦",
+        "gen_answer": "受 到 的 模 擦 拟 们 觉 得 是 镜 模 擦",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wo3 xian1 huan4 yi1 ge4 jian3 dan1 de5 wen4 ti2",
+        "ori_answer": "那我先换一个简单的问题",
+        "gen_answer": "那 我 先 换 一 个 简 单 的 问 题",
+        "f1": 0.0
+    },
+    {
+        "text": "wang3 qian2 zou3 hai2 shi4 wang3 hou4 deng1",
+        "ori_answer": "往前走还是往后蹬",
+        "gen_answer": "往 前 走 还 是 往 后 登",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 xiang4 qian2",
+        "ori_answer": "对向前",
+        "gen_answer": "对 象 前",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 na4 wo3 zai4 wen4 ni3",
+        "ori_answer": "好那我再问你",
+        "gen_answer": "好 纳 吾 在 问 你",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 ni3 fa1 xian4 ni3 de5 liang3 zhi1 jiao3 te4 bie2 you3 yong4",
+        "ori_answer": "所以你发现你的两只脚特别有用",
+        "gen_answer": "所 以 你 发 现 你 的 两 只 脚 特 别 有 用",
+        "f1": 0.0
+    },
+    {
+        "text": "zhi1 dao4 ba5",
+        "ori_answer": "知道吧",
+        "gen_answer": "知 道 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wo3 jie1 xia4 lai2 kai1 shi3 wen4",
+        "ori_answer": "那我接下来开始问",
+        "gen_answer": "那 我 接 下 来 开 始 问",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 tong2 xue2 shuo1 lao3 shi1 zhe4 shi4 wei4 shen2 me5 ne5",
+        "ori_answer": "有同学说老师这是为什么呢",
+        "gen_answer": "有 同 学 说 老 师 这 是 为 什 么 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 dang1 ni3 de5 jiao3 he2 di4 mian4 jing4 zhi3 de5 shi2 hou4 zhe4 ge4 li4 cai2 you3",
+        "ori_answer": "因为当你的脚和地面静止的时候这个力才有",
+        "gen_answer": "因 为 当 你 的 角 和 地 面 净 值 的 时 候 这 个 利 财 有",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 me5 wo3 jie1 xia4 lai2 wen4",
+        "ori_answer": "那么我接下来问",
+        "gen_answer": "那 么 我 接 下 来 问",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 bu4 dui4",
+        "ori_answer": "对不对",
+        "gen_answer": "对 不 对",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 zhe4 yao4 zhu4 yi4",
+        "ori_answer": "好这要注意",
+        "gen_answer": "好 这 要 注 意",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wo3 men5 ke3 yi3 xian1 ba3 mo2 ca1 li4 gong1 shi4 xie3 chu1 lai2 F deng3 yu2 miao4 F N ma5",
+        "ori_answer": "那我们可以先把摩擦力公式写出来F等于缪FN吗",
+        "gen_answer": "那 我 们 可 以 先 把 模 擦 力 工 试 写 来 等 于 冒 泡 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 ke3 yi3 shi3 jie1 chu4 mian4 bian4 de5 shen2 me5",
+        "ori_answer": "我可以使接触面变的什么",
+        "gen_answer": "我 可 以 使 接 触 面 变 得 什 么",
+        "f1": 0.0
+    },
+    {
+        "text": "wang3 shang4 mian4 jia1 run4 hua2 you2",
+        "ori_answer": "往上面加润滑油",
+        "gen_answer": "网 上 面 加 润 滑 油",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 yi1 zhong3 chuan2",
+        "ori_answer": "有一种船",
+        "gen_answer": "有 一 种 传",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 qi4 dian4 chuan2",
+        "ori_answer": "对气垫船",
+        "gen_answer": "对 汽 电 传",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5",
+        "ori_answer": "对吧",
+        "gen_answer": "对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "ran2 hou4 zai4 tui1 sui2 yi4 tui1",
+        "ori_answer": "然后再推随意推",
+        "gen_answer": "然 后 在 推 随 意 推",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 ni3 fa1 xian4 jian3 xiao3",
+        "ori_answer": "所以你发现减小",
+        "gen_answer": "所 以 你 发 现 简 小 小",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 you3 ge4 ren2 zai4 bing1 shang4 mian4 sa3 le5 yi1 ceng2 shui3",
+        "ori_answer": "哎有个人在冰上面洒了一层水",
+        "gen_answer": "埃 友 个 人 在 冰 上 面 撒 了 一 层 水",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 ai1",
+        "ori_answer": "哎哎",
+        "gen_answer": "埃 埃 ",
+        "f1": 0.0
+    },
+    {
+        "text": "shi3 jie1 chu4 mian4 fen1 kai1 zhuan1 shu3 de5 shi4 qi4 dian4 chuan2",
+        "ori_answer": "使接触面分开专属的是气垫船",
+        "gen_answer": "使 接 触 面 分 开 专 属 的 事 器 电 传",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 wo3 ba3 shang4 mian4 cu1 cao1 de5 gei3 da3 mo2 cheng2 ping2 de5",
+        "ori_answer": "好我把上面粗糙的给打磨成平的",
+        "gen_answer": "好 我 把 上 面 搓 搓 的 给 打 麻 成 平 的",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wo3 men5 jie1 xia4 lai2 you4 ke3 yi3 zuo4 ti2 le5",
+        "ori_answer": "那我们接下来又可以做题了",
+        "gen_answer": "那 我 们 接 下 来 又 可 以 做 提 了",
+        "f1": 0.0
+    },
+    {
+        "text": "bu4 kai1 xuan3 xiang4 da2 an4 xuan3 A",
+        "ori_answer": "不开选项答案选A",
+        "gen_answer": "不 开 选 项 达 案 选 择",
+        "f1": 0.0
+    },
+    {
+        "text": "song4 fen1 gei3 ni3 men5 la5",
+        "ori_answer": "送分给你们啦",
+        "gen_answer": "送 分 给 你 们 啦",
+        "f1": 0.0
+    },
+    {
+        "text": "dan4 shi4 zhe4 dao4 ti2 wo3 gei3 da4 jia1 tuo4 zhan3 yi1 xia4 a5 tai2 tou2 tai2 tou2 tai2 tou2",
+        "ori_answer": "但是这道题我给大家拓展一下啊抬头抬头抬头",
+        "gen_answer": "但 是 这 道 题 我 给 大 家 拓 展 一 下 亚 台 头 台 头 台 头",
+        "f1": 0.0
+    },
+    {
+        "text": "san1 zhi1 gan1 shang4 mian4 you3 san1 ge4 yi1 mu2 yi1 yang4 de5 hou2 zi5",
+        "ori_answer": "三只杆上面有三个一模一样的猴子",
+        "gen_answer": "三 只 干 上 面 有 三 个 一 模 一 样 的 孩 子",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 zhi1 hou2 zi5",
+        "ori_answer": "一只猴子",
+        "gen_answer": "一 只 猴 子",
+        "f1": 0.0
+    },
+    {
+        "text": "shen2 me5 guan1 xi4",
+        "ori_answer": "什么关系",
+        "gen_answer": "什 么 关 系",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 jiu4 hui1 shou3",
+        "ori_answer": "你就挥手",
+        "gen_answer": "你 就 恢 首",
+        "f1": 0.0
+    },
+    {
+        "text": "gong1 xi3 hui1 shou3 de5 tong2 xue2",
+        "ori_answer": "恭喜挥手的同学",
+        "gen_answer": "公 洗 挥 手 的 同 学",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 bu4 guan3 ta1 shi4 wang3 shang4 wang3 xia4 hai2 shi4 bu4 dong4",
+        "ori_answer": "我不管它是往上往下还是不动",
+        "gen_answer": "我 不 管 他 是 网 上 网 下 还 是 不 动",
+        "f1": 0.0
+    },
+    {
+        "text": "dou1 jiao4 ping2 heng2 zhuang4 tai4",
+        "ori_answer": "都叫平衡状态",
+        "gen_answer": "都 较 平 衡 状 态",
+        "f1": 0.0
+    },
+    {
+        "text": "he2 li4 wei2 ling2 de5 yi4 si1 shi4 bu4 shi4 jiu4 shi4",
+        "ori_answer": "合力为零的意思是不是就是",
+        "gen_answer": "合 力 为 零 的 意 思 是 不 是 就 是",
+        "f1": 0.0
+    },
+    {
+        "text": "shi3 zhong1 shi4",
+        "ori_answer": "始终是",
+        "gen_answer": "使 中 式",
+        "f1": 0.0
+    },
+    {
+        "text": "ting1 ming2 bai2 le5 ma5",
+        "ori_answer": "听明白了吗",
+        "gen_answer": "听 名 白 了 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "mo2 ca1 li4 fang1 xiang4 da4 xiao3 dou1 yi1 mu2 yi1 yang4",
+        "ori_answer": "摩擦力方向大小都一模一样",
+        "gen_answer": "摩 擦 力 方 向 大 小 都 一 模 一 样",
+        "f1": 0.0
+    },
+    {
+        "text": "diu1 ren2 ba5",
+        "ori_answer": "丟人吧",
+        "gen_answer": "丢 人 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 zhe4 shi4 bing1 dao1 a5 bu4 shi4 dai4 lun2 zi5 de5 liu1 bing1 xie2",
+        "ori_answer": "所以这是冰刀啊不是带轮子的溜冰鞋",
+        "gen_answer": "所 以 这 是 冰 刀 啊 不 是 带 轮 子 的 流 冰 鞋",
+        "f1": 0.0
+    },
+    {
+        "text": "chuan2 song4 dai4 ru2 guo3 shi4 ping2 de5",
+        "ori_answer": "传送带如果是平的",
+        "gen_answer": "传 送 戴 若 果 是 平 的",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 shi2 hou4 wu4 ti3 he2 chuan2 song4 dai4 ye3 shi4 xiang1 dui4 jing4 zhi3",
+        "ori_answer": "这个时候物体和传送带也是相对静止",
+        "gen_answer": "这 个 时 候 物 体 和 传 送 带 也 是 相 对 静 止",
+        "f1": 0.0
+    },
+    {
+        "text": "ni3 kan4 zhe4 you3 liang3 zhong3 chuan2 tai4 dui4 ba5 yi1 ge4 shui3 ping2 de5 yi1 ge4 xie2 xiang4 shang4 de5",
+        "ori_answer": "你看这有两种传态对吧一个水平的一个斜向上的",
+        "gen_answer": "你 看 这 有 两 种 传 太 对 吧 一 个 水 平 的 一 个 协 作 上 的",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 yin1 wei4 wu4 ti3 he2 chuan2 song4 dai4",
+        "ori_answer": "是因为物体和传送带",
+        "gen_answer": "事 因 为 物 体 和 船 送 带",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 zhi1 chi2 li4",
+        "ori_answer": "有支持力",
+        "gen_answer": "有 支 持 力",
+        "f1": 0.0
+    },
+    {
+        "text": "dan4 shi4 zhe4 li3 jiu4 shou4 le5 wei4 shen2 me5 ne5",
+        "ori_answer": "但是这里就受了为什么呢",
+        "gen_answer": "但 是 这 里 就 受 了 为 什 么 呢",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 xie2 xiang4 shang4 de5 you3",
+        "ori_answer": "所以斜向上的有",
+        "gen_answer": "所 以 携 象 上 的 有",
+        "f1": 0.0
+    },
+    {
+        "text": "yun2 su4 zhi2 xian4 yun4 dong4 a5",
+        "ori_answer": "匀速直线运动啊",
+        "gen_answer": "云 速 直 线 运 动 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "jian3 dan1 wo3 men5 jiu4 kuai4 su4 guo4 a5 er4 shi2 er4 kai1 xuan3 xiang4",
+        "ori_answer": "简单我们就快速过啊二十二开选项",
+        "gen_answer": "简 单 我 们 就 快 速 过 阿 二 十 二 开 选 项",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 wei4 le5 rang4 cu1 cao1 cheng2 du4",
+        "ori_answer": "是为了让粗糙程度",
+        "gen_answer": "是 为 了 让 粗 操 程 度",
+        "f1": 0.0
+    },
+    {
+        "text": "di4 san1 ge4",
+        "ori_answer": "第三个",
+        "gen_answer": "第 三 个",
+        "f1": 0.0
+    },
+    {
+        "text": "dong4 wei2 gun3 dong4",
+        "ori_answer": "动为滚动",
+        "gen_answer": "动 为 滚 动",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 da2 an4 ying1 gai1 xuan3 yi1 si4",
+        "ori_answer": "所以答案应该选一四",
+        "gen_answer": "所 以 达 岸 应 该 选 一 四",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5",
+        "ori_answer": "对吧",
+        "gen_answer": "对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "guo3 ran2 da4 jia1 mei2 you3 quan2 dui4",
+        "ori_answer": "果然大家没有全对",
+        "gen_answer": "果 然 大 家 没 有 全 队",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 zhe4 ge4 lun2 zi5 a5 tao4 de5 yue4 jin3",
+        "ori_answer": "就这个轮子啊套的越紧",
+        "gen_answer": "就 这 个 轮 子 啊 套 的 月 紧",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 ta1 shi4 dui4 de5",
+        "ori_answer": "好它是对的",
+        "gen_answer": "好 她 是 对 的",
+        "f1": 0.0
+    },
+    {
+        "text": "er4 li4 ping2 heng2 you4 mei2 you3 wan2 quan2 yong4 dong3",
+        "ori_answer": "二力平衡又没有完全用懂",
+        "gen_answer": "二 力 平 恒 又 没 有 完 全 用 懂",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 zhi2 jing4 zhi3",
+        "ori_answer": "一直静止",
+        "gen_answer": "一 直 净 止",
+        "f1": 0.0
+    },
+    {
+        "text": "he2 li4 wei2 ling2 ma5 ni3 kan4 shu4 zhi2 fang1 xiang4 shang4 you3 zhong4 li4",
+        "ori_answer": "合力为零嘛你看竖直方向上有重力",
+        "gen_answer": "合 力 为 零 吗 你 看 数 值 方 向 上 有 重 力",
+        "f1": 0.0
+    },
+    {
+        "text": "gen1 zhe4 ge4 wai4 li4 F",
+        "ori_answer": "跟这个外力F",
+        "gen_answer": "跟 这 个 外 力 夫",
+        "f1": 0.0
+    },
+    {
+        "text": "wu3 niu2 li4 tui1 mei2 tui1 dong4",
+        "ori_answer": "五牛力推没推动",
+        "gen_answer": "五 牛 力 推 媒 推 动",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 shi2 wu3 niu2 tui1 dong4 le5",
+        "ori_answer": "哎十五牛推动了",
+        "gen_answer": "埃 十 五 牛 推 动 了",
+        "f1": 0.0
+    },
+    {
+        "text": "dan3 er2 zhe4 me5 da4",
+        "ori_answer": "胆儿这么大",
+        "gen_answer": "但 而 这 么 大",
+        "f1": 0.0
+    },
+    {
+        "text": "hua2 dong4 mo2 ca1 de5 F",
+        "ori_answer": "滑动摩擦的F",
+        "gen_answer": "华 动 模 卡 的 法",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 huan2 shi4 shi2 wu3 niu2",
+        "ori_answer": "所以还是十五牛",
+        "gen_answer": "所 以 环 市 十 五 牛",
+        "f1": 0.0
+    },
+    {
+        "text": "kan4 kan4 wo3 gei3 de5 keng1 da4 jia1 neng2 bu4 neng2 tiao4 guo4 qu4",
+        "ori_answer": "看看我给的坑大家能不能跳过去",
+        "gen_answer": "看 看 我 给 的 eng 大 家 能 不 能 跳 过 去",
+        "f1": 0.0
+    },
+    {
+        "text": "qing3 ting1 ti2 gen1 guan4 xing4 you3 guan1 de5 a5",
+        "ori_answer": "请听题跟惯性有关的啊",
+        "gen_answer": "请 听 提 根 冠 姓 有 关 的 阿",
+        "f1": 0.0
+    },
+    {
+        "text": "fang4 you3 zhi4 liang4 wei2 M yi1 he2 M er4 de5 liang3 ge4 xiao3 qiu2",
+        "ori_answer": "放有质量为M一和M二的两个小球",
+        "gen_answer": "放 有 质 量 为 M 一 和 二 的 两 个 小 球",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 shuo1",
+        "ori_answer": "它说",
+        "gen_answer": "他 说",
+        "f1": 0.0
+    },
+    {
+        "text": "cha4 bu4 duo1 le5 ba5",
+        "ori_answer": "差不多了吧",
+        "gen_answer": "差 不 多 了 把",
+        "f1": 0.0
+    },
+    {
+        "text": "wei4 shen2 me5 xuan3 B lai2 tai2 tou2 kan4 tai2 tou2 kan4",
+        "ori_answer": "为什么选B来抬头看抬头看",
+        "gen_answer": "为 什 么 选 来 台 头 看 台 头 看",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 wu4 ti3 ye3 shi4 wu3 mi3 miao3 ta1 yao4 bao3 chi2 yuan2 you3 de5 yun4 dong4 zhuang4 tai4 ma5",
+        "ori_answer": "这个物体也是五米秒它要保持原有的运动状态嘛",
+        "gen_answer": "这 个 物 体 也 是 五 米 秒 他 要 保 持 原 有 的 运 动 状 态 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "jing4 zhi3",
+        "ori_answer": "静止",
+        "gen_answer": "竟 只",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 shuo1 guan4 xing4 zhe4 dong1 xi1 gen1 zhi4 liang4 you3 guan1",
+        "ori_answer": "我们说惯性这东西跟质量有关",
+        "gen_answer": "我 们 说 冠 性 这 东 西 跟 质 量 有 关",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 shang4 biao3 mian4 you3 mo2 ca1",
+        "ori_answer": "就上表面有摩擦",
+        "gen_answer": "就 上 表 面 有 模 擦",
+        "f1": 0.0
+    },
+    {
+        "text": "zai4 gao4 su4 ni3",
+        "ori_answer": "再告诉你",
+        "gen_answer": "在 告 诉 你",
+        "f1": 0.0
+    },
+    {
+        "text": "cheng2 yi3 ta1 de5 jia1 su4 du4",
+        "ori_answer": "乘以它的加速度",
+        "gen_answer": "成 以 他 的 加 速 度",
+        "f1": 0.0
+    },
+    {
+        "text": "hua2 dong4 mo2 ca1 li4 you4 deng3 yu2 miao4 F N",
+        "ori_answer": "滑动摩擦力又等于缪FN",
+        "gen_answer": "华 动 模 卡 力 诱 等 于 冒 险",
+        "f1": 0.0
+    },
+    {
+        "text": "G ye3 yi1 yang4 shuo1 ming2 liang3 ge4 xiao3 qiu2 de5 jian3 su4 du4 shi4 yi1 yang4 de5",
+        "ori_answer": "G也一样说明两个小球的减速度是一样的",
+        "gen_answer": "海 野 一 样 说 明 两 个 小 球 的 减 速 度 是 一 样 的",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 ta1 men5 lia3 hai2 shi4 yi1 zhi2 xiang1 dui4 jing4 zhi3",
+        "ori_answer": "所以它们俩还是一直相对静止",
+        "gen_answer": "所 以 他 们 俩 还 是 一 直 相 对 静 止",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 zhe4 shi4 di4 yi1 ti2",
+        "ori_answer": "好这是第一题",
+        "gen_answer": "好 这 事 第 一 提",
+        "f1": 0.0
+    },
+    {
+        "text": "rang4 ta1 men5 zai4 guang1 hua2 de5 shui3 ping2 zhuo1 mian4 shang4 yi3 tong2 yang4 de5 su4 du4 tong2 shi2 kai1 shi3 zhuan4 dong4",
+        "ori_answer": "让他们在光滑的水平桌面上以同样的速度同时开始转动",
+        "gen_answer": "让 他 们 在 光 滑 的 水 平 桌 面 上 以 同 样 的 速 度 同 时 开 始 扩 动",
+        "f1": 0.0
+    },
+    {
+        "text": "yi4 fen1 zhong1 hao3 ba5 wo3 gei3 ni3 men5 yi4 fen1 zhong1 si1 kao3",
+        "ori_answer": "一分钟好吧我给你们一分钟思考",
+        "gen_answer": "益 分 中 好 把 我 给 你 们 益 分 中 思 考",
+        "f1": 0.0
+    },
+    {
+        "text": "liang3 ge4 dan4",
+        "ori_answer": "两个蛋",
+        "gen_answer": "两 个 蛋",
+        "f1": 0.0
+    },
+    {
+        "text": "hun4 wei2 yi4 ti3",
+        "ori_answer": "混为一体",
+        "gen_answer": "婚 妻 意 体",
+        "f1": 0.0
+    },
+    {
+        "text": "shu2 ji1 dan4 zhuan4 qi3 lai2 shi4 zheng3 ti3 quan2 bu4 zhuan4 qi3 lai2",
+        "ori_answer": "熟鸡蛋转起来是整体全部转起来",
+        "gen_answer": "熟 基 蛋 赚 起 来 是 整 体 全 部 赚 起 来",
+        "f1": 0.0
+    },
+    {
+        "text": "O K suo3 yi3 ta1 yao4 xian1 ting2 xia4 lai2",
+        "ori_answer": "OK所以它要先停下来",
+        "gen_answer": "欧 洲 已 他 要 先 停 下 来",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 wo3 shuo1 ba3 zhe4 ge4 ti2 e2 wai4 huan4 yi1 zhong3 wen4 fa3",
+        "ori_answer": "我我说把这个题额外换一种问法",
+        "gen_answer": "我 我 说 把 这 个 提 额 外 换 一 种 问 法",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 zai4 zhuo1 shang4 zheng4 na4 xuan2 zhuan3 de5 zheng4 guo4 yin3 wo3 tong2 shi2 en4 yi1 xia4",
+        "ori_answer": "对在桌上正那旋转的正过瘾我同时摁一下",
+        "gen_answer": "对 在 桌 上 正 纳 悬 转 的 正 过 引 我 同 时  En 一 下",
+        "f1": 0.0
+    },
+    {
+        "text": "dou1 zhuan4 de5 shi2 hou4 dang1 ni3 yong4 shou3 en4 jiu4 yi4 wei4 zhe5 ba3 ta1 men5 de5 yun4 dong4 zhuang4 tai4",
+        "ori_answer": "都转的时候当你用手摁就意味着把它们的运动状态",
+        "gen_answer": "都 赚 得 时 候 当 你 用 手  En 救 意 味 着 你 把 他 们 的 运 动 状 态",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 zhe4 ge4 guan1 yu2 sheng1 shu2 ji1 dan4 de5 kao3 fa3",
+        "ori_answer": "啊这个关于生熟鸡蛋的考法",
+        "gen_answer": "啊 这 个 关 于 生 活 机 蛋 的 考 法",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 jiu4 li4 ma3 xia4 ke4",
+        "ori_answer": "我就立马下课",
+        "gen_answer": "我 就 立 马 下 课",
+        "f1": 0.0
+    },
+    {
+        "text": "zi4 ji3 xiang3",
+        "ori_answer": "自己想",
+        "gen_answer": "自 己 想",
+        "f1": 0.0
+    },
+    {
+        "text": "da2 an4 xuan3 A",
+        "ori_answer": "答案选A",
+        "gen_answer": "达 案 选 案",
+        "f1": 0.0
+    },
+    {
+        "text": "you4 shuo1 shi4 guang1 hua2 de5 shui3 ping2 di4 mian4 shang4 you3 mei2 you3 mo2 ca1",
+        "ori_answer": "又说是光滑的水平地面上有没有摩擦",
+        "gen_answer": "又 说 是 光 华 的 水 平 地 面 上 有 没 有 模 擦",
+        "f1": 0.0
+    },
+    {
+        "text": "yin1 wei4 ta1 de5 li4 dou1 zai4 shu4 zhi2 fang1 xiang4 you3 zhong4 li4 gen1 ta1 di3 xiao1",
+        "ori_answer": "因为它的力都在竖直方向有重力跟它抵消",
+        "gen_answer": "因 为 他 的 力 都 在 数 直 方 向 有 重 力 跟 他 抵 抗",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 zai4 shui3 ping2 fang1 xiang4 ye3 you3 fen1 li4",
+        "ori_answer": "这个在水平方向也有分力",
+        "gen_answer": "这 个 在 水 平 方 向 也 有 分 析",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 ming2 tian1 jian4",
+        "ori_answer": "好明天见",
+        "gen_answer": "好 名 天 间",
+        "f1": 0.0
+    },
+    {
+        "text": "ta1 dou1 ta1 men5 liang3 ge4 dou1 shi4 shu3 yu2 wo3 men5 ji1 xie4 a5 wo3 men5 shuo1 guo4 yao4 xue2 san1 zhong3 ji1 qi4 xie4 dui4 ba5",
+        "ori_answer": "它都它们两个都是属于我们机械啊我们说过要学三种机器械对吧",
+        "gen_answer": "他 都 他 们 两 个 都 是 属 于 我 们 机 械 阿 我 们 说 过 要 学 三 种 机 器 械 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "ke3 neng2 hui4 bi3 jiao4 nan2 lai2 wo3 men5 lai2 kan4 kan4 jin1 tian1 xue2 xie1 shen2 me5",
+        "ori_answer": "可能会比较难来我们来看看今天学些什么",
+        "gen_answer": "可 能 会 比 较 难 来 我 们 来 看 看 今 天 学 些 什 么",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 zhuan1 men2 zhao3 le5 ji3 ge4 hua2 lun2 de5 tu2 pian4",
+        "ori_answer": "我专门找了几个滑轮的图片",
+        "gen_answer": "我 专 门 找 了 几 个 华 伦 的 图 片",
+        "f1": 0.0
+    },
+    {
+        "text": "da4 jia1 xiang3 bu4 xiang3 kan4 na4 ge4 ao1 cao2 shi4 yong4 lai2 gan4 ma5 de5 zhi1 dao4 ma5",
+        "ori_answer": "大家想不想看那个凹槽是用来干嘛的知道吗",
+        "gen_answer": "大 家 想 不 想 看 那 个 嗷 嗷 试 用 来 干 吗 的 之 道 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5 hou4 wo3 men5 ma3 shang4 yao4 zuo4 gu4 ding4 dian3 jiu4 zhe4 ge4 di4 fang1",
+        "ori_answer": "对吧后我们马上要做固定点就这个地方",
+        "gen_answer": "对 吧 后 我 们 马 上 要 做 固 定 点 就 这 个 地 方",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 wo3 men5 zhe4 li3 ba3 ta1 jiao4 zuo4 zhou2",
+        "ori_answer": "啊我们这里把它叫做轴",
+        "gen_answer": "啊 我 们 这 里 把 她 教 作 舟",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 me5 hua2 lun2 you3 fei1 chang2 duo1 de5 zhong3 lei4 a5",
+        "ori_answer": "那么滑轮有非常多的种类啊",
+        "gen_answer": "那 么 华 伦 友 非 常 多 的 种 类 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 wang3 xia4 la1 zhe4 ge4 wu4 ti3 shi4 bu4 shi4 jiu4 wang3 shang4 zou3",
+        "ori_answer": "那往下拉这个物体是不是就往上走",
+        "gen_answer": "那 网 下 拉 这 个 物 体 是 不 是 就 往 上 走",
+        "f1": 0.0
+    },
+    {
+        "text": "zhou2 a5 huo4 zhe3 hua2 lun2 gu4 ding4 bu4 dong4 de5 zhe4 zhong3",
+        "ori_answer": "轴啊或者滑轮固定不动的这种",
+        "gen_answer": "周 阿 货 者 华 伦 固 定 不 动 的 这 种",
+        "f1": 0.0
+    },
+    {
+        "text": "ding4 hua2 lun2 ta1 zhi3 de5 shi4 zhou2 zhe4 ge4 gu4 ding4 bu4 dong4 de5 hua2 lun2",
+        "ori_answer": "定滑轮它指的是轴这个固定不动的滑轮",
+        "gen_answer": "定 华 伦 他 只 的 是 轴 这 个 固 定 不 动 的 华 伦",
+        "f1": 0.0
+    },
+    {
+        "text": "di4 er4 ge4 na4 ding4 hua2 lun2 huo4 zhe3 shuo1 hua2 lun2 a5 wo3 men5 dou1 yao4 qu4 tan4 jiu1 ta1 de5 sheng2 zi5 zi4 you2 duan1",
+        "ori_answer": "第二个那定滑轮或者说滑轮啊我们都要去探究它的绳子自由端",
+        "gen_answer": "第 二 个 纳 定 华 伦 或 者 说 华 伦 的 我 们 都 要 去 探 究 他 的 生 子 自 由 端",
+        "f1": 0.0
+    },
+    {
+        "text": "bi3 ru2 shuo1 sheng2 zi5 la1 li4 shi4 F",
+        "ori_answer": "比如说绳子拉力是F",
+        "gen_answer": "比 如 说 生 子 拉 力 是 否",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 zai4 shou4 li4 fen1 xi1 de5 shi2 hou4 jiang3 guo4",
+        "ori_answer": "我们在受力分析的时候讲过",
+        "gen_answer": "我 们 在 受 力 分 析 的 时 候 讲 过",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 ba5 zhi3 yao4 zai4 tong2 yi1 gu3 sheng2 zi5 shang4 li4 jiu4 shi4 yi1 yang4 de5 a5",
+        "ori_answer": "好吧只要在同一股绳子上力就是一样的啊",
+        "gen_answer": "好 把 只 要 在 同 一 股 生 子 上 力 就 是 一 样 的 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "sheng2 zi5 shang4 de5 liang3 ge4 li4 a5 shi4 xiang1 deng3 de5",
+        "ori_answer": "绳子上的两个力啊是相等的",
+        "gen_answer": "生 子 上 的 两 个 丽 啊 是 相 等 的",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 wo3 men5 shou4 li4 fen1 xi1 de5 shi2 hou4 gen1 da4 jia1 ti2 guo4 a5 ke3 neng2 da4 jia1 wang4 le5",
+        "ori_answer": "就我们受力分析的时候跟大家提过啊可能大家忘了",
+        "gen_answer": "就 我 们 受 力 分 析 的 时 候 跟 大 家 提 过 阿 可 能 大 家 望 了",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 xiang1 deng3 de5 a5",
+        "ori_answer": "哎相等的啊",
+        "gen_answer": "埃 翔 等 的 阿",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 ying1 gai1 ji4 wan2 le5 tong2 yi1 gu3 sheng2 zi5 shang4 de5 li4 chu4 shu4 xiang1 deng3",
+        "ori_answer": "那应该记完了同一股绳子上的力处数相等",
+        "gen_answer": "那 应 该 继 完 了 同 一 股 生 子 上 的 历 史 相 等",
+        "f1": 0.0
+    },
+    {
+        "text": "wu4 ti3 shang4 sheng1 de5 su4 du4 shi4 V wu4 na4 da4 jia1 zai4 lai2 kan4 a5 zhe4 liang3 ge4 su4 du4 shen2 me5 guan1 xi4",
+        "ori_answer": "物体上升的速度是V物那大家再来看啊这两个速度什么关系",
+        "gen_answer": "物 体 上 生 的 速 度 是 物 类 大 家 在 来 看 阿 这 两 个 速 度 什 么 关 系",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 tong2 shi2 kai1 shi3 ma5 tong2 shi2 ting2 zhi3 dui4 ba5",
+        "ori_answer": "我同时开始嘛同时停止对吧",
+        "gen_answer": "我 同 时 开 始 码 同 时 停 止 对 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "shi2 jian1 xiang1 tong2 lu4 cheng2 xiang1 tong2 su4 du4 jiu4 yi1 ding4 xiang1 tong2 a5",
+        "ori_answer": "时间相同路程相同速度就一定相同啊",
+        "gen_answer": "时 间 相 同 路 程 相 同 速 度 就 一 定 相 同 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 hai2 shi4 yao4 kan4 yi1 kan4 a5",
+        "ori_answer": "我们还是要看一看啊",
+        "gen_answer": "我 们 还 是 要 看 一 看 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "lai2 a5 hai2 shi4 you3 wen4 ti2 yao4 wen4 da4 jia1",
+        "ori_answer": "来啊还是有问题要问大家",
+        "gen_answer": "来 了 还 是 有 问 题 要 问 大 家",
+        "f1": 0.0
+    },
+    {
+        "text": "na3 ge4",
+        "ori_answer": "哪个",
+        "gen_answer": "哪 个",
+        "f1": 0.0
+    },
+    {
+        "text": "jiu4 shi4 wo3 la1 li4 de5 zhe4 ge4 di4 fang1 a5 C dian3 ti2 gong1 dong4 li4",
+        "ori_answer": "就是我拉力的这个地方啊C点提供动力",
+        "gen_answer": "就 是 我 拉 力 的 这 个 地 方 啊 点 提 供 动 力",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 kan4 ta1 de5 ben3 zhi4 shang4 dao4 di3 shi4 na3 zhong3 gang4 gan3",
+        "ori_answer": "我们看它的本质上到底是哪种杠杆",
+        "gen_answer": "我 们 看 他 的 本 质 上 到 底 是 哪 种 杠 杆",
+        "f1": 0.0
+    },
+    {
+        "text": "na4 ni3 hui4 fa1 xian4 L yi1 deng3 yu2 L er4 na4 qing3 wen4 zhe4 shi4 shen2 me5 gang4 gan3",
+        "ori_answer": "那你会发现L一等于L二那请问这是什么杠杆",
+        "gen_answer": "那 你 会 发 现 一 等 于 二 那 请 问 这 是 什 么 杠 杆",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 ge4 ding4 ding4 hua2 lun2 de5 ben3 zhi4 ta1 shi2 zhi4 shang4 shi4 ge4 deng3 bi4 gang4 gan3",
+        "ori_answer": "这个定定滑轮的本质它实质上是个等臂杠杆",
+        "gen_answer": "这 个 定 定 华 伦 的 本 质 她 实 质 上 是 个 等 避 港 感",
+        "f1": 0.0
+    },
+    {
+        "text": "lai2 wo3 men5 ji4 xu4",
+        "ori_answer": "来我们继续",
+        "gen_answer": "来 我 们 继 续",
+        "f1": 0.0
+    },
+    {
+        "text": "xian4 zai4 a5 wo3 de5 li4 zen3 me5 yang4 le5",
+        "ori_answer": "现在啊我的力怎么样了",
+        "gen_answer": "现 在 哪 我 的 力 角 么 样 了",
+        "f1": 0.0
+    },
+    {
+        "text": "te4 a5 da4 xiao3 shi4 zhe4 yi4 si1 ba5",
+        "ori_answer": "特啊大小是这意思吧",
+        "gen_answer": "特 啊 大 小 事 这 意 思 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "qi2 shi2 ding4 hua2 lun2 wo3 men5 jian4 dao4 ying1 gai1 man2 duo1 de5",
+        "ori_answer": "其实定滑轮我们见到应该蛮多的",
+        "gen_answer": "其 实 定 划 轮 我 们 见 到 应 该 满 多 的",
+        "f1": 0.0
+    },
+    {
+        "text": "dui4 ba5 yi1 sheng1 guo2 de5 guo2 qi2 shou3 shi4 bu4 shi4 wang3 xia4 qu4 zhuai1 le5 ge4 sheng2 zhe4 ge4 guo2 qi2 jiu4 shang4 qu4 le5",
+        "ori_answer": "对吧一升国的国旗手是不是往下去拽了个绳这个国旗就上去了",
+        "gen_answer": "对 把 一 生 国 的 国 旗 手 是 不 是 网 下 去 挑 了 个 生 这 个 国 旗 就 上 去 了",
+        "f1": 0.0
+    },
+    {
+        "text": "shang4 qu4 you4 xia4 lai2 le5 na4 ge4",
+        "ori_answer": "上去又下来了那个",
+        "gen_answer": "上 去 又 下 来 了 那 个",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 wo3 men5 yi1 hui4 shuo1",
+        "ori_answer": "啊我们一会说",
+        "gen_answer": "阿 我 们 一 会 说",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 you4 bian1 zhe4 ge4 tu2 da4 jia1 kan4",
+        "ori_answer": "啊右边这个图大家看",
+        "gen_answer": "阿 右 边 这 个 图 大 家 看",
+        "f1": 0.0
+    },
+    {
+        "text": "yi1 hui4 ne5 dui4 ta1 shou4 li4 fen1 xi1 a5",
+        "ori_answer": "一会呢对它受力分析啊",
+        "gen_answer": "一 会 么 对 他 受 力 分 析 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "mei2 mei2 wen4 ti2 ba5",
+        "ori_answer": "没没问题吧",
+        "gen_answer": "没 没 问 题 吧",
+        "f1": 0.0
+    },
+    {
+        "text": "zhe4 li3 wo3 qian2 ti2 tiao2 jian4 yi3 jing1 gao4 su4 da4 jia1 le5",
+        "ori_answer": "这里我前提条件已经告诉大家了",
+        "gen_answer": "这 里 我 前 提 条 件 已 经 告 诉 大 家 了",
+        "f1": 0.0
+    },
+    {
+        "text": "wan2 le5 di4 yi1 ge4",
+        "ori_answer": "完了第一个",
+        "gen_answer": "玩 了 第 一 个",
+        "f1": 0.0
+    },
+    {
+        "text": "hao3 wo3 men5 zhi1 qian2 jiang3 guo4 na4 ge4 shou4 li4 fen1 xi1 shi4 bu4 shi4 zheng3 ti3 fa3 he2 ge2 li2 fa3",
+        "ori_answer": "好我们之前讲过那个受力分析是不是整体法和隔离法",
+        "gen_answer": "好 我 们 之 前 讲 过 那 个 受 力 分 析 是 不 是 整 体 法 合 格 离 法",
+        "f1": 0.0
+    },
+    {
+        "text": "ai1 zhong4 li4 shi4 zhong4 li4",
+        "ori_answer": "哎重力是重力",
+        "gen_answer": "埃 氏 利 世 众 利",
+        "f1": 0.0
+    },
+    {
+        "text": "la1 li4 dui4 ma5 na4 wo3 qing3 wen4 da4 jia1 zhe4 shi4 yi1 ge4 sheng2 zi5 la1 zhe5 ta1 hai2 shi4 liang3 gen1 sheng2 zi5 dou1 la1 zhe5 ta1",
+        "ori_answer": "拉力对吗那我请问大家这是一个绳子拉着它还是两根绳子都拉着它",
+        "gen_answer": "拉 力 对 吗 那 我 请 问 大 家 这 是 一 个 生 子 拉 着 他 还 是 两 根 生 子 都 拉 着 他",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 jie3 shi4 yi1 xia4 a5 ting1 hao3",
+        "ori_answer": "我解释一下啊听好",
+        "gen_answer": "我 姐 是 一 下 阿 听 好",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 liang3 bian1 you3 shi4 xiang1 dang1 yu2 liang3 gen1 sheng2 zi5 la1 zhe5 ta1",
+        "ori_answer": "所以两边有是相当于两根绳子拉着它",
+        "gen_answer": "所 以 两 边 有 事 当 于 两 根 绳 生 子 拉 着 她",
+        "f1": 0.0
+    },
+    {
+        "text": "you3 liang3 ge4 sheng2 zi5 la1 zhe5 ta1 dui4 ba5 mei3 ge4 sheng2 zi5 la1 li4 dou1 shi4 F suo3 yi3 xiang4 shang4 shi4 R F",
+        "ori_answer": "有两个绳子拉着它对吧每个绳子拉力都是F所以向上是RF",
+        "gen_answer": "有 两 个 生 子 拉 着 他 对 把 每 个 生 子 拉 力 都 是 所 以 向 上 世 界 火",
+        "f1": 0.0
+    },
+    {
+        "text": "chu2 guo4 qu4 hou4 xiang1 dang1 yu2 la1 li4 jiu4 deng3 yu2 er4 fen1 zhi1 yi1 bei4 de5 G wu4",
+        "ori_answer": "除过去后相当于拉力就等于二分之一倍的G物",
+        "gen_answer": "除 过 去 后 相 当 于 拉 力 就 等 于 二 分 之 一 倍 的 物",
+        "f1": 0.0
+    },
+    {
+        "text": "suo3 yi3 wo3 men5 wang3 wang3 ke3 yi3 ba3 shui2 de5 zen3 me5 yang4 hu1 lve4 bu4 ji4 diao4",
+        "ori_answer": "所以我们往往可以把谁的怎么样忽略不计掉",
+        "gen_answer": "所 以 我 们 往 往 可 以 把 谁 的 怎 么 样 忽 略 不 计 调",
+        "f1": 0.0
+    },
+    {
+        "text": "zhi3 bu4 guo4 zai4 xian4 sheng1 huo2 zhong1 a5 wo3 men5 ke3 yi3 dang4 zuo4 dong4 hua2 lun2 zhong4 li4 tai4 xiao3 le5",
+        "ori_answer": "只不过在现生活中啊我们可以当做动滑轮重力太小了",
+        "gen_answer": "只 不 过 在 现 生 活 中 啊 我 们 可 以 当 作 动 滑 轮 重 力 太 小 了",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 zhi3 xu1 yao4 er4 fen1 zhi1 yi1 de5 la1 li4 er4 fen1 zhi1 yi1 G wu4 de5 la1 li4",
+        "ori_answer": "我只需要二分之一的拉力二分之一G物的拉力",
+        "gen_answer": "我 只 需 要 二 分 之 一 的 拉 力 二 分 之 一 盖 的 拉 力",
+        "f1": 0.0
+    },
+    {
+        "text": "a5 liang3 bei4 de5 li4 a5",
+        "ori_answer": "啊两倍的力啊",
+        "gen_answer": "阿 两 被 的 力 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "wo3 men5 gang1 gang1 shuo1 ta1 shi4 ge4 gang4 gan3",
+        "ori_answer": "我们刚刚说它是个杠杆",
+        "gen_answer": "我 们 刚 刚 说 她 是 个 杠 杆",
+        "f1": 0.0
+    },
+    {
+        "text": "shui2 bu4 dong4",
+        "ori_answer": "谁不动",
+        "gen_answer": "谁 不 动",
+        "f1": 0.0
+    },
+    {
+        "text": "ran2 hou4 wo3 zai4 la1 yi1 dian3 zuo3 bian1 dong4 le5",
+        "ori_answer": "然后我再拉一点左边动了",
+        "gen_answer": "然 后 我 在 拉 一 点 左 边 动 了",
+        "f1": 0.0
+    },
+    {
+        "text": "neng2 li3 jie3 ma5",
+        "ori_answer": "能理解吗",
+        "gen_answer": "能 理 解 吗",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 zhe4 yi4 si1 ma5 shi4 bu4 shi4 diao4 zai4 B zhe4 li3 zu3 li4 zai4 zhe4 a5",
+        "ori_answer": "是这意思吗是不是掉在B这里阻力在这啊",
+        "gen_answer": "是 这 意 思 吗 是 不 是 调 在 这 里 组 立 在 这 啊",
+        "f1": 0.0
+    },
+    {
+        "text": "shi4 bu4 A dian3 dao4 B de5 ju4 li2",
+        "ori_answer": "是不A点到B的距离",
+        "gen_answer": "事 不 A 点 到 不 具 离",
+        "f1": 0.0
+    }
+]

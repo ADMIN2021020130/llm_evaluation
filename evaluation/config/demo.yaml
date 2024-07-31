@@ -1,0 +1,134 @@
+Inference:
+  infer_type: glm-130b #glm-130b or glm-6b
+  work_dir:  /tal-vePFS/SFT/gaoshaojun/llm_training_model_evaluation-master/evaluation
+  infer_script: infer_130b.sh
+  out_dir: tmp/glm_130_global_step640_0714_batch
+  num_gpu: 8
+
+# Inference:
+#   infer_type: glm-6b #glm-130b or glm-6b
+#   model_path: /mnt/pfs/jinfeng_team/SFT/share/models/release-model/SFT_6B_v0.7/global_step37650
+#   work_dir: ./
+#   infer_script: test_glm6b.sh
+#   out_dir: tmp/v3.19_6b
+#   num_gpu: 8
+#   max_length: 1024
+  
+  
+TestSet:
+  # complex_size_ape:
+  #   prefix: complex_size_ape
+  #   130b_json_path: math/complex_size/test_data_from_ape_fix.json
+  #   130b_test_script: math/complex_size/eval.py
+  #   6b_json_path: math/complex_size/test_data_from_ape_fix.json
+  #   6b_test_script: math/complex_size/eval.py
+  
+  # complex_size_quadratic:
+  #   prefix: complex_size_quadratic
+  #   130b_json_path: math/complex_size/test_data_from_quadratic_fix.json
+  #   130b_test_script: math/complex_size/eval.py
+  #   6b_json_path: math/complex_size/test_data_from_quadratic_fix.json
+  #   6b_test_script: math/complex_size/eval.py
+
+  # APE210k:
+  #   prefix: ape210k
+  #   130b_json_path: math/ape_280k/Ape210K.jsonl
+  #   130b_test_script: math/ape_280k/eval_jiaoyan.py
+  #   6b_json_path: math/ape_280k/Ape210K.jsonl
+  #   6b_test_script: math/ape_280k/eval_jiaoyan.py
+
+  # Math401:
+  #   prefix: math401
+  #   130b_json_path: math/math401/math401_fix.json
+  #   130b_test_script: math/math401/eval.py
+  #   6b_json_path: math/math401/math401_fix.json
+  #   6b_test_script:  math/math401/eval.py
+  #   temperature: 0.7
+
+  # C-Eval-valid:
+  #   prefix: C-Eval-valid
+  #   130b_json_path: general/C-Eval/C-Eval_no_shot_validation_infer_130.jsonl
+  #   130b_test_script: general/C-Eval/eval.py
+  #   6b_json_path: general/C-Eval/ceval_all_standard_format_v2.json
+  #   6b_test_script: general/C-Eval/eval_6b.py
+  #   temperature: 0.7
+  
+  # C-Eval-xueke:
+  #   prefix: C-Eval-test-xueke
+  #   130b_json_path: general/C-Eval/C-Eval_No_Shot_test_xueke_130b.json
+  #   130b_test_script: general/C-Eval/eval.py
+  #   6b_json_path: general/C-Eval/C-Eval_No_Shot_test_xueke.json
+  #   6b_test_script: general/C-Eval/eval_6b.py
+  #   temperature: 0.7
+  
+  # FewCLUE:
+  #   prefix: fewCLUE
+  #   130b_json_path: general/FewCLUE/fewclue_infer_130.jsonl
+  #   6b_json_path: general/FewCLUE/fewclue_all.json
+  #   6b_test_script: general/FewCLUE/eval_6b.py
+  #   temperature: 0.7
+
+  # TAL_CLUE:
+  #   prefix: tal_CLUE
+  #   130b_json_path: general/TAL_CLUE/tal_clue_fewclue_subset_eval.json
+  #   130b_test_script: general/TAL_CLUE/eval.py
+  #   6b_json_path: general/TAL_CLUE/tal_clue_fewclue_subset_eval.json
+  #   6b_test_script: general/TAL_CLUE/eval.py
+  #   temperature: 0.7
+
+  # MMLU:
+  #   prefix: mmlu
+  #   130b_json_path: general/MMLU/mmlu_prompt_eval.json
+  #   130b_test_script: general/MMLU/eval.py
+  #   6b_json_path: general/MMLU/mmlu_prompt_eval.json
+  #   6b_test_script: general/MMLU/eval.py
+  #   temperature: 0.7  
+
+  # CMMLU:
+  #   prefix: cmmlu
+  #   130b_json_path: general/CMMLU/cmmlu-all.json
+  #   130b_test_script: general/CMMLU/cmmlu_cal_acc.py
+  #   6b_json_path: general/CMMLU/cmmlu-all.json
+  #   6b_test_script: general/CMMLU/cmmlu_cal_acc.py
+
+  # CMMLU-math:
+  #   prefix: cmmlu-math
+  #   130b_json_path: general/CMMLU/cmmlu-math.json
+  #   130b_test_script: general/CMMLU/cmmlu_cal_acc_fix.py
+  #   6b_json_path: general/CMMLU/cmmlu-math.json
+  #   6b_test_script: general/CMMLU/cmmlu_cal_acc_fix.py
+
+  # AGIEval:
+  #  prefix: agieval
+  #  130b_json_path: general/AGIEval/AGIEval_Eval.json
+  #  130b_test_script: general/AGIEval/eval.py
+  #  6b_json_path: general/AGIEval/AGIEval_Eval.json
+  #  6b_test_script: general/AGIEval/eval.py
+  #  temperature: 0.7
+
+  # Question_Input_Ch:
+  #   prefix: Question_Input_Ch-test
+  #   130b_json_path: general/Question_Input/format_chinese_v1.0.jsonl
+  #   130b_test_script: general/Question_Input/eval_ch.py
+  #   6b_json_path: general/Question_Input/format_chinese_v1.0.jsonl
+  #   6b_test_script: general/Question_Input/eval_ch.py
+  #   temperature: 0.7 
+   
+  # Question_Input_En:                         
+  #   prefix: Question_Input_En-test
+  #   130b_json_path: general/Question_Input/format_english_v1.0.jsonl
+  #   130b_test_script: general/Question_Input/eval_en.py
+  #   6b_json_path: general/Question_Input/format_english_v1.0.jsonl
+  #   6b_test_script: general/Question_Input/eval_en.py
+  #   temperature: 0.7
+
+   WMT17:
+     prefix: wmt17
+     130b_json_path: general/WMT17/wmt17_v1.json
+     130b_test_script: general/WMT17/eval.py
+  #   6b_json_path: general/WMT17/wmt17_v1.json
+  #   6b_test_script: general/WMT17/eval.py
+     temperature: 0.7 
+ 
+
+
